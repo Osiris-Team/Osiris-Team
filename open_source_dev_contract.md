@@ -1,4 +1,4 @@
-# Android Application development contract
+#  Contract for development on Open-Source projects
 - A list of changes can be found [here](TODO).
 - This file can be viewed as a raw text file [here](TODO).
 - This contract can be transformed into a .pdf [here](https://md2pdf.netlify.app/).
