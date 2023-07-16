@@ -45,7 +45,7 @@ exploring other options.
     - If this happens after working on the task, that work/time must **not** be paid by the Client.  
 1. Each task is to be submitted as separate Merge Request to the Client's fork of a project with a descriptive name.
 1. The Client is allowed to reject any Merge Request and / or request changes.
-    1. In this case, the Client is also obligated to give clear and concise feedback.
+    - In this case, the Client is also obligated to give clear and concise feedback.
 1. The Client is responsible for testing if the Merge Request fulfils the requested task.
 
 ## Timing
@@ -76,8 +76,9 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 
 Steps:
 1. Developer Consultant sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
-1. Client has 7 days to complete the payment (payment is deemed completed at the time
-Developer Consultant receives confirmation by the payment processor).
+1. Client has 7 days to complete the payment upon receiving the invoice email.
+    - Payment is deemed completed at the time Developer Consultant receives
+      confirmation by the payment processor.
 1. If no confirmation is received within those 7 days,
 a 15% lateness fee can be added to the overall balance per week. Example:
     - Hours (H)	2
