@@ -1,6 +1,6 @@
 #  Contract for development on Open-Source projects
-- A list of changes can be found [here](TODO).
-- This file can be viewed as a raw text file [here](TODO).
+- A list of changes can be found [here](https://github.com/Osiris-Team/Osiris-Team/commits/main/open_source_dev_contract.md).
+- This file can be viewed as a raw text file [here](https://raw.githubusercontent.com/Osiris-Team/Osiris-Team/main/open_source_dev_contract.md).
 - This contract can be transformed into a .pdf [here](https://md2pdf.netlify.app/).
 
 ## Applicable parties
