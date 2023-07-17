@@ -74,11 +74,11 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
     - NZD -> EURO (Client)
 
 Steps:
-0. Developer Consultant sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
+1. Developer Consultant sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
 1. Client has 5 days to complete the payment upon receiving the invoice email.
     - Payment is deemed completed at the time Developer Consultant receives
       confirmation by the payment processor.
-2. If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
+1. If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
 For example:
     - Hours (H)	2
     - Minutes (M)	30
