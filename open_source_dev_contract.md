@@ -75,10 +75,10 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 
 Steps:
 1. Developer Consultant sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
-1. Client has 7 days to complete the payment upon receiving the invoice email.
+1. Client has 5 days to complete the payment upon receiving the invoice email.
     - Payment is deemed completed at the time Developer Consultant receives
       confirmation by the payment processor.
-1. If no confirmation is received after 7 days, a 15% lateness fee can be added to the overall balance per week.
+1. If no payment is received after the above time frame, a 15% lateness fee can be added to the overall balance per week.
 For example:
     - Hours (H)	2
     - Minutes (M)	30
