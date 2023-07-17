@@ -58,8 +58,7 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
     - 2023-05-16
     - 08:00 - 10:20
     - 12:00 - 13:15
-    - Which be processed as 3h 35m via the following formula: (HR * 3) + (HR * 0.35).
-
+    - Which would be processed as 3h 35m via the following formula: (HR * 3) + (HR * 0.35).
 
 ## Payment
 | Proposal date | Hourly Rate (HR, NZD)	| % Increase | Note(s) | Conversion | Exchange rate |
@@ -79,8 +78,8 @@ Steps:
 1. Client has 7 days to complete the payment upon receiving the invoice email.
     - Payment is deemed completed at the time Developer Consultant receives
       confirmation by the payment processor.
-1. If no confirmation is received within those 7 days,
-a 15% lateness fee can be added to the overall balance per week. Example:
+1. If no confirmation is received after 7 days, a 15% lateness fee can be added to the overall balance per week.
+For example:
     - Hours (H)	2
     - Minutes (M)	30
     - July 2023 Invoice: HR * ((H) + (M/100)	59.8
@@ -89,6 +88,3 @@ a 15% lateness fee can be added to the overall balance per week. Example:
     - August 14th	90.95
     - August 21st	104.59
     - August 28th	120.28
-
-
-
