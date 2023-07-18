@@ -43,7 +43,7 @@ exploring other options.
 1. DeveloperConsultant may reject to work on a or multiple tasks.
     - In this case, the DeveloperConsultant is also obligated to give a clear and concise reason.
     - If this happens after working on the task, that work/time must **not** be paid by the Client.  
-1. Each task is to be submitted as separate Merge Request to the Client's fork of a project with a descriptive name.
+1. Each task is to be submitted as separate Merge Request to the Client's fork of a project with a descriptive name or as seperate Merge Requests to the upstream project on per task basis.
 1. The Client is allowed to reject any Merge Request and / or request changes.
     - In this case, the Client is also obligated to give clear and concise feedback.
 1. The Client is responsible for testing if the Merge Request fulfils the requested task.
