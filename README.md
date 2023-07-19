@@ -19,6 +19,8 @@ You can hire me for any software project.
 I started coding in 2019, thus got 4 years of coding experience (currently getting my bachelor's in computer science)
 and can speak English, German, Portuguese, Türkish, and French.
 
+You can view what I am working on right now on the [Roadmap](https://github.com/users/Osiris-Team/projects/1/views/1).
+
 ### Available contracts
 - [Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md)
 </details>
