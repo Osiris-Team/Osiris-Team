@@ -7,7 +7,7 @@
 | Identifier  | Full Name | Address | Github ID |
 | ----------- | ----------- |----------- | ----------- |
 | The Client / Client | ENTER | ENTER | ENTER |
-| DeveloperConsultant | Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
+| The Developer / Developer| Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
 
 ```
 
@@ -32,7 +32,7 @@ DeveloperConsultant, signed DATE.
 as outlined within the [Payment](#Payment) section.
 
 ## Good faith and notice
-- The DeveloperConsultant will act in good faith (i.e will not attempt deception or defraud
+- The The Developer / Developerwill act in good faith (i.e will not attempt deception or defraud
 via methods including but not limited to double billing of hours or making “changes for changes sake” i.e ).
 - Any potential breach of good faith, will lead to a discussion before
 exploring other options.
@@ -40,8 +40,8 @@ exploring other options.
 ## Scope of work
 - The DeveloperConsultant, will receive a list of tasks consisting of for example feature requests or bug fixes.
 - These tasks must be clear and concise. The Client must answer DeveloperConsultant’s questions if there is something unclear.
-- The DeveloperConsultant may reject to work on a or multiple tasks.
-    - In this case, the DeveloperConsultant is also obligated to give a clear and concise reason.
+- The The Developer / Developermay reject to work on a or multiple tasks.
+    - In this case, the The Developer / Developeris also obligated to give a clear and concise reason.
     - If this happens after working on the task, that work/time must **not** be paid by the Client.  
 - Each task is to be submitted as separate Merge Request to the Client's fork of a project with a descriptive name  or as seperate Merge Requests to the upstream project on per task basis.
 - The Client is allowed to reject any Merge Request and / or request changes.
@@ -51,7 +51,7 @@ exploring other options.
 ## Timing
 - Time not spent actively working on a Merge Request (MR)
 (e.g. Research or writing / committing code), is the DeveloperConsultants' to use as they see fit.
-- DeveloperConsultant can multitask at their complete discretion.
+- The Developer / Developercan multitask at their complete discretion.
 - There is no fixed hours to encourage a healthy study/life/work balance.
 - Time tracking can be done via a comment within each MR after the applicable lines of code
 have been pushed such as the following example (using ISO-8601 and 24hr clock):
@@ -74,9 +74,9 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
     - NZD -> EURO (Client)
 
 Steps:<br>
-0. The DeveloperConsultant sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
+0. The The Developer / Developersends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
 1. The Client has 5 days to complete the payment upon receiving the invoice email.
-    - Payment is deemed completed at the time DeveloperConsultant receives
+    - Payment is deemed completed at the time The Developer / Developerreceives
       confirmation by the payment processor.
 2. If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
 <br>For example: HR: 26 & 2h 30m
