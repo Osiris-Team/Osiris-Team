@@ -28,10 +28,9 @@ if sessions_match:
     print("Total Minutes:")
     print(total_minutes)
 
-    updated_sessions_content = f"{session_start}\n{sessions_content.strip()}\n{session_end}"
     updated_total_content = f"{total_start}\nTotal work time: {total_minutes} min\n{total_end}"
 
-    updated_issue_body = re.sub(f"{session_start}(.*?){total_end}", f"{updated_sessions_content}\n\n{updated_total_content}", issue_body, flags=re.DOTALL)
+    updated_issue_body = re.sub(f"{total_start}(.*?){total_end}", f"{updated_total_content}", issue_body, flags=re.DOTALL)
 
     print("Updated Issue Body:")
     print(updated_issue_body)
