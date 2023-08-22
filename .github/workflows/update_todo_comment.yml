@@ -25,29 +25,29 @@ jobs:
       - name: Install dependencies
         run: npm install github-graphql-client
 
-      - name: Get issue comment
-        id: get-comment
+      - name: Get issue body
+        id: get-issue-body
         run: |
-          COMMENT=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          ISSUE_BODY=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github.v3.raw" \
-            https://api.github.com/repos/Osiris-Team/Osiris-Team/issues/4/comments | jq -r '.[0].body')
-          echo "::set-output name=comment::$COMMENT"
+            https://api.github.com/repos/Osiris-Team/Osiris-Team/issues/4 | jq -r '.body')
+          echo "::set-output name=issue_body::$ISSUE_BODY"
 
-      - name: Check for comment modification
-        id: check-comment
+      - name: Check for body modification
+        id: check-issue-body
         run: |
-          INPUT_COMMENT="${{ steps.get-comment.outputs.comment }}"
-          EVENT_COMMENT=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
-          if [[ "$INPUT_COMMENT" == "$EVENT_COMMENT" ]]; then
-            echo "Comment content unchanged. Exiting..."
+          INPUT_ISSUE_BODY="${{ steps.get-issue-body.outputs.issue_body }}"
+          EVENT_ISSUE_BODY=$(jq -r '.issue.body' $GITHUB_EVENT_PATH)
+          if [[ "$INPUT_ISSUE_BODY" == "$EVENT_ISSUE_BODY" ]]; then
+            echo "Issue body content unchanged. Exiting..."
             exit 1
           fi
 
       - name: Extract work sessions content
         id: extract-sessions
         run: |
-          COMMENT=$INPUT_COMMENT
-          SESSIONS=$(echo "$COMMENT" | sed -n '/<!--WORK_SESSIONS_START-->/, /<!--WORK_SESSIONS_END-->/p')
+          ISSUE_BODY=$INPUT_ISSUE_BODY
+          SESSIONS=$(echo "$ISSUE_BODY" | sed -n '/<!--WORK_SESSIONS_START-->/, /<!--WORK_SESSIONS_END-->/p')
           echo "::set-output name=sessions::$SESSIONS"
 
       - name: Calculate total minutes
@@ -63,16 +63,18 @@ jobs:
           done <<< "$SESSIONS"
           echo "::set-output name=total_minutes::$TOTAL_MINUTES"
 
-      - name: Update comment with total
-        id: update-comment
+      - name: Update issue body with total
+        id: update-issue-body
         run: |
-          INPUT_COMMENT="${{ steps.get-comment.outputs.comment }}"
+          INPUT_ISSUE_BODY="${{ steps.get-issue-body.outputs.issue_body }}"
           INPUT_SESSIONS="${{ steps.extract-sessions.outputs.sessions }}"
           INPUT_TOTAL_MINUTES="${{ steps.calculate-total.outputs.total_minutes }}"
           NEW_SESSIONS="<!--WORK_SESSIONS_START-->\n$INPUT_SESSIONS\n<!--WORK_SESSIONS_END-->\n\n"
           NEW_TOTAL="<!--WORK_SESSIONS_TOTAL_START-->\nTotal work time: $INPUT_TOTAL_MINUTES min\n<!--WORK_SESSIONS_TOTAL_END-->\n\n"
-          NEW_COMMENT=$(echo "$INPUT_COMMENT" | sed -e "/<!--WORK_SESSIONS_START-->/,/<!--WORK_SESSIONS_TOTAL_END-->/c\\$NEW_SESSIONS$NEW_TOTAL")
-          echo "$NEW_COMMENT" | gh issue comment 4 --body -
+          NEW_ISSUE_BODY=$(echo "$INPUT_ISSUE_BODY" | sed -e "/<!--WORK_SESSIONS_START-->/,/<!--WORK_SESSIONS_TOTAL_END-->/c\\$NEW_SESSIONS$NEW_TOTAL")
+          echo "$NEW_ISSUE_BODY" > new_issue_body.txt
+          gh issue edit 4 --body new_issue_body.txt
+          rm new_issue_body.txt
 
       - name: Set outputs
         run: |
@@ -82,10 +84,10 @@ jobs:
       - name: Update pull request
         if: ${{ steps.calculate-total.outputs.total_minutes != '0' }}
         run: |
-          INPUT_COMMENT="${{ steps.get-comment.outputs.comment }}"
+          INPUT_ISSUE_BODY="${{ steps.get-issue-body.outputs.issue_body }}"
           INPUT_SESSIONS="${{ steps.extract-sessions.outputs.sessions }}"
           INPUT_TOTAL_MINUTES="${{ steps.calculate-total.outputs.total_minutes }}"
-          echo "Updating comment..."
+          echo "Updating issue body..."
           echo "Sessions: $INPUT_SESSIONS"
           echo "Total Minutes: $INPUT_TOTAL_MINUTES"
           echo "Workflow completed."
