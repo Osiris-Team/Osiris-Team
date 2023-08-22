@@ -1,0 +1,91 @@
+name: Update Issue Comment
+
+on:
+  issue_comment:
+    types:
+      - created
+      - edited
+  push:
+    branches:
+      - main # Change this to your default branch
+
+jobs:
+  update-comment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install github-graphql-client
+
+      - name: Get issue comment
+        id: get-comment
+        run: |
+          COMMENT=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            https://api.github.com/repos/Osiris-Team/Osiris-Team/issues/4/comments | jq -r '.[0].body')
+          echo "::set-output name=comment::$COMMENT"
+
+      - name: Check for comment modification
+        id: check-comment
+        run: |
+          INPUT_COMMENT="${{ steps.get-comment.outputs.comment }}"
+          EVENT_COMMENT=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
+          if [[ "$INPUT_COMMENT" == "$EVENT_COMMENT" ]]; then
+            echo "Comment content unchanged. Exiting..."
+            exit 1
+          fi
+
+      - name: Extract work sessions content
+        id: extract-sessions
+        run: |
+          COMMENT=$INPUT_COMMENT
+          SESSIONS=$(echo "$COMMENT" | sed -n '/<!--WORK_SESSIONS_START-->/, /<!--WORK_SESSIONS_END-->/p')
+          echo "::set-output name=sessions::$SESSIONS"
+
+      - name: Calculate total minutes
+        id: calculate-total
+        run: |
+          SESSIONS=$INPUT_SESSIONS
+          TOTAL_MINUTES=0
+          while IFS= read -r line; do
+            if [[ $line =~ Took.*\(([0-9]+) ]]; then
+              MINUTES=${BASH_REMATCH[1]}
+              TOTAL_MINUTES=$((TOTAL_MINUTES + MINUTES))
+            fi
+          done <<< "$SESSIONS"
+          echo "::set-output name=total_minutes::$TOTAL_MINUTES"
+
+      - name: Update comment with total
+        id: update-comment
+        run: |
+          INPUT_COMMENT="${{ steps.get-comment.outputs.comment }}"
+          INPUT_SESSIONS="${{ steps.extract-sessions.outputs.sessions }}"
+          INPUT_TOTAL_MINUTES="${{ steps.calculate-total.outputs.total_minutes }}"
+          NEW_SESSIONS="<!--WORK_SESSIONS_START-->\n$INPUT_SESSIONS\n<!--WORK_SESSIONS_END-->\n\n"
+          NEW_TOTAL="<!--WORK_SESSIONS_TOTAL_START-->\nTotal work time: $INPUT_TOTAL_MINUTES min\n<!--WORK_SESSIONS_TOTAL_END-->\n\n"
+          NEW_COMMENT=$(echo "$INPUT_COMMENT" | sed -e "/<!--WORK_SESSIONS_START-->/,/<!--WORK_SESSIONS_TOTAL_END-->/c\\$NEW_SESSIONS$NEW_TOTAL")
+          echo "$NEW_COMMENT" | gh issue comment 4 --body -
+
+      - name: Set outputs
+        run: |
+          echo "::set-output name=sessions::$SESSIONS"
+          echo "::set-output name=total_minutes::$TOTAL_MINUTES"
+
+      - name: Update pull request
+        if: ${{ steps.calculate-total.outputs.total_minutes != '0' }}
+        run: |
+          INPUT_COMMENT="${{ steps.get-comment.outputs.comment }}"
+          INPUT_SESSIONS="${{ steps.extract-sessions.outputs.sessions }}"
+          INPUT_TOTAL_MINUTES="${{ steps.calculate-total.outputs.total_minutes }}"
+          echo "Updating comment..."
+          echo "Sessions: $INPUT_SESSIONS"
+          echo "Total Minutes: $INPUT_TOTAL_MINUTES"
+          echo "Workflow completed."
