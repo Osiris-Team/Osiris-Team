@@ -13,81 +13,22 @@ jobs:
   update-comment:
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: npm install github-graphql-client
-
-      - name: Get issue body
-        id: get-issue-body
         run: |
-          ISSUE_BODY=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github.v3.raw" \
-            https://api.github.com/repos/Osiris-Team/Osiris-Team/issues/4 | jq -r '.body')
-          echo "::set-output name=issue_body::$ISSUE_BODY"
+          python -m pip install --upgrade pip
+          pip install PyGithub
 
-      - name: Check for body modification
-        id: check-issue-body
-        run: |
-          INPUT_ISSUE_BODY="${{ steps.get-issue-body.outputs.issue_body }}"
-          EVENT_ISSUE_BODY=$(jq -r '.issue.body' $GITHUB_EVENT_PATH)
-          if [[ "$INPUT_ISSUE_BODY" == "$EVENT_ISSUE_BODY" ]]; then
-            echo "Issue body content unchanged. Exiting..."
-            exit 1
-          fi
-
-      - name: Extract work sessions content
-        id: extract-sessions
-        run: |
-          ISSUE_BODY=$INPUT_ISSUE_BODY
-          SESSIONS=$(echo "$ISSUE_BODY" | sed -n '/<!--WORK_SESSIONS_START-->/, /<!--WORK_SESSIONS_END-->/p')
-          echo "::set-output name=sessions::$SESSIONS"
-
-      - name: Calculate total minutes
-        id: calculate-total
-        run: |
-          SESSIONS=$INPUT_SESSIONS
-          TOTAL_MINUTES=0
-          while IFS= read -r line; do
-            if [[ $line =~ Took.*\(([0-9]+) ]]; then
-              MINUTES=${BASH_REMATCH[1]}
-              TOTAL_MINUTES=$((TOTAL_MINUTES + MINUTES))
-            fi
-          done <<< "$SESSIONS"
-          echo "::set-output name=total_minutes::$TOTAL_MINUTES"
-
-      - name: Update issue body with total
-        id: update-issue-body
-        run: |
-          INPUT_ISSUE_BODY="${{ steps.get-issue-body.outputs.issue_body }}"
-          INPUT_SESSIONS="${{ steps.extract-sessions.outputs.sessions }}"
-          INPUT_TOTAL_MINUTES="${{ steps.calculate-total.outputs.total_minutes }}"
-          NEW_SESSIONS="<!--WORK_SESSIONS_START-->\n$INPUT_SESSIONS\n<!--WORK_SESSIONS_END-->\n\n"
-          NEW_TOTAL="<!--WORK_SESSIONS_TOTAL_START-->\nTotal work time: $INPUT_TOTAL_MINUTES min\n<!--WORK_SESSIONS_TOTAL_END-->\n\n"
-          NEW_ISSUE_BODY=$(echo "$INPUT_ISSUE_BODY" | sed -e "/<!--WORK_SESSIONS_START-->/,/<!--WORK_SESSIONS_TOTAL_END-->/c\\$NEW_SESSIONS$NEW_TOTAL")
-          echo "$NEW_ISSUE_BODY" > new_issue_body.txt
-          gh issue edit 4 --body new_issue_body.txt
-          rm new_issue_body.txt
-
-      - name: Set outputs
-        run: |
-          echo "::set-output name=sessions::$SESSIONS"
-          echo "::set-output name=total_minutes::$TOTAL_MINUTES"
-
-      - name: Update pull request
-        if: ${{ steps.calculate-total.outputs.total_minutes != '0' }}
-        run: |
-          INPUT_ISSUE_BODY="${{ steps.get-issue-body.outputs.issue_body }}"
-          INPUT_SESSIONS="${{ steps.extract-sessions.outputs.sessions }}"
-          INPUT_TOTAL_MINUTES="${{ steps.calculate-total.outputs.total_minutes }}"
-          echo "Updating issue body..."
-          echo "Sessions: $INPUT_SESSIONS"
-          echo "Total Minutes: $INPUT_TOTAL_MINUTES"
-          echo "Workflow completed."
+      - name: Execute Python script
+        run: python update_issue_comment.py
