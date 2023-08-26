@@ -1,5 +1,5 @@
-### Hi there 👋
-You can hire me for any software project.
+### You can hire me for any software project.
+
 <details>
 <summary>Read more</summary>
 
@@ -24,5 +24,8 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 
 ### Available contracts
 - [Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md)
+
+### Contact
+osiris_support@proton.me
 </details>
 
