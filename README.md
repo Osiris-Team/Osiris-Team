@@ -27,5 +27,28 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 
 ### Contact
 osiris_support@proton.me
+
+### Why hire a Freelancer?
+
+**Pros:**
+
+1. **Cost Efficiency:** Freelancers are often more cost-effective because you don't have to provide them with benefits like health insurance, paid time off, or retirement contributions. You also don't have to pay payroll taxes for freelancers.
+
+2. **Flexibility:** You can hire me for specific tasks and change that list whenever you want. This flexibility can be especially beneficial for businesses with fluctuating workloads.
+
+3. **Specialized Skills:** Freelancers often bring specialized skills and expertise to the table. You can find experts in various fields without committing to long-term employment. Freelancers can work from anywhere in the world, giving you access to a broader talent pool and potentially lowering labor costs.
+
+4. **Reduced Overhead:** You don't need to provide freelancers with office space, equipment, or supplies, which can reduce your overhead costs.
+
+**Cons:**
+
+1. **Limited Control:** Freelancers work independently, so you have less control over their work hours, methods, and processes. This can be a disadvantage for projects that require close supervision.
+
+2. **Lack of Loyalty:** Freelancers may not be as invested in your company's success as regular employees. They might prioritize other clients or projects over yours.
+    - The only thing that determines how invested I am is how much money I make. This is true for everybody (except blood-related employees and the ones that build the company from the ground up I guess).
+    - I have a fixed hourly rate that I am satisfied with and that I think is fair.
+
+4. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
+    - I speak multiple languages and you can reach me any time via e-mail, phone, or live chat over Discord.
 </details>
 
