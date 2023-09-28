@@ -47,7 +47,7 @@ osiris_support@proton.me
 <details>
 <summary>Show/Hide full list</summary>
 
-    **Pros:**
+**Pros:**
 
 1. **Cost Efficiency:** Freelancers are often more cost-effective because you don't have to provide them with benefits like health insurance, paid time off, or retirement contributions. You also don't have to pay payroll taxes for freelancers.
 
