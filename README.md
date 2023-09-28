@@ -32,6 +32,23 @@ osiris_support@proton.me
 
 **Pros:**
 
+1. **Cost Efficiency**
+1. **Flexibility**
+1. **Specialized Skills**
+1. **Reduced Overhead** 
+
+**Cons:**
+
+1. **Limited Control**
+1. **Lack of Loyalty**
+1. **Communication Challenges**
+  
+
+<details>
+<summary>Show/Hide full list</summary>
+
+    **Pros:**
+
 1. **Cost Efficiency:** Freelancers are often more cost-effective because you don't have to provide them with benefits like health insurance, paid time off, or retirement contributions. You also don't have to pay payroll taxes for freelancers.
 
 2. **Flexibility:** You can hire me for specific tasks and change that list whenever you want. This flexibility can be especially beneficial for businesses with fluctuating workloads.
@@ -50,5 +67,7 @@ osiris_support@proton.me
 
 4. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
     - I speak multiple languages and you can reach me any time via e-mail, phone, or live chat over Discord.
+</details>
+
 </details>
 
