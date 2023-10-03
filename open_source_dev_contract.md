@@ -11,7 +11,7 @@
 | The Client / Client | ENTER | ENTER | ENTER |
 | The Developer / Developer | Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
 
-Selected payment rate: INSERT_RATE (Basic or Pro)
+### Selected payment rate: INSERT_RATE (Basic or Pro)
 
 ```
 
