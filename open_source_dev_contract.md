@@ -1,9 +1,11 @@
 #  Contract for development on Open-Source projects
+
 - A list of changes can be found [here](https://github.com/Osiris-Team/Osiris-Team/commits/main/open_source_dev_contract.md).
 - This file can be viewed as a raw text file [here](https://raw.githubusercontent.com/Osiris-Team/Osiris-Team/main/open_source_dev_contract.md).
 - This contract can be transformed into a .pdf [here](https://md2pdf.netlify.app/) or into .docx/.odt (word document) [here](https://www.vertopal.com/en/convert/md-to-odt).
 
 ## Applicable parties
+
 | Identifier  | Full Name | Address | Github ID |
 | ----------- | ----------- |----------- | ----------- |
 | The Client / Client | ENTER | ENTER | ENTER |
@@ -26,6 +28,7 @@ Client, signed DATE.
 Developer, signed DATE.
 
 ## Validity
+
 - All parties have freely agreed to the following and look forward to working together.
 - Any previous versions are superseded upon mutual acceptance and transmission of a dated signed copy.
 - Termination is possible anytime, by all parties.
@@ -34,12 +37,14 @@ Developer, signed DATE.
 as outlined within the [Payment](#Payment) section.
 
 ## Good faith and notice
+
 - The Developer will act in good faith (i.e will not attempt deception or defraud
 via methods including but not limited to double billing of hours or making “changes for changes sake” i.e ).
 - Any potential breach of good faith, will lead to a discussion before
 exploring other options.
 
 ## Scope of work
+
 - The Developer, will receive a list of tasks consisting of for example feature requests or bug fixes.
 - These tasks must be clear and concise. The Client must answer Developer’s questions if there is something unclear.
 - The Developer may reject to work on a or multiple tasks.
@@ -51,6 +56,7 @@ exploring other options.
 - The Client is responsible for testing if the Merge Request fulfils the requested task.
 
 ## Timing
+
 - Time not spent actively working on a Merge Request (MR)
 (e.g. Research or writing / committing code), is the Developer' to use as they see fit.
 - The Developer can multitask at their complete discretion.
@@ -65,6 +71,7 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 ## Payment
 
 ### Basic rate: 15€ per hour
+
 | Proposal date | Hourly Rate (HR) in EURO	| % Increase | 
 | ------------- | ---------------------     | ---------- |
 | 2023-10-03    | 15                        | 117.28  |
@@ -72,23 +79,27 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 | 2023-06-25    | 12.79                     | 100     | 
 
 ### Pro rate: 30€ per hour
+
 | Proposal date | Hourly Rate (HR) in EURO | % Increase | 
 | ------------- | --------------------- | ---------- | 
 | 2023-10-03    | 30                    | 100        | 
 
 The "Pro" rate includes some benefits over the "Basic" rate:
+
 - The Client can set deadlines for tasks.
   - The Developer must agree to the deadline in writing and can disagree within 3 days, otherwise, the Developer agrees automatically.
   - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks is cut by 50%.
 - The Clients' tasks get prioritized over Clients with the "Basic" rate.
 
 ### Details
+
 - The rate used in the payment will be the rate with the latest proposal date and mentioned at the top of the contract.
 - Payment is to be made to Developer's PayPal email.
 - Payment processing fees and/or currency conversion fees are to be paid by the Developer.
 - If there is a currency conversion, the conversion rate at the time of payment should be used.
 
-Steps:<br>
+Steps:
+
 1. The Developer sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
 2. The Client has 5 days to complete the payment upon receiving the invoice email.
     - Payment is deemed completed at the time the Developer receives
