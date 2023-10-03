@@ -9,6 +9,8 @@
 | The Client / Client | ENTER | ENTER | ENTER |
 | The Developer / Developer | Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
 
+Selected payment rate: INSERT_RATE (Basic or Pro)
+
 ```
 
 
@@ -61,17 +63,30 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
     - Which would be processed as 3h 35m via the following formula: (HR * 3) + (HR * 0.35).
 
 ## Payment
-| Proposal date | Hourly Rate (HR, NZD)	| % Increase | Note(s) | Conversion | Exchange rate |
-| ------------- | --------------------- | ---------- | ------- | ---------- | ------------- |
-| 2023-07-16    | 26                    | 113.04     | EURO	   | 14.46      | 0.5561        |
-| 2023-06-25    | 23                    | 100          | EURO, 2023-07-16 | 12.79 |           |
-| 2023-06-25    | 23                    | 100          | USD, Exchangerate.host| 14.13 | N/A  |
 
-- The rate used in the payment will be the rate with the latest proposal date incided within contract signed by all aplliable parties.
+### Basic rate: 15€ per hour
+| Proposal date | Hourly Rate (HR) in EURO	| % Increase | 
+| ------------- | ---------------------     | ---------- |
+| 2023-10-03    | 15                        | 117.28  |
+| 2023-07-16    | 14.46                     | 113.04  | 
+| 2023-06-25    | 12.79                     | 100     | 
+
+### Pro rate: 30€ per hour
+| Proposal date | Hourly Rate (HR) in EURO | % Increase | 
+| ------------- | --------------------- | ---------- | 
+| 2023-10-03    | 30                    | 100        | 
+
+The "Pro" rate includes some benefits over the "Basic" rate:
+- The Client can set deadlines for tasks.
+  - The Developer must agree to the deadline in writing and can disagree within 3 days, otherwise, the Developer agrees automatically.
+  - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks is cut by 50%.
+- The Clients' tasks get prioritized over Clients with the "Basic" rate.
+
+### Details
+- The rate used in the payment will be the rate with the latest proposal date and mentioned at the top of the contract.
 - Payment is to be made to Developer's PayPal email.
-- Payment processing fees and / or currency conversion fees are to be paid by the parties as applicable e.g.
-    - NZD -> USD (Client) then USD -> EURO (Developer)
-    - NZD -> EURO (Client)
+- Payment processing fees and/or currency conversion fees are to be paid by the Developer.
+- If there is a currency conversion, the conversion rate at the time of payment should be used.
 
 Steps:<br>
 1. The Developer sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
