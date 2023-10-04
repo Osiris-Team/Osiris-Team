@@ -22,8 +22,12 @@ and can speak English, German, Portuguese, Türkish, and French.
 You can view what I am working on right now in my [TODO-List](https://github.com/Osiris-Team/Osiris-Team/issues/4)
 and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Team/projects/1/views/1).
 
-### Available contracts
-- [Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md)
+### Rates
+- [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md#basic-rate-15-per-hour)
+- [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md#pro-rate-30-per-hour)
+- [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md#pro-rate-60-per-hour)
+
+[Full Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md)
 
 ### Contact
 osiris_support@proton.me
