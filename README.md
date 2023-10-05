@@ -33,14 +33,7 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 osiris_support@proton.me
 
 ### Why hire me?
-
-<div align="center">
-  
-  ![](https://raw.githubusercontent.com/Osiris-Team/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  
-  ![](https://raw.githubusercontent.com/Osiris-Team/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
 
 **Pros:**
 
