@@ -13,8 +13,8 @@
 - Java (cross-platform server/app/web development)
 - C/C++ (native application development)
 - SQL (database design, development, and management)
-- JavaScript/HTML/CSS (static/dynamic website development)
-- Electron/TypeScript/Vue (cross-platform desktop app development)
+- JavaScript, HTML, CSS (static/dynamic website development)
+- Electron, TypeScript, Vue, React (cross-platform desktop app development)
 
 ### About me
 My name is Arman Kandel, I started coding in 2019, thus got 4 years of coding experience (currently getting my bachelor's in computer science)
