@@ -93,8 +93,8 @@ The "Pro" rate includes some benefits over the "Basic" rate:
 
 In the interest of fairness;
 - Clients of the same tier will recive equal treatement in terms of work priority.
-- When / If a "Pro" rate client is taken on board, "Basic" rate clients are to be advised e.g. 
-  "Due to a recent increase in the number of "Pro" rated clients (who's tasks have priority), I may take some additional time to respond. My appologies."
+- When / If a / additional higher rate client(s) is / are taken on board, "Basic" rate clients are to be advised e.g. 
+  "Due to a recent increase in the number of higher tier rated clients (who's tasks have priority), I may take some additional time to respond. My appologies."
 
 ### Details
 
