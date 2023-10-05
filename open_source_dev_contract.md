@@ -70,6 +70,11 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 
 ## Payment
 
+In the interest of fairness;
+- Clients of the same tier will recive equal treatement in terms of work priority.
+- When / If a / additional higher rate client(s) is / are taken on board, "Basic" rate clients are to be advised e.g. 
+  "Due to a recent increase in the number of higher tier rated clients (who's tasks have priority), I may take some additional time to respond. My appologies."
+
 ### Basic rate: 15€ per hour
 
 The optimal choice for occasional developer needs when time constraints are not a factor.
@@ -113,9 +118,8 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 ### Details
 
 - The rate used in the payment will be the rate with the latest proposal date and mentioned at the top of the contract.
-- Payment is to be made to Developer's PayPal email.
-- Payment processing fees and/or currency conversion fees are to be paid by the Developer.
-- If there is a currency conversion, the conversion rate at the time of payment should be used.
+- Payment is to be made to Developer's PayPal email (osiris[underScore]support[aT]proton[DoT]me).
+- Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type.
 
 Steps:
 
@@ -124,13 +128,13 @@ Steps:
     - Payment is deemed completed at the time the Developer receives
       confirmation by the payment processor.
 3. If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
-<br>For example: HR: 26 & 2h 30m
+<br>For example:
 
-| Date                                   | NZD  |
+| Date                                   | EURO  |
 | -------------------------------------- | ---- |
-| July 2023 Invoice sent | 59.8 |
-| August 3rd | 68.77 |
-| August 7th | 79.09 |
-| August 14th | 90.95 |
-| August 21st | 104.59 |
-| August 28th | 120.28 |
+| July 2023 Invoice | 30.00 |
+| August 3rd | 34.5 |
+| August 7th | 39.67 |
+| August 14th | 45.62 |
+| August 21st | 52.47 |
+| August 28th | 60.34 |
