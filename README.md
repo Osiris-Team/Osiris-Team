@@ -54,6 +54,7 @@ osiris_support@proton.me
 **Common Negative Biases Against Freelancers:**
 
 1. **Limited Control:** Freelancers work independently, so you have less control over their work hours, methods, and processes. This can be a disadvantage for projects that require close supervision.
+    - Depending on your rate we can have phone calls and even online or in-person meetings.
 
 1. **Lack of Loyalty:** Freelancers may not be as invested in your company's success as regular employees. They might prioritize other clients or projects over yours.
     - The only thing that determines how invested I am is how much money I make. This is true for everybody (except blood-related employees and the ones that build the company from the ground up I guess).
