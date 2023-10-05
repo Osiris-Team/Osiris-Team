@@ -11,7 +11,7 @@
 | The Client / Client | ENTER | ENTER | ENTER |
 | The Developer / Developer | Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
 
-### Selected payment rate: INSERT_RATE (Basic or Pro)
+### Selected payment rate: INSERT_RATE (Basic, Pro or Expert)
 
 ```
 
@@ -70,7 +70,14 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 
 ## Payment
 
+In the interest of fairness;
+- Clients of the same tier will recive equal treatement in terms of work priority.
+- When / If a / additional higher rate client(s) is / are taken on board, "Basic" rate clients are to be advised e.g. 
+  "Due to a recent increase in the number of higher tier rated clients (who's tasks have priority), I may take some additional time to respond. My appologies."
+
 ### Basic rate: 15€ per hour
+
+The optimal choice for occasional developer needs when time constraints are not a factor.
 
 | Proposal date | Hourly Rate (HR) in EURO	| % Increase | 
 | ------------- | ---------------------     | ---------- |
@@ -79,6 +86,8 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 | 2023-06-25    | 12.79                     | 100     | 
 
 ### Pro rate: 30€ per hour
+
+The best option when seeking a dependable developer for medium to large projects.
 
 | Proposal date | Hourly Rate (HR) in EURO | % Increase | 
 | ------------- | --------------------- | ---------- | 
@@ -91,10 +100,20 @@ The "Pro" rate includes some benefits over the "Basic" rate:
   - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks is cut by 50%.
 - The Clients' tasks get prioritized over Clients with the "Basic" rate.
 
-In the interest of fairness;
-- Clients of the same tier will recive equal treatement in terms of work priority.
-- When / If a / additional higher rate client(s) is / are taken on board, "Basic" rate clients are to be advised e.g. 
-  "Due to a recent increase in the number of higher tier rated clients (who's tasks have priority), I may take some additional time to respond. My appologies."
+### Expert rate: 60€ per hour
+
+The superior choice when you need a reliable and fast working, long-term Developer for larger projects.
+
+| Proposal date | Hourly Rate (HR) in EURO | % Increase | 
+| ------------- | --------------------- | ---------- | 
+| 2023-10-04    | 60                    | 100        | 
+
+The "Expert" rate includes all "Pro" benefits and provides some additional benefits:
+
+- The Client can set online live meetings or meetings in person if possible.
+- The Client can get the Developers' phone number, on request and call any time.
+- The Client can benefit from live-chat and screen-sharing support.
+- The Clients' tasks get prioritized over Clients with the "Basic" and "Pro" rates.
 
 ### Details
 
