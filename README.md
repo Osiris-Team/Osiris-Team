@@ -1,4 +1,5 @@
 ### You can hire me for any software project.
+#### Rates: 15€/h, 30€/h and 60€/h.
 
 <details>
 <summary>Read more</summary>
