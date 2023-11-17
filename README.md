@@ -32,7 +32,9 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 [Full Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md)
 
 ### Contact
-osiris_support@proton.me
+- E-Mail: osiris_support@proton.me
+- Live-Chat (Discord): ak_osiris
+- Phone (Whatsapp, SMS): +49 174 215 995 8
 
 ### Why hire me?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
