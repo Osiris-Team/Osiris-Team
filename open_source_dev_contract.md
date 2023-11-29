@@ -85,6 +85,8 @@ The optimal choice for occasional developer needs when time constraints are not 
 | 2023-07-16    | 14.46                     | 113.04  | 
 | 2023-06-25    | 12.79                     | 100     | 
 
+- Minimum 1 hour of work per week guaranteed.
+
 ### Pro rate: 30€ per hour
 
 The best option when seeking a dependable developer for medium to large projects.
@@ -95,6 +97,7 @@ The best option when seeking a dependable developer for medium to large projects
 
 The "Pro" rate includes some benefits over the "Basic" rate:
 
+- Minimum 4 hours of work per week guaranteed.
 - The Client can set deadlines for tasks.
   - The Developer must agree to the deadline in writing and can disagree within 3 days, otherwise, the Developer agrees automatically.
   - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks is cut by 50%.
@@ -110,6 +113,7 @@ The superior choice when you need a reliable and fast working, long-term Develop
 
 The "Expert" rate includes all "Pro" benefits and provides some additional benefits:
 
+- Minimum 8 hours of work per week guaranteed.
 - The Client can set online live meetings or meetings in person if possible.
 - The Client can get the Developers' phone number, on request and call any time.
 - The Client can benefit from live-chat and screen-sharing support.
@@ -117,6 +121,7 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 
 ### Details
 
+- If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week.
 - The rate used in the payment will be the rate with the latest proposal date and mentioned at the top of the contract.
 - Payment is to be made to Developer's PayPal email (osiris[underScore]support[aT]proton[DoT]me).
 - Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type.
