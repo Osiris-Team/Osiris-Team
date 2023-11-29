@@ -25,11 +25,11 @@ You can view what I am working on right now in my [TODO-List](https://github.com
 and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Team/projects/1/views/1).
 
 ### Rates
-- [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md#basic-rate-15-per-hour)
-- [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md#pro-rate-30-per-hour)
-- [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md#pro-rate-60-per-hour)
+- [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate-15-per-hour)
+- [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
+- [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
 
-[Full Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/open_source_dev_contract.md)
+[Full Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
 
 ### Contact
 - E-Mail: osiris_support@proton.me
