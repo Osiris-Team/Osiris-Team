@@ -122,6 +122,7 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 ### Details
 
 - If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week.
+- The Client can change the minimum guaranteed work hours at any time to something lower (also to 0 hours) by contacting the Developer.
 - The rate used in the payment will be the rate with the latest proposal date and mentioned at the top of the contract.
 - Payment is to be made to Developer's PayPal email (osiris[underScore]support[aT]proton[DoT]me).
 - Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type.
