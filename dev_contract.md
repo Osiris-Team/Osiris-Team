@@ -70,11 +70,11 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
 
 ## License and Copyright
 
-Everything created by the Developer ( is subject to the following slightly modified MIT license:
+Slightly modified MIT license:
 ```
 Copyright 2023 Arman Ruben Kandel (Osiris-Team)
 
-Permission is hereby granted to the Client obtaining a copy of the commits/changes, software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted to the Client obtaining a copy of the Developers' commits/changes, software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
