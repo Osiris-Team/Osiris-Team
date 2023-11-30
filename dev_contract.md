@@ -68,6 +68,19 @@ have been pushed such as the following example (using ISO-8601 and 24hr clock):
     - 12:00 - 13:15
     - Which would be processed as 3h 35m via the following formula: (HR * 3) + (HR * 0.35).
 
+## License and Copyright
+
+Everything created by the Developer ( is subject to the following slightly modified MIT license:
+```
+Copyright 2023 Arman Ruben Kandel (Osiris-Team)
+
+Permission is hereby granted to the Client obtaining a copy of the commits/changes, software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
 ## Payment
 
 In the interest of fairness;
