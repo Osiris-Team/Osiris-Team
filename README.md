@@ -60,7 +60,7 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
     - There are minimum guaranteed work hours per week depending on your rate and you can specify the methods and processes if you want.
 
 1. **Lack of Loyalty:** Freelancers may not be as invested in your company's success as regular employees. They might prioritize other clients or projects over yours.
-    - I have a fixed hourly rate that I am satisfied with and that I think is fair.
+    - I have a fixed hourly rate that I am satisfied with and that I think is fair. Clients with the same rate have equal priority.
 
 1. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
     - I speak multiple languages and there are multiple ways of communication depending on the selected rate.
