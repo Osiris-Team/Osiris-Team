@@ -29,7 +29,7 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 - [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
 - [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
 
-[Full Contract for development on Open-Source projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
+[Full Contract for development on software projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
 
 ### Contact
 - E-Mail: osiris_support@proton.me
