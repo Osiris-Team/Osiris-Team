@@ -41,7 +41,7 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 1. **Cost Efficiency**
 1. **Flexibility**
 1. **Specialized Skills**
-1. **Reduced Overhead Costs** 
+1. **Reduced Overhead Costs**
 
 <details>
 <summary>Show/Hide full list</summary>
@@ -65,6 +65,12 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 1. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
     - I speak multiple languages and there are multiple ways of communication depending on the selected rate.
 </details>
+
+# Workflow
+- The initial consulting is free. Please try to be as specific and clear as possible. I will answer all your questions and explain why something can/can't be done. 1 free online meeting of 15 minutes is possible.
+- You will get updates regarding the progress, after every 8 hours of work.
+- The code will be uploaded to GitHub under a private repository where only you and I have access. This allows us to track all code changes.
+- I will work on something until it is finished, or your budget limit is hit, thus tell me your preferred and max budgets. 
 
 </details>
 
