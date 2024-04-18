@@ -11,11 +11,11 @@
 
 
 ### My strong suits are...
-- Java (cross-platform server/app/web development)
+- Java (cross-platform server/desktop/mobile/website development)
 - C/C++ (native application development)
 - SQL (database design, development, and management)
 - JavaScript, HTML, CSS (static/dynamic website development)
-- Electron, TypeScript, Vue, React (cross-platform desktop app development)
+- Electron, TypeScript, Vue, React (cross-platform desktop/web app development)
 
 ### About me
 My name is Arman Kandel, I started coding in 2019, thus got 6 years of coding experience (currently getting my bachelor's in computer science)
