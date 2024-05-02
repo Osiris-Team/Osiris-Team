@@ -34,6 +34,7 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 ### Contact
 - E-Mail: osiris_support@proton.me
 - Live-Chat (Discord): ak_osiris
+- Live-Chat (no login): https://autoplug.one/chat
 
 ### Why hire me?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
