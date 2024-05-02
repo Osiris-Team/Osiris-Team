@@ -1,5 +1,5 @@
 ### You can hire me for any software project.
-#### Rates: 15€/h, 30€/h and 60€/h.
+#### Rates: 15€/h, 30€/h and 60€/h. [Click here for live-chat (no login required).](https://autoplug.one/chat)
 
 <details>
 <summary>Read more</summary>
