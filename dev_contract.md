@@ -12,6 +12,7 @@
 | The Developer / Developer | Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
 
 ### Selected payment rate: INSERT_RATE (Basic, Pro or Expert)
+### Selected payment logic: INSERT_OPTION (Prepaid, Postpaid, FPW Subscription or FP Subscription)
 
 ```
 
@@ -79,7 +80,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-## Payment
+## Payment rates
 
 In the interest of fairness;
 - Clients of the same tier will recive equal treatement in terms of work priority.
@@ -138,13 +139,14 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 - Payment is to be made to Developer's PayPal email osiris_support@pm.me (osiris[underScore]support[aT]pm[DoT]me).
 - Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type.
 
-Steps:
+## Payment logic
 
-1. The Developer sends an invoice via email to the Client covering a timespan (usually a month) of unpaid work.
-2. The Client has 5 days to complete the payment upon receiving the invoice email.
+There are different ways to handle payments (listed below), for different kinds of customers.
+For each payment type following terms also apply:
+- The Client has 5 days to complete the payment upon receiving the invoice email or the due date.
     - Payment is deemed completed at the time the Developer receives
       confirmation by the payment processor.
-3. If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
+- If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
 <br>For example:
 
 | Date                                   | EURO  |
@@ -155,3 +157,41 @@ Steps:
 | August 14th | 45.62 |
 | August 21st | 52.47 |
 | August 28th | 60.34 |
+
+### Prepaid (Before Work Commences)
+Ideal for clients who prefer to manage their budget closely and want to ensure that work is paid for in advance, minimizing financial risk.
+
+1. The Developer and Client agree on the amount of work hours to be paid.
+2. The Developer sends an invoice via email to the Client for those hours.
+3. The Client pays the invoice.
+4. The Developer works (according to the selected rate) until the paid hours are completed. 
+
+### Postpaid (After Work Completion)
+Suitable for clients who prefer to pay for work after it has been completed, providing them with the opportunity to review the work before making a payment. This option is only available for Clients that completed at least 500€ in Prepaid payments.
+
+1. The Developer and Client agree on a timespan (usually a month).
+2. The Developer works (according to the selected rate). 
+3. The Developer sends an invoice via email to the Client covering the work hours of that timespan.
+4. The Client pays the invoice.
+
+### FPW Subscription (Fixed Price and Work)
+Best for clients with ongoing projects who require a predictable monthly billing cycle and a consistent number of work hours.
+
+1. The Developer and Client agree on a timespan (usually a month) and a fixed amount of work hours for that timespan.
+2. The Developer sends an invoice via email to the Client covering that timespan.
+3. The Client pays the invoice.
+4. The Developer works (according to the selected rate). 
+
+### FP Subscription (Fixed Price)
+Perfect for clients who prefer a fixed monthly cost instead of paying for the complete project at once
+and benefit from fast project completion.
+This option is only available for Clients that completed at least 500€ in Prepaid payments.
+
+1. The Developer and Client agree on a timespan (usually a month) and a fixed price for that timespan
+and a total/maximum amount of work hours estimate (for all tasks / the complete project) that once reached, further work is paused and the Client notified.
+2. The Developer sends an invoice via email to the Client with the fixed price for that timespan.
+3. The Client pays the invoice.
+4. The Developer works (according to the selected rate) and is encouraged to exceed the work hours / the price for that timespan,
+which in turn prolongs the minimum runtime of the subscription to match the total costs.  
+
+
