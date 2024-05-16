@@ -11,8 +11,8 @@
 | The Client / Client | ENTER | ENTER | ENTER |
 | The Developer / Developer | Arman Ruben Kandel | Annakirchstraße 181, 41063 Germany | Osiris-Team |
 
-### Selected payment rate: INSERT_RATE (Basic, Pro or Expert)
-### Selected payment logic: INSERT_OPTION (Prepaid, Postpaid, FPW Subscription or FP Subscription)
+### Selected payment rate: INSERT (Basic, Pro or Expert)
+### Selected payment logic: INSERT (Prepaid, Postpaid, FPW Subscription or FP Subscription)
 
 ```
 
