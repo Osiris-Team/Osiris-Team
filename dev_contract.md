@@ -142,7 +142,7 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 ## Payment logic
 
 There are different ways to handle payments (listed below), for different kinds of customers.
-For each payment type following terms also apply:
+For each payment logic following terms also apply:
 - The Client has 5 days to complete the payment upon receiving the invoice email or the due date.
     - Payment is deemed completed at the time the Developer receives
       confirmation by the payment processor.
