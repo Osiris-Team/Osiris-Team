@@ -71,7 +71,7 @@ and collaborate with server staff easily.
 It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
 and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
 called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, webservers in general, SSL,
-HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool into a Java project. Some examples of the interaction with files (outdated):
+HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool. The File-Manager looks like this (outdated):
 
 <div align="center">
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/file-manager.gif?raw=true"></img>
