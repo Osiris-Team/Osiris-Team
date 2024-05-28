@@ -17,6 +17,7 @@
 - JavaScript, HTML, CSS (static/dynamic website development)
 - Electron, TypeScript, Vue, React (cross-platform desktop/web app development)
 
+
 ### About me
 My name is Arman Kandel, I started coding in 2019, thus got 6 years of coding experience (currently getting my bachelor's in computer science)
 and can speak English, German, Portuguese, Türkish, and French.
@@ -24,12 +25,23 @@ and can speak English, German, Portuguese, Türkish, and French.
 You can view what I am working on right now in my [TODO-List](https://github.com/Osiris-Team/Osiris-Team/issues/4)
 and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Team/projects/1/views/1).
 
+
+### Technologies used
+- IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
+- Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
+GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
+- Libraries & Frameworks: Vaadin, Hilla, Spring-Boot, Tomcat, React, Angular, Bootstrap, Vue.js,
+Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
+LibGDX, Maven, Gradle.
+
+
 ### Rates
 - [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate-15-per-hour)
 - [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
 - [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
 
 [Full Contract for development on software projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
+
 
 ### Contact
 - E-Mail: osiris_support@proton.me
@@ -66,6 +78,34 @@ and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Te
 1. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
     - I speak multiple languages and there are multiple ways of communication depending on the selected rate.
 </details>
+
+### Projects
+You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
+and below you can find some curated projects that give you a good overview of my strengths:
+
+#### AutoPlug-Web and Client
+AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
+This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol,
+and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally wasn't used due to Virtual-Threads and the comparatively simpler Java Sockets-API:
+
+<div>
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
+</div>
+
+AutoPlug-Web which can be accessed at [autoplug.one](https://autoplug.one/), is more of a centralized admin panel to manage servers
+and collaborate with server staff easily.
+It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
+and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
+called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, web-servers in general, SSL,
+HTML/CSS/JavaScript, etc:
+
+<div align="center">
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/online-console.gif?raw=true"></img>
+</div>
+<div align="center">
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/file-manager.gif?raw=true"></img>
+</div>
+
 
 ### Workflow
 - The initial consulting is free. Please try to be as specific and clear as possible. I will answer all your questions and explain why something can/can't be done. 1 free online meeting of 15 minutes is possible.
