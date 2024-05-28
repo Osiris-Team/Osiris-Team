@@ -60,7 +60,7 @@ and below you can find some curated projects that give you a good overview of my
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
 This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, web-scraping, JSON,
-and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to release of Virtual-Threads and the comparatively simpler Java Sockets-API. Have a peek while running some tasks (outdated):
+and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to release of Virtual-Threads and the comparatively simpler Java Sockets-API. This is what it looks like when running some tasks (outdated):
 
 <div>
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
@@ -71,11 +71,8 @@ and collaborate with server staff easily.
 It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
 and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
 called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, webservers in general, SSL,
-HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool into a Java project. Some examples of the interaction with files and the terminal (outdated):
+HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool into a Java project. Some examples of the interaction with files (outdated):
 
-<div align="center">
-    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/online-console.gif?raw=true"></img>
-</div>
 <div align="center">
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/file-manager.gif?raw=true"></img>
 </div>
