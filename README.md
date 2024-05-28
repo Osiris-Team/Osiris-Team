@@ -79,8 +79,8 @@ HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHo
 
 #### Desku
 [Desku](https://github.com/Osiris-Team/Desku) is a low-code, developer-first Java framework for developing cross-platform desktop, web, android/ios apps in one codebase.
-I like the Java language, however its GUI libraries feel outdated, thus this project exists. Under the hood it's based on Webviews, meaning it uses HTML/CSS/JS to
-display the frontend, which theoretically makes it compatible with all frontend frameworks out there. The focus here is to provide a developer-friendly, simple interface and
+I like the Java language, however its GUI libraries feel outdated and something like this doesn't really exist, thus this project. Under the hood it's based on Webviews, meaning it uses HTML/CSS/JS to
+display the frontend, which theoretically makes it compatible with all frontend frameworks out there. The focus here is to provide a developer-friendly, simple API and
 handle the more complex things in Desku. This project expanded my knowledge of webserver internals and made me discover some annoyances of the Java language
 (with regards of developing libraries for other developers which you can find at [my-jsrs](https://github.com/Osiris-Team/my-jsrs)).
 
