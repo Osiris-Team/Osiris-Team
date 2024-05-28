@@ -2,7 +2,7 @@
 #### Rates: 15€/h, 30€/h and 60€/h. [Click here for live-chat (no login required).](https://autoplug.one/chat)
 
 <details>
-<summary>Read more</summary>
+<summary><h2>Read more</h2></summary>
 
 ### I am offering...
 - software development of any kind.
@@ -51,10 +51,7 @@ LibGDX, Maven, Gradle.
 ### Why hire me?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
 
-1. **Cost Efficiency**
-1. **Flexibility**
-1. **Specialized Skills**
-1. **Reduced Overhead Costs**
+You will benefit from cost efficiency, flexibility, specialized skills, and reduced overhead costs.
 
 <details>
 <summary>View general arguments for/against freelancers</summary>
@@ -79,6 +76,7 @@ LibGDX, Maven, Gradle.
     - I speak multiple languages and there are multiple ways of communication depending on the selected rate.
 </details>
 
+
 ### Projects
 You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
 and below you can find some curated projects that give you a good overview of my strengths:
@@ -97,7 +95,7 @@ and collaborate with server staff easily.
 It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
 and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
 called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, webservers in general, SSL,
-HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) into the Java project. Some examples of the interaction with files and the terminal (outdated):
+HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool into a Java project. Some examples of the interaction with files and the terminal (outdated):
 
 <div align="center">
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/online-console.gif?raw=true"></img>
@@ -107,7 +105,7 @@ HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHo
 </div>
 
 
-### Workflow
+### Typical workflow
 - The initial consulting is free. Please try to be as specific and clear as possible. I will answer all your questions and explain why something can/can't be done. 1 free online meeting of 15 minutes is possible.
 - You will get updates regarding the progress, after every 8 hours of work.
 - The code will be uploaded to GitHub under a private repository where only you and I have access. This allows us to track all code changes.
