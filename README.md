@@ -53,6 +53,54 @@ LibGDX, Maven, Gradle.
 
 You will benefit from cost efficiency, flexibility, specialized skills, and reduced overhead costs.
 
+### Projects
+You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
+and below you can find some curated projects that give you a good overview of my strengths:
+
+#### AutoPlug-Web and Client
+AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
+This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, web-scraping, JSON,
+and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to release of Virtual-Threads and the comparatively simpler Java Sockets-API. Have a peek while running some tasks (outdated):
+
+<div>
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
+</div>
+
+AutoPlug-Web which can be accessed at [autoplug.one](https://autoplug.one/), is more of a centralized admin panel to manage servers
+and collaborate with server staff easily.
+It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
+and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
+called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, webservers in general, SSL,
+HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool into a Java project. Some examples of the interaction with files and the terminal (outdated):
+
+<div align="center">
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/online-console.gif?raw=true"></img>
+</div>
+<div align="center">
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/file-manager.gif?raw=true"></img>
+</div>
+
+#### Desku
+[Desku](https://github.com/Osiris-Team/Desku) is a low-code, developer-first Java framework for developing cross-platform desktop, web, android/ios apps in one codebase.
+I like the Java language, however its GUI libraries feel outdated, thus this project exists. Under the hood it's based on Webviews, meaning it uses HTML/CSS/JS to
+display the frontend, which theoretically makes it compatible with all frontend frameworks out there. The focus here is to provide a developer-friendly, simple interface and
+handle the more complex things in Desku. This project expanded my knowledge of webserver internals and made me discover some annoyances of the Java language
+(with regards of developing libraries for other developers which you can find at [my-jsrs](https://github.com/Osiris-Team/my-jsrs)).
+
+<div align="center">
+    <img src="https://github.com/Osiris-Team/Desku/blob/main/docs/img.png?raw=true"></img>
+</div>
+
+#### Android Apps
+I worked on multiple Open-Source Android apps like [OpenLauncher](https://github.com/Osiris-Team/openlauncher),
+[Simple-Calendar](https://github.com/Osiris-Team/Simple-Calendar), 
+[Notally](https://github.com/Osiris-Team/Notally),
+[VinylMusicPlayer](https://github.com/Osiris-Team/VinylMusicPlayer), etc. where I fixed bugs and implemented new features for clients.
+This taught me how to interact with existing code, fight the need of changing everything and focus on adding the requested changes only.
+I also achieved a basic understanding of the Android API and the Kotlin language. These projects also enhanced the skill of debugging/navigating 
+other developers code efficiently.
+
+
 <details>
 <summary>View general arguments for/against freelancers</summary>
 
@@ -75,34 +123,6 @@ You will benefit from cost efficiency, flexibility, specialized skills, and redu
 1. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
     - I speak multiple languages and there are multiple ways of communication depending on the selected rate.
 </details>
-
-
-### Projects
-You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
-and below you can find some curated projects that give you a good overview of my strengths:
-
-#### AutoPlug-Web and Client
-AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
-This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, JSON,
-and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to release of Virtual-Threads and the comparatively simpler Java Sockets-API. Have a peek while running some tasks (outdated):
-
-<div>
-    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
-</div>
-
-AutoPlug-Web which can be accessed at [autoplug.one](https://autoplug.one/), is more of a centralized admin panel to manage servers
-and collaborate with server staff easily.
-It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
-and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
-called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, webservers in general, SSL,
-HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with my [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) tool into a Java project. Some examples of the interaction with files and the terminal (outdated):
-
-<div align="center">
-    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/online-console.gif?raw=true"></img>
-</div>
-<div align="center">
-    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/file-manager.gif?raw=true"></img>
-</div>
 
 
 ### Typical workflow
