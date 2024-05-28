@@ -19,7 +19,7 @@
 
 
 ### About me
-My name is Arman Kandel, I started coding in 2019, thus got 6 years of coding experience (currently getting my bachelor's in computer science)
+My name is A. Ruben Kandel, I started coding in 2019, thus got 6 years of coding experience (currently getting my bachelor's in computer science)
 and can speak English, German, Portuguese, Türkish, and French.
 
 You can view what I am working on right now in my [TODO-List](https://github.com/Osiris-Team/Osiris-Team/issues/4)
