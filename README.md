@@ -57,7 +57,7 @@ LibGDX, Maven, Gradle.
 1. **Reduced Overhead Costs**
 
 <details>
-<summary>Show/Hide full list</summary>
+<summary>View general arguments for/against freelancers</summary>
 
 1. **Cost Efficiency:** Freelancers are often more cost-effective because you don't have to provide them with benefits like health insurance, paid time off, or retirement contributions. You also don't have to pay payroll taxes for freelancers.
 
@@ -85,8 +85,8 @@ and below you can find some curated projects that give you a good overview of my
 
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
-This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol,
-and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally wasn't used due to Virtual-Threads and the comparatively simpler Java Sockets-API:
+This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, JSON,
+and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to release of Virtual-Threads and the comparatively simpler Java Sockets-API. Have a peek while running some tasks (outdated):
 
 <div>
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
@@ -96,8 +96,8 @@ AutoPlug-Web which can be accessed at [autoplug.one](https://autoplug.one/), is 
 and collaborate with server staff easily.
 It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
 and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
-called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, web-servers in general, SSL,
-HTML/CSS/JavaScript, etc:
+called [Vaadin](https://vaadin.com/). Developing this part of the software taught me about handling the complexity of larger applications, webservers in general, SSL,
+HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHook](https://github.com/Osiris-Team/PayHook) library, SQL databases and code generation to integrate such a database with [jSQL-Gen](https://github.com/Osiris-Team/jSQL-Gen) into the Java project. Some examples of the interaction with files and the terminal (outdated):
 
 <div align="center">
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/online-console.gif?raw=true"></img>
