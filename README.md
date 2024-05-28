@@ -97,6 +97,10 @@ This taught me how to interact with existing code, fight the need of changing ev
 I also achieved a basic understanding of the Android API and the Kotlin language. These projects also enhanced the skill of debugging/navigating 
 other developers code efficiently.
 
+<div align="center">
+    <img src="https://lh3.googleusercontent.com/LYUDWiiqyTSiwzbPsJnYhfTzA3kUAoYgRy_1mpKTZOuLtpaMTaNdPKm8Xesm5mxA_zUSIGy6RO4PxhUnIDgTgbmroxgVpudnc0XKWW0cByZXppI2WGo"></img>
+</div>
+
 
 <details>
 <summary>View general arguments for/against freelancers</summary>
