@@ -94,7 +94,7 @@ I worked on multiple Open-Source Android apps like [OpenLauncher](https://github
 [Notally](https://github.com/Osiris-Team/Notally),
 [VinylMusicPlayer](https://github.com/Osiris-Team/VinylMusicPlayer), etc. where I fixed bugs and implemented new features for clients.
 This taught me how to interact with existing code, fight the need of changing everything and focus on adding the requested changes only.
-I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also enhanced debugging/navigating 
+I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also made me better ar debugging/navigating 
 other developers code.
 
 <div align="center">
