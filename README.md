@@ -60,7 +60,7 @@ and below you can find some curated projects that give you a good overview of my
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
 This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, web-scraping, JSON,
-and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to release of Virtual-Threads and the comparatively simpler Java Sockets-API. This is what it looks like when running some tasks (outdated):
+and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to the release of Virtual-Threads and the comparatively simpler Java Sockets-API. This is what it looks like when running some tasks (outdated):
 
 <div>
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
@@ -78,11 +78,11 @@ HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHo
 </div>
 
 #### Desku
-[Desku](https://github.com/Osiris-Team/Desku) is a low-code, developer-first Java framework for developing cross-platform desktop, web, android/ios apps in one codebase.
+[Desku](https://github.com/Osiris-Team/Desku) is a low-code, developer-first Java framework with UI components, for developing cross-platform desktop, web, android/ios apps in one codebase.
 I like the Java language, however its GUI libraries feel outdated and something like this doesn't really exist, thus this project. Under the hood it's based on Webviews, meaning it uses HTML/CSS/JS to
 display the frontend, which theoretically makes it compatible with all frontend frameworks out there. The focus here is to provide a developer-friendly, simple API and
 handle the more complex things in Desku. This project expanded my knowledge of webserver internals and made me discover some annoyances of the Java language
-(with regards of developing libraries for other developers which you can find at [my-jsrs](https://github.com/Osiris-Team/my-jsrs)).
+(which you can find over at [my-jsrs](https://github.com/Osiris-Team/my-jsrs)).
 
 <div align="center">
     <img src="https://github.com/Osiris-Team/Desku/blob/main/docs/img.png?raw=true"></img>
