@@ -19,12 +19,14 @@
 
 
 ### About me
-My name is A. Ruben Kandel, I started coding in 2019, thus got 6 years of coding experience (currently getting my bachelor's in computer science)
-and can speak English, German, Portuguese, Türkish, and French.
+My name is A. Ruben Kandel, I started coding in 2019, giving me 6 years of coding experience and
+currently pursuing a bachelor's degree in computer science.
+I can speak English, German, Portuguese, Türkish, and also a bit of French.
 
-You can view what I am working on right now in my [TODO-List](https://github.com/Osiris-Team/Osiris-Team/issues/4)
-and checkout larger projects on the [Roadmap](https://github.com/users/Osiris-Team/projects/1/views/1).
+Since early 2023, I have also been working as a freelance software developer for clients worldwide.
+Although I handle a wide range of tasks, my primary focus is on building custom full-stack websites.
 
+Feel free to read more about my skills and projects below, and don't hesitate to contact me!
 
 ### Technologies used
 - IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
