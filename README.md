@@ -59,7 +59,7 @@ You will benefit from cost efficiency, flexibility, specialized skills, and redu
 You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
 and below you can find some curated projects that give you a good overview of my strengths:
 
-### Custom ERP Web-Panel
+#### Custom ERP Web-Panel
 
 A fully custom ERP Web-Panel with individual features requested by the client like an integrated web-based pdf-editor with presets and automatic data filling, a products database and customer information data storage, as well as multi-user collaboration capabalities and integrated chat and google synchronized calendar.
 
