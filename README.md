@@ -59,6 +59,14 @@ You will benefit from cost efficiency, flexibility, specialized skills, and redu
 You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
 and below you can find some curated projects that give you a good overview of my strengths:
 
+### Custom ERP Web-Panel
+
+A fully custom ERP Web-Panel with individual features requested by the client like an integrated web-based pdf-editor with presets and automatic data filling, a products database and customer information data storage, as well as multi-user collaboration capabalities and integrated chat and google synchronized calendar.
+
+<div>
+    <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/cd2364c4a6330223cc7bde60e17755ba-1720227973490/Screenshot%202024-07-06%20030538.png"></img>
+</div>
+
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
 This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, web-scraping, JSON,
