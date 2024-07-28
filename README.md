@@ -2,7 +2,7 @@
 #### Rates: 15€/h, 30€/h and 60€/h. [Click here for live-chat (no login required).](https://autoplug.one/chat)
 
 <details>
-<summary><h2>Read more</h2></summary>
+<summary><h3>Read more</h3></summary>
 
 ### I am offering...
 - software development of any kind.
@@ -95,7 +95,7 @@ handle the more complex things in Desku. This project expanded my knowledge of w
 (which you can find over at [my-jsrs](https://github.com/Osiris-Team/my-jsrs)).
 
 <div align="center">
-    <img src="https://github.com/Osiris-Team/Desku/blob/main/docs/img.png?raw=true"></img>
+    <img src="https://github.com/user-attachments/assets/c63050a4-a160-46c5-80b1-a1c9f8e5b25d"></img>
 </div>
 
 #### Android Apps
