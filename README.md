@@ -64,7 +64,7 @@ and below you can find some curated projects that give you a good overview of my
 A fully custom ERP Web-Panel with individual features requested by the client like an integrated web-based pdf-editor with presets and automatic data filling, a products database and customer information data storage, as well as multi-user collaboration capabalities and integrated chat and google synchronized calendar.
 
 <div>
-    <img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/project_item/attachment/cd2364c4a6330223cc7bde60e17755ba-1720227973490/Screenshot%202024-07-06%20030538.png"></img>
+    <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
 #### AutoPlug-Web and Client
