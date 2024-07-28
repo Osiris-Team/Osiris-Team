@@ -94,8 +94,9 @@ display the frontend, which theoretically makes it compatible with all frontend 
 handle the more complex things in Desku. This project expanded my knowledge of webserver internals and made me discover some annoyances of the Java language
 (which you can find over at [my-jsrs](https://github.com/Osiris-Team/my-jsrs)).
 
+
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/c63050a4-a160-46c5-80b1-a1c9f8e5b25d"></img>
+    <img src="https://github.com/user-attachments/assets/8e9641ad-ae03-4413-babe-4eb0094a08fc"></img>
 </div>
 
 #### Android Apps
