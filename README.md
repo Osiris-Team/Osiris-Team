@@ -1,34 +1,32 @@
 ### You can hire me for any software project.
-#### Rates: 15€/h, 30€/h and 60€/h. [Click here for live-chat (no login required).](https://autoplug.one/chat)
+#### Rates: 15€/h, 30€/h and 60€/h. [Live-Chat (no login).](https://autoplug.one/chat)
 
 <details>
 <summary><h3>Read more</h3></summary>
 
-### I am offering...
-- software development of any kind.
-- code reviews.
-- bug fixes and/or enhancements on existing projects.
+### Services
+- Software development across various platforms.
+- Detailed code reviews.
+- Bug fixes and enhancements for existing projects.
 
+### Core Competencies
+- **Java**: Cross-platform server, desktop, mobile, and web development.
+- **C/C++**: Native application development.
+- **SQL**: Database design, development, and management.
+- **JavaScript, HTML, CSS**: Static and dynamic website development.
+- **Python**: AI and LLM-driven applications.
+- **Electron, TypeScript, Vue, React**: Cross-platform desktop and web app development.
 
-### My strong suits are...
-- Java (cross-platform server/desktop/mobile/website development)
-- C/C++ (native application development)
-- SQL (database design, development, and management)
-- JavaScript, HTML, CSS (static/dynamic website development)
-- Electron, TypeScript, Vue, React (cross-platform desktop/web app development)
+### About Me
+My name is A. Ruben Kandel. I began coding in 2019, which has given me six years of hands-on experience. 
+Currently, I am pursuing a bachelor's degree in computer science. I am fluent in English, German, Portuguese, Turkish, and have basic proficiency in French.
 
+Since early 2023, I have been working as a freelance software developer, serving clients globally.
+While my expertise covers a wide range of tasks, my primary focus lies in developing custom full-stack websites.
 
-### About me
-My name is A. Ruben Kandel, I started coding in 2019, giving me 6 years of coding experience and
-currently pursuing a bachelor's degree in computer science.
-I can speak English, German, Portuguese, Türkish, and also a bit of French.
+Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
-Since early 2023, I have also been working as a freelance software developer for clients worldwide.
-Although I handle a wide range of tasks, my primary focus is on building custom full-stack websites.
-
-Feel free to read more about my skills and projects below, and don't hesitate to contact me!
-
-### Technologies used
+### Technologies
 - IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
 - Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
 GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
@@ -42,7 +40,7 @@ LibGDX, Maven, Gradle.
 - [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
 - [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
 
-[Full Contract for development on software projects](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
+[View the full contract for development on software projects here.](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
 
 
 ### Contact
@@ -51,9 +49,9 @@ LibGDX, Maven, Gradle.
 - Live-Chat (no login): https://autoplug.one/chat
 
 ### Why hire me?
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
+You will benefit from cost efficiency & flexibility & specialized skills.
 
-You will benefit from cost efficiency, flexibility, specialized skills, and reduced overhead costs.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
 
 ### Projects
 You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
@@ -67,16 +65,16 @@ A fully custom ERP Web-Panel with individual features requested by the client li
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
+#### Airport Camera Web-Panel
+
+Allows live video streaming of different airport cameras and controlling them, with an option to track incoming airplanes by using AI (object detection).
+This was fun and challenging since it required handling the individual images of the video stream myself and required several performance optimizations because spikes in processing due to object detection.
+
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
-This is accomplished mainly by the AutoPlug-Client. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, web-scraping, JSON,
-and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to the release of Virtual-Threads and the comparatively simpler Java Sockets-API. This is what it looks like when running some tasks (outdated):
+Its made of 2 parts which optionally can communicate with each other.
 
-<div>
-    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
-</div>
-
-AutoPlug-Web which can be accessed at [autoplug.one](https://autoplug.one/), is more of a centralized admin panel to manage servers
+AutoPlug-Web can be accessed at [autoplug.one](https://autoplug.one/) and is more of a centralized admin panel to manage servers
 and collaborate with server staff easily.
 It communicates with the AutoPlug-Client and is responsible for critical/sensitive operations like showing/adding/updating/removing files based on user permissions
 and providing access to terminals. This requires a high level of security and trust from its users, which is given by using a backend and security focused framework
@@ -86,6 +84,16 @@ HTML/CSS/JavaScript, payment systems like PayPal/Stripe integrated via my [PayHo
 <div align="center">
     <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/file-manager.gif?raw=true"></img>
 </div>
+
+
+This is accompanied by the AutoPlug-Client, which contains most of the automation features. Developing it taught me a lot about Java in general, Server-Client communication, the TCP protocol, REST-APIs, web-scraping, JSON,
+and even made me consider very interesting alternatives like [Netty](https://netty.io/), which finally was not implemented due to the release of Virtual-Threads and the comparatively simpler Java Sockets-API. This is what it looks like when running some tasks (outdated):
+
+<div>
+    <img src="https://github.com/Osiris-Team/AutoPlug-Client/blob/master/docs/tasks.gif?raw=true"></img>
+</div>
+
+
 
 #### Desku
 [Desku](https://github.com/Osiris-Team/Desku) is a low-code, developer-first Java framework with UI components, for developing cross-platform desktop, web, android/ios apps in one codebase.
@@ -108,40 +116,32 @@ This taught me how to interact with existing code, fight the need of changing ev
 I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also made me better at debugging/navigating 
 other developers code.
 
-<div align="center">
-    <img src="https://lh3.googleusercontent.com/LYUDWiiqyTSiwzbPsJnYhfTzA3kUAoYgRy_1mpKTZOuLtpaMTaNdPKm8Xesm5mxA_zUSIGy6RO4PxhUnIDgTgbmroxgVpudnc0XKWW0cByZXppI2WGo"></img>
-</div>
 
+### Typical Workflow
+- **Initial Consultation**: Free. Please provide as much detail as possible. I offer one free 15-minute online meeting.
+- **Progress Updates**: Provided every 8 hours of work.
+- **Code Access**: Code will be uploaded to a private GitHub repository, accessible only to you and me for transparent version control.
+- **Budgeting**: I work on tasks until completion or until the budget limit is reached. Please specify your preferred and maximum budgets.
 
 <details>
-<summary>View general arguments for/against freelancers</summary>
+<summary>General Considerations: Hiring Freelancers</summary>
 
-1. **Cost Efficiency:** Freelancers are often more cost-effective because you don't have to provide them with benefits like health insurance, paid time off, or retirement contributions. You also don't have to pay payroll taxes for freelancers.
+**Advantages:**
+1. **Cost Efficiency**: No need to provide benefits, office space, or equipment.
+2. **Flexibility**: Hire for specific tasks with the ability to adjust as needed.
+3. **Specialized Skills**: Access experts from a global talent pool.
+4. **Reduced Overhead**: Lower operating costs due to remote work.
 
-2. **Flexibility:** You can hire me for specific tasks and change that list whenever you want. This flexibility can be especially beneficial for businesses with fluctuating workloads.
+**Common Concerns:**
+1. **Limited Control**: Freelancers work independently, which may limit control over processes.  
+    - Solution: I offer guaranteed work hours per week, with options for specified methods and processes.
+  
+2. **Lack of Loyalty**: Freelancers might prioritize other clients or projects.  
+    - Solution: My rate structure ensures equal priority across clients.
 
-3. **Specialized Skills:** Freelancers often bring specialized skills and expertise to the table. You can find experts in various fields without committing to long-term employment. Freelancers can work from anywhere in the world, giving you access to a broader talent pool and potentially lowering labor costs.
-
-4. **Reduced Overhead Costs:** You don't need to provide freelancers with office space, equipment, or supplies, which can reduce your overhead costs.
-
-**Common Negative Biases Against Freelancers:**
-
-1. **Limited Control:** Freelancers work independently, so you have less control over their work hours, methods, and processes. This can be a disadvantage for projects that require close supervision.
-    - There are minimum guaranteed work hours per week depending on your rate and you can specify the methods and processes if you want.
-
-1. **Lack of Loyalty:** Freelancers may not be as invested in your company's success as regular employees. They might prioritize other clients or projects over yours.
-    - I have a fixed hourly rate that I am satisfied with and that I think is fair. Clients with the same rate have equal priority.
-
-1. **Communication Challenges:** Managing remote freelancers can be challenging, especially if they are in different time zones or speak different languages. Effective communication is crucial.
-    - I speak multiple languages and there are multiple ways of communication depending on the selected rate.
-</details>
-
-
-### Typical workflow
-- The initial consulting is free. Please try to be as specific and clear as possible. I will answer all your questions and explain why something can/can't be done. 1 free online meeting of 15 minutes is possible.
-- You will get updates regarding the progress, after every 8 hours of work.
-- The code will be uploaded to GitHub under a private repository where only you and I have access. This allows us to track all code changes.
-- I will work on something until it is finished, or your budget limit is hit, thus tell me your preferred and max budgets. 
+3. **Communication Challenges**: Time zone differences and language barriers can hinder communication.  
+    - Solution: I am multilingual and offer various communication channels based on your selected rate.
 
 </details>
 
+</details>
