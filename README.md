@@ -68,7 +68,7 @@ A fully custom ERP Web-Panel with individual features requested by the client li
 #### Airport Camera Web-Panel
 
 Allows live video streaming of different airport cameras and controlling them, with an option to track incoming airplanes by using AI (object detection).
-This was fun and challenging since it required handling the individual images of the video stream myself and required several performance optimizations because spikes in processing due to object detection.
+This was fun and challenging since it required handling the individual images of the video stream myself and required several performance optimizations due to object detection causing spikes in processing.
 
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
