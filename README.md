@@ -65,7 +65,7 @@ A fully custom ERP Web-Panel with individual features requested by the client li
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
-#### Airport Camera Web-Panel
+#### Airport Camera Control Web-Panel
 
 Allows live video streaming of different airport cameras and controlling them, with an option to track incoming airplanes by using AI (object detection).
 This was fun and challenging since it required handling the individual images of the video stream myself and required several performance optimizations due to object detection causing spikes in processing.
