@@ -49,7 +49,6 @@ LibGDX, Maven, Gradle.
 - Live-Chat (no login): https://autoplug.one/chat
 
 ### Why hire me?
-You will benefit from cost efficiency & flexibility & specialized skills.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
 
