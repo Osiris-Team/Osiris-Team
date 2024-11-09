@@ -18,7 +18,7 @@
 - **Electron, TypeScript, Vue, React**: Cross-platform desktop and web app development.
 
 ### About Me
-My name is A. Ruben Kandel. I began coding in 2019, which has given me six years of hands-on experience. 
+My name is A. Ruben Kandel. I began coding in 2019, which has given me six years of hands-on experience, mainly in open-source projects. 
 Currently, I am pursuing a bachelor's degree in computer science. I am fluent in English, German, Portuguese, Turkish, and have basic proficiency in French.
 
 Since early 2023, I have been working as a freelance software developer, serving clients globally.
