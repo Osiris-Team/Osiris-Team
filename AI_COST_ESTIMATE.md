@@ -20,7 +20,7 @@ In your response, please include the following structured sections:
 4. **Cost Estimation:**
    - Sum up all predicted work hours.
    - Multiply the total hours by €80 to calculate the initial total price.
-   - Apply an efficiency discount by dividing the total price by 2.
+   - Apply an efficiency discount by dividing the total hours by 2.
    - Clearly show all calculation steps.
    - **Final Price:** Present the discounted total as the final price.
 
