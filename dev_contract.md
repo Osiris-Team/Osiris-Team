@@ -87,25 +87,17 @@ In the interest of fairness;
 - When / If a / additional higher rate client(s) is / are taken on board, "Basic" rate clients are to be advised e.g. 
   "Due to a recent increase in the number of higher tier rated clients (who's tasks have priority), I may take some additional time to respond. My appologies."
 
-### Basic rate: 15€ per hour
+### Basic rate
+#### 20€ per hour
 
 The optimal choice for occasional developer needs when time constraints are not a factor.
 
-| Proposal date | Hourly Rate (HR) in EURO	| % Increase | 
-| ------------- | ---------------------     | ---------- |
-| 2023-10-03    | 15                        | 117.28  |
-| 2023-07-16    | 14.46                     | 113.04  | 
-| 2023-06-25    | 12.79                     | 100     | 
-
 - Minimum 1 hour of work per week guaranteed.
 
-### Pro rate: 30€ per hour
+### Pro rate
+#### 40€ per hour
 
 The best option when seeking a dependable developer for medium to large projects.
-
-| Proposal date | Hourly Rate (HR) in EURO | % Increase | 
-| ------------- | --------------------- | ---------- | 
-| 2023-10-03    | 30                    | 100        | 
 
 The "Pro" rate includes some benefits over the "Basic" rate:
 
@@ -115,13 +107,10 @@ The "Pro" rate includes some benefits over the "Basic" rate:
   - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks is cut by 50%.
 - The Clients' tasks get prioritized over Clients with the "Basic" rate.
 
-### Expert rate: 60€ per hour
+### Expert rate
+#### 80€ per hour
 
 The superior choice when you need a reliable and fast working, long-term Developer for larger projects.
-
-| Proposal date | Hourly Rate (HR) in EURO | % Increase | 
-| ------------- | --------------------- | ---------- | 
-| 2023-10-04    | 60                    | 100        | 
 
 The "Expert" rate includes all "Pro" benefits and provides some additional benefits:
 
