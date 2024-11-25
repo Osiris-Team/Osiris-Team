@@ -41,8 +41,8 @@ I am fluent in English, German, Portuguese, Turkish, and have basic proficiency 
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
 ### Projects
-You can view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
-and below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths:
+Below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths.
+You can also view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers) if you are interested.
 
 #### Custom ERP Web-Panel
 
