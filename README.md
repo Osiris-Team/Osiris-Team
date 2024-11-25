@@ -4,6 +4,15 @@
 <details>
 <summary><h3>Read more</h3></summary>
 
+## Index
+- [Services](#Services)
+- [Core Competencies](#Core-Competencies)
+- [About Me](#About-Me)
+- [Projects](#Projects)
+- [Technologies](#Technologies)
+- [Rates](#Rates)
+- [Contact](#Contact)
+
 ### Services
 - Software development across various platforms.
 - Detailed code reviews.
@@ -25,28 +34,6 @@ Since early 2023, I have been working as a freelance software developer, serving
 While my expertise covers a wide range of tasks, my primary focus lies in developing custom full-stack websites.
 
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
-
-### Technologies
-- IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
-- Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
-GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
-- Libraries & Frameworks: Vaadin, Hilla, Spring-Boot, Tomcat, React, Angular, Bootstrap, Vue.js,
-Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
-LibGDX, Maven, Gradle.
-
-
-### Rates
-- [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate-15-per-hour)
-- [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
-- [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
-
-[View the full contract for development on software projects here.](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
-
-
-### Contact
-- E-Mail: osiris_support@proton.me
-- Live-Chat (Discord): ak_osiris
-- Live-Chat (no login): https://autoplug.one/chat
 
 ### Why hire me?
 
@@ -114,6 +101,29 @@ I worked on multiple Open-Source Android apps like [OpenLauncher](https://github
 This taught me how to interact with existing code, fight the need of changing everything and focus on adding the requested changes only.
 I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also made me better at debugging/navigating 
 other developers code.
+
+
+### Technologies
+- IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
+- Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
+GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
+- Libraries & Frameworks: Vaadin, Hilla, Spring-Boot, Tomcat, React, Angular, Bootstrap, Vue.js,
+Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
+LibGDX, Maven, Gradle.
+
+
+### Rates
+- [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate-15-per-hour)
+- [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
+- [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
+
+[View the full contract for development on software projects here.](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
+
+
+### Contact
+- E-Mail: osiris_support@proton.me
+- Live-Chat (Discord): ak_osiris
+- Live-Chat (no login): https://autoplug.one/chat
 
 
 ### Typical Workflow
