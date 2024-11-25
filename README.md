@@ -34,16 +34,15 @@
 
 ### About Me
 My name is A. Ruben Kandel. I began coding in 2019, which has given me six years of hands-on experience, mainly in open-source projects. 
-Currently, I am pursuing a bachelor's degree in computer science. I am fluent in English, German, Portuguese, Turkish, and have basic proficiency in French.
-
 Since early 2023, I have been working as a freelance software developer, serving clients globally.
-While my expertise covers a wide range of tasks, my primary focus lies in developing custom full-stack websites.
+While my expertise covers a wide range of tasks, my primary focus lies in developing tailored full-stack websites.
 
+I am fluent in English, German, Portuguese, Turkish, and have basic proficiency in French.
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
 ### Projects
-You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
-and below you can find some curated projects that give you a good overview of my strengths:
+You can view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
+and below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths:
 
 #### Custom ERP Web-Panel
 
@@ -60,7 +59,7 @@ This was a challenging request since it required handling the individual images 
 Besides it also had to communicate with the cameras via a proprietary, older SDK.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
+    <img src="https://github.com/user-attachments/assets/9ce4dd85-a8e4-4862-bb70-ede1b5a1bb6d"></img>
 </div>
 
 #### AutoPlug-Web and Client
