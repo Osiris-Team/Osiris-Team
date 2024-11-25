@@ -5,7 +5,6 @@
 <summary><h3>Read more</h3></summary>
 
 <p align="center">
-    
     [Services](#Services) - [Core Competencies](#Core-Competencies) - [About Me](#About-Me) - [Projects](#Projects) - [Technologies](#Technologies) - [Rates](#Rates) - [Contact](#Contact)
 </p>
 
