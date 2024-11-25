@@ -1,8 +1,16 @@
+
+<div align="center">
+    
 ### You can hire me for any software project.
-#### Rates: 15€/h, 30€/h and 60€/h. [Live-Chat (no login).](https://autoplug.one/chat)
+#### Rates: 20€, 40€ and 80€/h. [Live-Chat (no login).](https://autoplug.one/chat)
+</div>
 
 <details>
 <summary><h3>Read more</h3></summary>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile"></img>
+</div>
 
 <p align="center">
     <a href="https://github.com/Osiris-Team/#about-me">About Me</a> -
@@ -13,7 +21,7 @@
 
 ### Services
 - Software development across various platforms.
-- Detailed code reviews.
+- Detailed code reviews, mentorships and consulting.
 - Bug fixes and enhancements for existing projects.
 
 ### Core Competencies
@@ -33,10 +41,6 @@ While my expertise covers a wide range of tasks, my primary focus lies in develo
 
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
-### Why hire me?
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile)
-
 ### Projects
 You can view a list of my most successful Open-Source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers),
 and below you can find some curated projects that give you a good overview of my strengths:
@@ -45,14 +49,19 @@ and below you can find some curated projects that give you a good overview of my
 
 A fully custom ERP Web-Panel with individual features requested by the client like an integrated web-based pdf-editor with presets and automatic data filling, a products database and customer information data storage, as well as multi-user collaboration capabalities and integrated chat and google synchronized calendar.
 
-<div>
+<div align="center">
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
 #### Airport Camera Control Web-Panel
 
 Allows live video streaming of different airport cameras and controlling them, with an option to track incoming airplanes by using AI (object detection).
-This was fun and challenging since it required handling the individual images of the video stream myself and required several performance optimizations due to object detection causing spikes in processing.
+This was a challenging request since it required handling the individual images of the video stream and several performance optimizations due to object detection causing spikes in processing.
+Besides it also had to communicate with the cameras via a proprietary, older SDK.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
+</div>
 
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
