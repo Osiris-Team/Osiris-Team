@@ -9,7 +9,7 @@
 <summary><h3>Read more</h3></summary>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team\&rank_icon=percentile"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>
 </div>
 
 <p align="center">
@@ -120,9 +120,9 @@ LibGDX, Maven, Gradle.
 
 
 ### Rates
-- [Basic rate: 15€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate-15-per-hour)
-- [Pro rate: 30€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-30-per-hour)
-- [Expert rate: 60€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate-60-per-hour)
+- [Basic rate: 20€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate)
+- [Pro rate: 40€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate)
+- [Expert rate: 80€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate)
 
 [View the full contract for development on software projects here.](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
 
