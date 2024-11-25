@@ -5,7 +5,10 @@
 <summary><h3>Read more</h3></summary>
 
 <p align="center">
-    [Services](#Services) - [Core Competencies](#Core-Competencies) - [About Me](#About-Me) - [Projects](#Projects) - [Technologies](#Technologies) - [Rates](#Rates) - [Contact](#Contact)
+    <a href="https://github.com/Osiris-Team/#about-me">About Me</a> -
+    <a href="https://github.com/Osiris-Team/#projects">Projects</a> -
+    <a href="https://github.com/Osiris-Team/#rates">Rates</a> -
+    <a href="https://github.com/Osiris-Team/#contact">Contact</a>
 </p>
 
 ### Services
