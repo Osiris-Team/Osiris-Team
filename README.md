@@ -44,6 +44,14 @@ Please explore more about my skills and projects below. Don’t hesitate to reac
 Below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths.
 You can also view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers) if you are interested.
 
+Take a look at some client reviews (average 4.8/5 stars), all of them can be found here on [Fiverr](https://www.fiverr.com/osiristeam):
+
+> Really enjoyed working with him, put alot of effort into the work and solved all my issues. Really recommend working with him and would love to work with him again in the future! - l_12346, Australia
+
+> I had hired several developers from Fiverr, however everyone failed except this developer. He was the only one able to identify my problem and solve it. - domenicherge649, Germany
+
+> Great communication and fast replies, delivered what was asked for. Before any important decision, always asked which approach was in my best interest. - mani_monti, Portugal
+
 #### Custom ERP Web-Panel
 
 A fully custom ERP Web-Panel with individual features requested by the client like an integrated web-based pdf-editor with presets and automatic data filling, a products database and customer information data storage, as well as multi-user collaboration capabalities and integrated chat and google synchronized calendar.
@@ -52,7 +60,7 @@ A fully custom ERP Web-Panel with individual features requested by the client li
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
-#### Airport Camera Control Web-Panel
+#### Airport Camera Control Web-Panel 
 
 Allows live video streaming of different airport cameras and controlling them, with an option to track incoming airplanes by using AI (object detection).
 This was a challenging request since it required handling the individual images of the video stream and several performance optimizations due to object detection causing spikes in processing.
