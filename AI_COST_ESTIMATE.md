@@ -6,8 +6,9 @@ In your response, please include the following structured sections:
    - Provide a clear and concise summary of the project title and the main objectives based on the client's request.
 
 2. **Project Details:**
-   - Present a bullet-point list of implementation details.
-   - For each item, include:
+   - Present a table of implementation details.
+   - Columns:
+     - Title.
      - A brief description.
      - Predicted work hours.
      - Any assumptions made.
