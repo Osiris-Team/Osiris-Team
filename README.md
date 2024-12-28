@@ -5,9 +5,6 @@
 #### Rates: 20€, 40€ and 80€/h. [Live-Chat (no login).](https://autoplug.one/chat)
 </div>
 
-<details>
-<summary><h3>Read more</h3></summary>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>
 </div>
@@ -41,6 +38,9 @@ I am fluent in English, German, Portuguese, Turkish, and have basic proficiency 
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
 ### Projects
+<details>
+<summary>Click to show content</summary>
+
 Below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths.
 You can also view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers) if you are interested.
 
@@ -116,6 +116,8 @@ This taught me how to interact with existing code, fight the need of changing ev
 I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also made me better at debugging/navigating 
 other developers code.
 
+</details>
+
 
 ### Technologies
 - IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
@@ -135,9 +137,14 @@ LibGDX, Maven, Gradle.
 
 
 ### Contact
+<details>
+<summary>Click to show content</summary>
+    
 - E-Mail: osiris_support@proton.me
 - Live-Chat (Discord): ak_osiris
 - Live-Chat (no login): https://autoplug.one/chat
+
+</details>
 
 
 ### Typical Workflow
@@ -164,7 +171,5 @@ LibGDX, Maven, Gradle.
 
 3. **Communication Challenges**: Time zone differences and language barriers can hinder communication.  
     - Solution: I am multilingual and offer various communication channels based on your selected rate.
-
-</details>
 
 </details>
