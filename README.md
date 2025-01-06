@@ -137,24 +137,18 @@ LibGDX, Maven, Gradle.
 
 
 ### Contact
-<details>
-<summary>Click to show content</summary>
-    
 - E-Mail: osiris_support@proton.me
 - Live-Chat (Discord): ak_osiris
 - Live-Chat (no login): https://autoplug.one/chat
 
-</details>
-
 
 ### Typical Workflow
+<details>
+<summary>Click to show content</summary>
 - **Initial Consultation**: Free. Please provide as much detail as possible. I offer one free 15-minute online meeting.
 - **Progress Updates**: Provided every 8 hours of work.
 - **Code Access**: Code will be uploaded to a private GitHub repository, accessible only to you and me for transparent version control.
 - **Budgeting**: I work on tasks until completion or until the budget limit is reached. Please specify your preferred and maximum budgets.
-
-<details>
-<summary>General Considerations: Hiring Freelancers</summary>
 
 **Advantages:**
 1. **Cost Efficiency**: No need to provide benefits, office space, or equipment.
