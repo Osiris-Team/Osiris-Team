@@ -145,6 +145,7 @@ LibGDX, Maven, Gradle.
 ### Typical Workflow
 <details>
 <summary>Click to show content</summary>
+    
 - **Initial Consultation**: Free. Please provide as much detail as possible. I offer one free 15-minute online meeting.
 - **Progress Updates**: Provided every 8 hours of work.
 - **Code Access**: Code will be uploaded to a private GitHub repository, accessible only to you and me for transparent version control.
