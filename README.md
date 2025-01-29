@@ -37,9 +37,8 @@ While my expertise covers a wide range of tasks, my primary focus lies in develo
 I am fluent in English, German, Portuguese, Turkish, and have basic proficiency in French.
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
-### Projects
 <details>
-<summary>Click to show content</summary>
+<summary><h3>Projects</h3> <small>👇 Click to show content</small></summary>
 
 Below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths.
 You can also view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers) if you are interested.
@@ -142,9 +141,8 @@ LibGDX, Maven, Gradle.
 - Live-Chat (no login): https://autoplug.one/chat
 
 
-### Typical Workflow
 <details>
-<summary>Click to show content</summary>
+<summary><h3>Typical Workflow</h3> <small>👇 Click to show content</small></summary>
     
 - **Initial Consultation**: Free. Please provide as much detail as possible. I offer one free 15-minute online meeting.
 - **Progress Updates**: Provided every 8 hours of work.
