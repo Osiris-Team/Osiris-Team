@@ -20,6 +20,7 @@
 - Software development across various platforms.
 - Detailed code reviews, mentorships and consulting.
 - Bug fixes and enhancements for existing projects.
+- [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
 
 ### Core Competencies
 - **Java**: Cross-platform server, desktop, mobile, and web development.
