@@ -1,7 +1,7 @@
 
 <div align="center">
     
-### You can hire me for any software project and be part of 30+ happy clients 🎉
+### You can hire me for any software project and join 30+ happy clients 🎉
 #### Rates: 20€, 40€ and 80€/h. [Live-Chat (no login).](https://autoplug.one/chat)
 </div>
 
