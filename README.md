@@ -31,8 +31,8 @@
 - **Electron, TypeScript, Vue, React**: Cross-platform desktop and web app development.
 
 ### About Me
-My name is A. Ruben Kandel and since early 2023, I have been working as a freelance software developer, serving clients globally.
-Originally started coding in 2019 (mainly open-source), which has given me six years of hands-on experience. 
+My name is A. Ruben Kandel and since January 2023, I have been developing custom software for clients globally.
+Originally I started coding even earlier in 2019 (mainly open-source), which has given me six years of hands-on experience. 
 
 While my expertise covers a wide range of tasks, my primary focus lies in developing tailored full-stack websites.
 By handling the entire software development process independently, I am able to provide highly cost-effective solutions tailored to your needs.
