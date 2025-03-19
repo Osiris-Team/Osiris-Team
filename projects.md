@@ -9,9 +9,23 @@ Take a look at some client reviews (average 4.8/5 stars), all of them can be fou
 
 > Great communication and fast replies, delivered what was asked for. Before any important decision, always asked which approach was in my best interest. - mani_monti, Portugal
 
+#### Extension of a CRM Web-Panel
+
+I expanded the functionality of an existing CRM Web-Panel by developing a new, separate Web-Panel that operates on the same machine and connects to the same SQL database as the original CRM.
+This approach was necessary due to the closed-source nature of the original CRM; however, the original developers provided access to the database, allowing for the integration of additional features through my external software.
+
+The new functionalities included advanced filtering and enhancement of client customer data through web scraping and integration with the Google Maps/Places API. Furthermore, I implemented a phone number validation feature by leveraging the Twilio API to ensure data accuracy and improve the overall quality of the CRM system.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b2ca8901-68ac-4e1f-84a3-b578c7d7ede8"></img>
+
+</div>
+
 #### Custom ERP Web-Panel
 
-A fully custom ERP Web-Panel with individual features requested by the client like an integrated web-based pdf-editor with presets and automatic data filling, a products database and customer information data storage, as well as multi-user collaboration capabalities and integrated chat and google synchronized calendar.
+I developed a fully customized ERP Web-Panel designed to meet the specific requirements of the client, incorporating a variety of advanced and tailored features. Among these was an integrated web-based PDF editor, which included customizable preset templates and the capability for automatic data population, significantly streamlining document creation. Additionally, the system featured a robust product database for managing inventory and a secure customer information storage solution, enabling efficient data retrieval and management.
+
+To enhance collaboration and user experience, the ERP solution also supported multi-user functionality, allowing seamless teamwork across departments. This was complemented by integrated real-time chat features for instant communication and a Google-synced calendar for managing schedules and appointments. Together, these features created a comprehensive, user-friendly platform that improved both operational efficiency and team coordination.
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
@@ -19,9 +33,9 @@ A fully custom ERP Web-Panel with individual features requested by the client li
 
 #### Airport Camera Control Web-Panel 
 
-Allows live video streaming of different airport cameras and controlling them, with an option to track incoming airplanes by using AI (object detection).
-This was a challenging request since it required handling the individual images of the video stream and several performance optimizations due to object detection causing spikes in processing.
-Besides it also had to communicate with the cameras via a proprietary, older SDK.
+The system enables live video streaming from multiple airport cameras, with full control over their feeds, and includes an advanced feature for tracking incoming airplanes using AI-powered object detection. This was a particularly complex challenge, as it required processing individual frames from the video stream in real-time while ensuring high performance despite the computational demands of object detection, which led to occasional processing spikes. To address this, several performance optimizations were implemented to ensure smooth operation and minimize latency.
+
+Additionally, the solution had to interface with the airport cameras using a proprietary, legacy SDK, which introduced additional complexity in terms of compatibility and integration. Despite these challenges, the system successfully delivered a robust, real-time video surveillance and tracking solution, providing accurate airplane monitoring and seamless camera control for airport operations.
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9ce4dd85-a8e4-4862-bb70-ede1b5a1bb6d"></img>
