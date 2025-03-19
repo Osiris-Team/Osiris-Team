@@ -41,10 +41,7 @@ That said, I can also accommodate collaborative team-based development upon requ
 I am fluent in English, German, Portuguese, Turkish, and have basic proficiency in French.
 Please explore more about my skills and projects below. Don’t hesitate to reach out with any inquiries!
 
-<details>
-<summary><a href="http://github.com/Osiris-Team/Osiris-Team/blob/main/projects.md"><h3>Projects</h3><small>👇 Click to show content</small></a></summary>
-
-</details>
+### [Projects 👇 Click to show content](http://github.com/Osiris-Team/Osiris-Team/blob/main/projects.md)
 
 
 ### Technologies
