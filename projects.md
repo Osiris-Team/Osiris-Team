@@ -78,6 +78,14 @@ handle the more complex things in Desku. This project expanded my knowledge of w
     <img src="https://github.com/user-attachments/assets/8e9641ad-ae03-4413-babe-4eb0094a08fc"></img>
 </div>
 
+
+
+#### PayHook
+PayHook is a lightweight and efficient Java library designed to simplify payment processing by unifying PayPal and Stripe into a single API. It eliminates the need for developers to manually handle JSON, API requests, or database storage, streamlining the integration of both one-time and subscription-based payments. Built with simplicity in mind, PayHook consists of just three core classes—PayHook, Product, and Payment—making it easy to adopt while maintaining flexibility for various use cases. By leveraging webhooks, it ensures secure and verified transactions, automatically managing missed payments and cancellations to reduce operational overhead.
+
+Developing PayHook has deepened my expertise in Java development, API integration, Webhooks/REST, and payment processing systems. I designed the library to unify PayPal and Stripe under a single, developer-friendly API, eliminating the need for direct JSON handling, API calls, and manual database management. Through this project, I honed my skills in designing scalable architectures, implementing secure webhook-based transactions, and optimizing database performance with low-level SQL queries. Additionally, working with real-time payment events reinforced my understanding of concurrency, data integrity, and error handling in mission-critical applications.
+
+
 #### Android Apps
 I worked on multiple Open-Source Android apps like [OpenLauncher](https://github.com/Osiris-Team/openlauncher),
 [Simple-Calendar](https://github.com/Osiris-Team/Simple-Calendar), 
