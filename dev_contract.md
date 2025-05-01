@@ -44,17 +44,48 @@ via methods including but not limited to double billing of hours or making “ch
 - Any potential breach of good faith, will lead to a discussion before
 exploring other options.
 
-## Scope of work
+## Scope of Work
 
-- The Developer, will receive a list of tasks consisting of for example feature requests or bug fixes.
-- These tasks must be clear and concise. The Client must answer Developer’s questions if there is something unclear.
-- The Developer may reject to work on a or multiple tasks.
-    - In this case, the Developer is also obligated to give a clear and concise reason.
-    - If this happens after working on the task, that work/time must **not** be paid by the Client.  
-- Each task is to be submitted as separate Merge Request to the Client's fork of a project with a descriptive name  or as seperate Merge Requests to the upstream project on per task basis.
-- The Client is allowed to reject any Merge Request and / or request changes.
-    - In this case, the Client is also obligated to give clear and concise feedback.
-- The Client is responsible for testing if the Merge Request fulfils the requested task.
+- The Developer will receive a list of tasks consisting of, for example, feature requests or bug fixes.
+- These tasks must be clear and concise. The Client must respond to the Developer’s questions if anything is unclear.
+- The Developer may reject one or more tasks but must provide a clear and concise reason.
+    - If the Developer rejects a task **after starting work**, the associated time **must not** be billed.
+- Each **completed task** must be submitted by the Developer in one of the following ways, depending on who owns or maintains the repository:
+
+  1. When the Client or a Third-Party created or owns the repository:
+     - The Developer must submit the task as a separate Merge Request (MR) to the Client’s upstream repository (or fork), using a descriptive branch name and meaningful commit messages.
+     - Alternatively, if the Client uses an upstream public repository owned by another party, the Developer may submit a separate MR to the upstream repository, with the Client copied or tagged.
+
+  2. When the Developer created or owns the repository:
+     - The Developer may push changes as a commit to their own repository.
+     - In this case, the Developer must notify the Client and provide the relevant commit hash or branch name on request.
+     - The Client is responsible for creating a fork, cloning the repository, or exporting the work to integrate it into their environment.
+
+- All submissions must be clearly labeled and must reference the original task or issue they are intended to fulfill.
+- The Client is responsible for testing whether the submission fulfills the task requirements.
+- The Client may reject or request revisions for a task but must provide written, actionable feedback.
+- A task is considered **accepted and billable** if:
+    - (a) The Client provides written approval, or  
+    - (b) Ninety (90) calendar days pass after delivery without written rejection.
+
+## Quality Guarantee and Refund Policy
+
+- 90-Day Review Period: The Client has up to ninety (90) calendar days from delivery of a task to:
+  - Review and test the submitted work,
+  - Provide written feedback or revision requests, or
+  - Notify the Developer of material defects.
+
+- Refund Eligibility: The Client may request a **partial refund** for any task if:
+    - The work materially fails to meet agreed specifications, and
+    - The issue is reported within the 90-day review window, and
+    - The task has not been materially modified or integrated into production systems.
+- Developer's Opportunity to Remedy: Before a refund is issued, the Developer has at least **fourteen (14) calendar days** to correct or replace the defective work.
+- Scope of Refunds:  
+  - The refund amount shall be calculated based on, and limited to, the number of hours directly attributable to the affected task at the time of delivery, multiplied by the applicable rate in effect at that time.
+  - No refunds will be issued for tasks approved, deployed, or altered after delivery unless the defect clearly predates such actions.
+  - Refunds are not available after the **90-day review window** has expired.
+- Finality: Once a refund is issued, the Developer has no further obligations for the refunded task, and the Client waives future claims related to that task.
+- Dispute Resolution: Both parties agree to first attempt resolution via good faith negotiation before escalating to mediation, arbitration, or legal action.
 
 ## Timing
 
