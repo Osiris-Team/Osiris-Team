@@ -169,7 +169,7 @@ For each payment logic following terms also apply:
 - If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.
 <br>For example:
 
-| Date                                   | EURO  |
+| Date                                   | Amount Due  |
 | -------------------------------------- | ---- |
 | July 2023 Invoice | 30.00 |
 | August 3rd | 34.5 |
