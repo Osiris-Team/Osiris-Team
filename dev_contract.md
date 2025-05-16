@@ -37,6 +37,10 @@ Developer, signed DATE.
 - If terminated prior to the specified deadline, payment will be made for any completed work
 as outlined within the [Payment](#Payment) section.
 
+## Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of Germany. Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the courts located in Mönchengladbach, Germany.
+
 ## Good faith and notice
 
 - The Developer will act in good faith (i.e will not attempt deception or defraud
@@ -46,6 +50,10 @@ exploring other options.
 
 ## Scope of Work
 
+> Definitions:
+> - "Task" refers to any discrete unit of work agreed upon by both parties, whether in writing or via electronic communication.
+> - "Delivery" refers to a single task or list of tasks that were completed and submitted by the Developer to the Client for review.
+
 - The Developer will receive a list of tasks consisting of, for example, feature requests or bug fixes.
 - These tasks must be clear and concise. The Client must respond to the Developer’s questions if anything is unclear.
 - The Developer may reject one or more tasks but must provide a clear and concise reason.
@@ -54,6 +62,7 @@ exploring other options.
 
   1. When the Client or a Third-Party created or owns the repository:
      - The Developer must submit the task as a separate Merge Request (MR) to the Client’s upstream repository (or fork), using a descriptive branch name and meaningful commit messages.
+     - For simplicity the Developer might also ask for permission to instead create a single MR containing multiple tasks.
      - Alternatively, if the Client uses an upstream public repository owned by another party, the Developer may submit a separate MR to the upstream repository, with the Client copied or tagged.
 
   2. When the Developer created or owns the repository:
@@ -61,14 +70,14 @@ exploring other options.
      - In this case, the Developer must notify the Client and provide the relevant commit hash or branch name on request.
      - The Client is responsible for creating a fork, cloning the repository, or exporting the work to integrate it into their environment.
 
-- All submissions must be clearly labeled and must reference the original task or issue they are intended to fulfill.
-- The Client is responsible for testing whether the submission fulfills the task requirements.
-- The Client may reject or request revisions for a task but must provide written, actionable feedback.
-- A task is considered **accepted and billable** if:
-    - (a) The Client provides written approval, or  
-    - (b) Ninety (90) calendar days pass after delivery without written rejection.
+- All deliveries must be clearly labeled and must reference the original task(s) or issue(s) they are intended to fulfill.
+- The Client must be notified about a delivery in writing or via electronic communication.
 
 ## Quality Guarantee and Refund Policy
+
+- The Client assumes all responsibility for use, deployment, and integration of the Work Product in production systems, including proper testing, security, and compliance.
+- The Client is responsible for testing whether the submission fulfills the task requirements.
+- The Client may reject or request revisions for a task but must provide written, actionable feedback.
 
 - 90-Day Review Period: The Client has up to ninety (90) calendar days from delivery of a task to:
   - Review and test the submitted work,
@@ -78,38 +87,81 @@ exploring other options.
 - Refund Eligibility: The Client may request a **partial refund** for any task if:
     - The work materially fails to meet agreed specifications, and
     - The issue is reported within the 90-day review window, and
-    - The task has not been materially modified or integrated into production systems.
-- Developer's Opportunity to Remedy: Before a refund is issued, the Developer has at least **fourteen (14) calendar days** to correct or replace the defective work.
+    - The task has not been materially modified.
+- Developer's Opportunity to Remedy: Before a refund is issued, the Developer has at least **fourteen (14) calendar days** to correct or replace the defective work at no additional cost for the Client.
 - Scope of Refunds:  
   - The refund amount shall be calculated based on, and limited to, the number of hours directly attributable to the affected task at the time of delivery, multiplied by the applicable rate in effect at that time.
-  - No refunds will be issued for tasks approved, deployed, or altered after delivery unless the defect clearly predates such actions.
+  - No refunds will be issued for tasks approved or altered after delivery unless the defect clearly predates such actions.
   - Refunds are not available after the **90-day review window** has expired.
 - Finality: Once a refund is issued, the Developer has no further obligations for the refunded task, and the Client waives future claims related to that task.
 - Dispute Resolution: Both parties agree to first attempt resolution via good faith negotiation before escalating to mediation, arbitration, or legal action.
 
 ## Timing
 
-- Time not spent actively working on a Merge Request (MR)
+- Time not spent actively working on a task
 (e.g. Research or writing / committing code), is the Developer' to use as they see fit.
 - The Developer can multitask at their complete discretion.
 - There is no fixed hours to encourage a healthy study/life/work balance.
-- Time tracking can be done via a comment within each MR after the applicable lines of code
-have been pushed such as the following example (using ISO-8601 and 24hr clock):
-    - 2023-05-16
-    - 08:00 - 10:20
-    - 12:00 - 13:15
-    - Which would be processed as 3h 35m via the following formula: (HR * 3) + (HR * 0.35).
 
 ## License and Copyright
 
-Copyright 2023 Arman Ruben Kandel (Osiris-Team)
-
-Permission is hereby granted to the Client obtaining a copy of the Developers' commits/changes, software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Copyright 2025 Arman Ruben Kandel (Osiris-Team)
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+All software, code, documentation, designs, and other materials created under this Agreement (collectively, the
+"Work Product") will remain the intellectual property of the Developer.
+Upon full payment and acceptance of a task, the Client is granted an exclusive, perpetual, worldwide, royalty-free license to use, modify, reproduce, display, distribute, and create derivative works of the Work Product at the state it existed upon completion/delivery of the task, for any purpose, including commercial use.
+ 
+The Developer shall not reproduce, license, or distribute the Work Product, or any substantially similar derivative, to any third party. The Client has full practical control of the Work Product as if it were their own, except for claiming original authorship or asserting copyright ownership.
+ 
+Any pre-existing tools, components, or libraries developed by the Developer prior to or outside the scope of this agreement (the
+“Background Technology”) remain the property of the Developer. However, the Client is granted an
+exclusive license to use the Background Technology solely as part of the delivered Work Product.
 
+Except as expressly stated in the “Quality Guarantee and Refund Policy” section of this Agreement, all software, code, documentation, and other deliverables (collectively, the “Work Product”) are provided “AS IS” and without warranty of any kind, whether express, implied, statutory, or otherwise. This includes, but is not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or any warranty arising out of course of dealing or usage of trade.
+
+To the maximum extent permitted by applicable law, the Developer shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or business opportunities, even if advised of the possibility of such damages. The Developer's total cumulative liability under this Agreement shall not exceed the total fees actually paid by the Client for the specific task giving rise to the claim.
+
+Nothing in this section shall limit liability for gross negligence, fraud, or willful misconduct, where such limitation is not permitted by law.
+
+Third-party and open-source components integrated into the Work Product are subject to their own respective licenses, which may include “AS IS” disclaimers. The Client acknowledges and agrees to such terms and understands that the Developer also does not provide warranties for third-party or open-source software beyond proper license compliance and disclosure.
+
+
+
+## Confidentiality
+
+Each party agrees to maintain in strict confidence any confidential or proprietary information disclosed by the other party, whether oral, written, or digital, and marked as confidential or reasonably understood to be confidential in nature. This includes, but is not limited to:
+
+* internal documentation and communications,
+* source code and repositories not made public,
+* proprietary algorithms and technical designs,
+* access credentials and infrastructure details,
+* business logic or client data embedded in the project.
+
+This confidentiality obligation **includes source code hosted on private repositories** using third-party services (e.g., GitHub, GitLab, Bitbucket), provided the repository is set to private and access is explicitly restricted to authorized users only.
+
+As **GitHub is commonly used for repository hosting**, both parties acknowledge that **GitHub as a platform may technically have access to the contents of private repositories** in accordance with its own Terms of Service and Privacy Policy. However, such access does **not waive confidentiality** between the parties to this agreement.
+
+Information shall **not** be considered confidential if it:
+
+* was lawfully known to the recipient before disclosure,
+* becomes publicly available through no breach of this agreement,
+* is independently developed without reliance on confidential information, or
+* must be disclosed by law, subpoena, or court order (with prior notice if legally permitted).
+
+The Developer must take reasonable steps to protect the confidentiality of such information, including ensuring any subcontractors or third parties are bound by equivalent obligations.
+
+This obligation remains in force for **three (3) years** following the termination of this agreement.
+
+
+## Data Protection
+
+If the Work Product or services involve processing of personal data, the Developer agrees to comply with all applicable data protection laws, including the EU General Data Protection Regulation (GDPR), to the extent applicable. Client remains the Data Controller; Developer acts as Data Processor.
+
+## Independent Contractor
+
+The Developer is an independent contractor and not an employee, agent, or partner of the Client. Nothing in this Agreement shall create any employment, joint venture, or agency relationship.
 
 ## Payment rates
 
