@@ -143,7 +143,9 @@ Use of Third Party and Open-Source Software: The Developer may use third-party a
 
 Developer Ownership: Any pre-existing tools, components, or libraries developed by the Developer prior to or outside the scope of this agreement remain the property of the Developer.
 
-Client License: The Developer grants the Client an exclusive, perpetual, worldwide, royalty-free license to use Background Technology that is integrated in the Work Product, solely as part of the Work Product delivered.
+Client License: The Developer grants the Client a non-exclusive, perpetual, worldwide, and royalty-free license to use, modify, and distribute any Developer-owned Background Technology incorporated into the Work Product, solely as necessary for the use and operation of the Work Product as delivered.
+
+This license does not apply to any Background Technology or component that is governed by an existing license (including third-party open-source software), which shall apply in accordance with its own terms. The Developer represents and warrants that all such components will be clearly disclosed and properly attributed at the time of delivery.
 
 Developer Use: The Developer retains the right to use Background Technology for other projects, provided it does not infringe upon the Client's rights in the Work Product developed.
 
