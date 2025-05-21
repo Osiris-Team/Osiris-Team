@@ -14,7 +14,7 @@
 ## 2. Variables  
 
 ### 2.1 Effective date: _INSERT_  
-### 2.2 Selected payment rate: _INSERT_ (Basic, Pro or Expert)  
+### 2.2 Selected payment package, hourly rate and currency: _INSERT_ (Basic, Pro or Expert), _INSERT_ ($80/h), _INSERT_ (USD, EURO, etc)
 ### 2.3 Selected payment logic: _INSERT_ (Prepaid, Postpaid, FPW Subscription or FP Subscription)  
 ### 2.4 Selected copyright terms: _INSERT_ (MIT License, Custom License, Copyright transfer)  
 
@@ -22,7 +22,9 @@
 
 - All parties have freely agreed to the following and look forward to working together.  
 - Any previous versions are superseded upon mutual acceptance and transmission of a dated signed copy.  
-- This contract intended to be valid from acceptance by all parties until termination.  
+- This contract intended to be valid from acceptance by all parties until termination.
+- This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements or understandings, whether written or oral.
+9.2 Amendments: Any amendments to this Agreement must be in writing and signed by both parties. 
 
 ## 4. Governing Law and Dispute Resolution  
 
@@ -186,21 +188,20 @@ If the Work Product or services involve processing of personal data, the Develop
 
 The Developer is an independent contractor and not an employee, agent, or partner of the Client. Nothing in this Agreement shall create any employment, joint venture, or agency relationship.  
 
-## 13. Payment Rates  
+## 13. Payment Packages  
+- One (1) of the sub-sections listed below (Sections Basic Package, Pro Package, Expert Package) must be explicitly selected and agreed upon in writing by both parties.
+- In the interest of fairness, Clients of the same tier will recive equal treatement in terms of work priority.
+- If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week, however the maximum amount of pending hours is capped at 40.  
+- The Client can change the minimum guaranteed work hours at any time to something lower (also to 0 hours) by contacting the Developer.   
+- Payment is to be made to Developer's PayPal email osiris_support@pm.me (osiris[underScore]support[aT]pm[DoT]me), however other ways of payment are also possible but must be agreed upon in writing by both parties.
+- Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type. 
 
-In the interest of fairness;  
-- Clients of the same tier will recive equal treatement in terms of work priority.  
-
-### 13.1 Basic Rate  
-#### 20€ per hour  
-
+### 13.1 Basic Package  
 The optimal choice for occasional developer needs when time constraints are not a factor.  
 
 - Minimum 1 hour of work per week guaranteed.  
 
-### 13.2 Pro Rate  
-#### 40€ per hour  
-
+### 13.2 Pro Package  
 The best option when seeking a dependable developer for medium to large projects.  
 
 The "Pro" rate includes some benefits over the "Basic" rate:  
@@ -212,8 +213,7 @@ The "Pro" rate includes some benefits over the "Basic" rate:
   - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks can be cut by 50%, this decision is at the sole discretion of the Client.  
 - The Clients' tasks get prioritized over Clients with the "Basic" rate.  
 
-### 13.3 Expert Rate  
-#### 80€ per hour  
+### 13.3 Expert Package  
 
 The superior choice when you need a reliable and fast working, long-term Developer for larger projects.  
 
@@ -222,23 +222,15 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 - Minimum 8 hours of work per week guaranteed.  
 - The Client can get the Developers' phone number, on request and call any time.  
 - The Client can benefit from live-chat and screen-sharing support.  
-- The Clients' tasks get prioritized over Clients with the "Basic" and "Pro" rates.  
-
-### 13.4 Details  
-
-- If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week, however the maximum amount of pending hours is capped at 40.  
-- The Client can change the minimum guaranteed work hours at any time to something lower (also to 0 hours) by contacting the Developer.  
-- The rate used in the payment will be the rate with the latest proposal date and mentioned at the top of the contract.  
-- Payment is to be made to Developer's PayPal email osiris_support@pm.me (osiris[underScore]support[aT]pm[DoT]me).  
-- Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type.  
+- The Clients' tasks get prioritized over Clients with the "Basic" and "Pro" rates.   
 
 ## 14. Payment Logic  
 
-There are different ways to handle payments (listed below), for different kinds of customers.  
-For each payment logic following terms also apply:  
-- The Client has 5 days to complete the payment upon receiving the invoice email or the due date.  
-    - Payment is deemed completed at the time the Developer receives confirmation by the payment processor.  
-- If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.  
+- One (1) of the sub-sections listed below (Sections Prepaid, Postpaid, FPW Subscription, FP Subscription) must be explicitly selected and agreed upon in writing by both parties. Once selected, the remaining subsections shall be deemed inapplicable and without legal effect for the purposes of this Agreement. 
+- For each subsection following terms also apply:  
+  - The Client has 5 days to complete the payment upon receiving the invoice email or the due date.  
+      - Payment is deemed completed at the time the Developer receives confirmation by the payment processor.  
+  - If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.  
 <br>For example:  
 
 | Date                                   | Amount Due  |  
@@ -259,7 +251,7 @@ Ideal for clients who prefer to manage their budget closely and want to ensure t
 4. The Developer works (according to the selected rate) until the paid hours are completed.  
 
 ### 14.2 Postpaid (After Work Completion)  
-Suitable for clients who prefer to pay for work after it has been completed, providing them with the opportunity to review the work before making a payment. This option is only available for Clients that completed at least 500€ in Prepaid payments.  
+Suitable for clients who prefer to pay for work after it has been completed, providing them with the opportunity to review the work before making a payment. This option is only available for Clients that completed at least 500€ in Prepaid payments. 
 
 1. The Developer and Client agree on a timespan (usually a month).  
 2. The Developer works (according to the selected rate).  
