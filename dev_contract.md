@@ -24,7 +24,7 @@
 - Any previous versions are superseded upon mutual acceptance and transmission of a dated signed copy.  
 - This contract intended to be valid from acceptance by all parties until termination.
 - This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements or understandings, whether written or oral.
-9.2 Amendments: Any amendments to this Agreement must be in writing and signed by both parties. 
+- Any amendments to this Agreement must be in writing and signed by both parties. 
 
 ## 4. Governing Law and Dispute Resolution  
 
