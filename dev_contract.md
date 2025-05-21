@@ -13,6 +13,7 @@
 
 ## Variables
 
+### Effective date: _INSERT_
 ### Selected payment rate: _INSERT_ (Basic, Pro or Expert)
 ### Selected payment logic: _INSERT_ (Prepaid, Postpaid, FPW Subscription or FP Subscription)
 ### Selected copyright terms: _INSERT_ (MIT License, Custom License, Copyright transfer)
@@ -23,12 +24,29 @@
 - All parties have freely agreed to the following and look forward to working together.
 - Any previous versions are superseded upon mutual acceptance and transmission of a dated signed copy.
 - This contract intended to be valid from acceptance by all parties until termination.
-- Either party may terminate this Agreement at any time, provided that written notice is given to the other party.
-- If terminated prior to the specified deadline, payment will be made for any completed work as outlined within the [Payment](#Payment) section.
 
-## Governing Law
+## Governing Law and Dispute Resolution
 
-This Agreement shall be governed by and construed in accordance with the laws of Germany. Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the courts located in Mönchengladbach, Germany.
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of Switzerland, excluding its conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods (CISG).
+
+Good Faith Negotiation: In the event of a dispute, controversy, or claim arising out of or relating to this Agreement, the Parties shall first seek to resolve the matter through good faith negotiations, initiated by written notice describing the issue in reasonable detail. The recipient shall respond within ten (10) calendar days. Negotiation efforts must continue for a minimum of fifteen (15) calendar days from the date of initial notice.
+
+Mediation: If the matter remains unresolved after the negotiation period, either Party may submit the dispute to mediation. Mediation shall be administered by one of the following institutions, selected by mutual agreement:
+- World Intellectual Property Organization (WIPO) Arbitration and Mediation Center,
+- International Chamber of Commerce (ICC),
+- International Centre for Dispute Resolution (ICDR),
+- Or another internationally recognized institution.
+If the Parties cannot agree on an institution within ten (10) calendar days, WIPO shall serve as the default mediation body. Mediation shall be conducted in English, unless otherwise agreed.
+
+Binding Arbitration: If the mediation does not result in a resolution within thirty (30) calendar days following the appointment of a mediator, the dispute shall be resolved by binding arbitration under the applicable commercial rules of the selected institution. Arbitration shall be:
+- Conducted in English, unless otherwise agreed;
+- Decided by a single, neutral arbitrator jointly selected by the Parties;
+- Held with the seat of arbitration in Zurich, Switzerland, or another mutually agreed neutral location (including remote proceedings via videoconference, where appropriate).
+Judgment upon the arbitration award may be entered in any court of competent jurisdiction. The arbitration award shall be final and binding on both Parties.
+
+Interim Relief: Either Party may seek interim, emergency, or injunctive relief in any court of competent jurisdiction when necessary to prevent irreparable harm, protect intellectual property, or preserve legal rights pending the resolution of the dispute. This right does not waive or limit the obligation to arbitrate.
+
+Costs and Fees: Each Party shall initially bear its own legal fees and costs associated with dispute resolution. However, the arbitrator shall have the discretion to allocate costs and reasonable attorneys’ fees in proportion to each Party’s success on the merits and the conduct of the Parties during the proceedings, including any finding of bad faith, procedural abuse, or failure to negotiate in good faith.
 
 ## Good faith and notice
 
@@ -45,7 +63,7 @@ Task Clarity: These tasks must be clear and concise. The Client must respond to 
 
 Task Rejection: The Developer may reject one or more tasks but must provide a clear and concise reason. If the Developer rejects a task after starting work, the associated time must not be billed.
 
-Task Priority: The Developer retains the sole discretion to determine the order, priority, and selection of tasks to be undertaken and delivered, provided such decisions do not conflict with any agreed-upon deadlines or priority arrangements. 
+Task Priority: The Developer shall propose the order, priority, and selection of tasks to be undertaken and delivered. The Client shall have the right to review and approve this proposed prioritization. Final task prioritization shall be mutually agreed upon, provided that such decisions do not conflict with any previously agreed-upon deadlines or priority arrangements.
 
 Delivery: All completed tasks must be delivered by the Developer in one of the following ways, depending on who owns or maintains the repository:
 
@@ -128,10 +146,7 @@ The Developer shall not reproduce, license, or distribute the Work Product, or a
 
 Transfer of Ownership: Upon full payment and acceptance of the project, the Developer agrees to transfer all rights, title, and interest, including copyright, for all software, code, documentation, designs, and other materials created under this Agreement (collectively, the Work Product) to the Client. The Developer agrees that the Work Product is the exclusive property of the Client. This leads to the Client having the exclusive, perpetual, worldwide, royalty-free right to use, modify, reproduce, display, distribute, and create derivative works of the Work Product for any purpose, including commercial use.
 
-Developer License: To facilitate continued development, the Client grants the Developer a temporary, non-exclusive, non-transferable license to use, modify, and access the Work Product.
-This license is valid only while this contract remains active and un-terminated.
-The license exists solely for the purpose of completing ongoing or future Deliveries under this Agreement.
-Upon termination of this contract for any reason, this license is immediately revoked, and the Developer agrees to cease all use of the Work Product unless otherwise agreed in writing.
+Developer License: To facilitate continued development, the Client grants the Developer a temporary, non-exclusive, non-transferable license to use, modify, and access the Work Product. This license is valid only while this contract remains active and un-terminated. The license exists solely for the purpose of completing ongoing or future Deliveries under this Agreement. Upon termination of this contract for any reason, this license is immediately revoked, and the Developer agrees to cease all use of the Work Product unless otherwise agreed in writing. Notwithstanding the foregoing, the Client reserves the right to revoke this license at its sole discretion at any time during the term of this Agreement, provided that such revocation does not conflict with any previously agreed-upon deadlines or priority arrangements.
 
 Developer Restrictions: The Developer agrees not to reproduce, license, or distribute the Work Product, or any substantially similar derivative, to any third party.
 
@@ -273,6 +288,30 @@ and a total/maximum amount of work hours estimate (for all tasks / the complete 
 2. The Developer sends an invoice via email to the Client with the fixed price for that timespan.
 3. The Client pays the invoice.
 4. The Developer works (according to the selected rate) and is encouraged to exceed the work hours / the price for that timespan,
-which in turn prolongs the minimum runtime of the subscription to match the total costs.  
+which in turn prolongs the minimum runtime of the subscription to match the total costs.
+
+## Termination Rights
+Either party may terminate this Agreement at any time, for any reason or no reason, by providing written notice to the other party. Termination shall become effective upon receipt of such notice, unless a later termination date is specified.
+Upon termination:
+    - The Developer shall cease work on all pending tasks, unless otherwise agreed in writing.
+    - The Client shall remain responsible for payment of all work completed and properly invoiced prior to the effective date of termination. Payment will be made for any completed work as outlined within the Payment section.
+    - Any prepaid but unearned fees shall be refunded, and any unpaid fees for completed work shall become immediately due.
+    - The provisions related to confidentiality, intellectual property, limitations of liability, and any other terms which by their nature should survive, remain in full force and effect.
+
+Client Signature: _______________________________
+
+Client Name: _________________________________
+
+Title: _______________________________________
+
+Date: _______________________________________
+
+Developer Signature: __________________________
+
+Developer Name: _____________________________
+
+Title: _______________________________________
+
+Date: _______________________________________
 
 
