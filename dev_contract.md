@@ -64,7 +64,10 @@ Judgment upon the arbitration award may be entered in any court of competent jur
 
 **6.4 Task Priority:** The Developer shall propose the order, priority, and selection of tasks to be undertaken and delivered. The Client shall have the right to review and approve this proposed prioritization. Final task prioritization shall be mutually agreed upon, provided that such decisions do not conflict with any previously agreed-upon deadlines or priority arrangements.  
 
-**6.5 Delivery:** All completed tasks must be delivered by the Developer in one of the following ways, depending on who owns or maintains the repository:  
+**6.5 Task Change:** The Client may propose changes or new tasks in writing. The Developer shall promptly estimate the
+impact on time and cost, and the parties will mutually agree in writing before proceeding. Any material change in the scope or requirements of a task after work has begun must be documented in writing and approved by both parties, including any adjustment to the fee, timeline, or deliverables.
+
+**6.6 Delivery:** All completed tasks must be delivered by the Developer in one of the following ways, depending on who owns or maintains the repository:  
 
   1. When the Client or a Third-Party created or owns the repository:  
      - The Developer must submit the task as a separate Merge Request (MR) to the Client’s upstream repository (or fork), using a descriptive branch name and meaningful commit messages.  
@@ -75,38 +78,38 @@ Judgment upon the arbitration award may be entered in any court of competent jur
      - The Developer may push changes as a commit to their own repository.  
      - The Client is responsible for creating a fork, cloning the repository, or exporting the work to integrate it into their environment.  
 
-**6.6 Delivery Frequency:** The amount and frequency of deliveries is at the sole discretion of the Developer.  
+**6.7 Delivery Frequency:** The amount and frequency of deliveries is at the sole discretion of the Developer.  
 
-**6.7 Delivery Labeling:** All deliveries must be clearly labeled and must reference the original tasks or issues they are intended to fulfill. The Client is responsible for testing whether the delivery fulfills the task requirements.  
+**6.8 Delivery Labeling:** All deliveries must be clearly labeled and must reference the original tasks or issues they are intended to fulfill. The Client is responsible for testing whether the delivery fulfills the task requirements.  
 
-**6.8 Delivery Notification:** The Client must be notified about a delivery in writing or via electronic communication and include a link to the MR or commit.  
+**6.9 Delivery Notification:** The Client must be notified about a delivery in writing or via electronic communication and include a link to the MR or commit.  
 
-**6.9 Delivery Usage and Testing:** The Client assumes all responsibility for use, deployment, and integration of the delivery in production systems, including proper testing, security, and compliance. The Client is responsible for testing whether the delivery fulfills the task requirements.  
+**6.10 Delivery Usage and Testing:** The Client assumes all responsibility for use, deployment, and integration of the delivery in production systems, including proper testing, security, and compliance. The Client is responsible for testing whether the delivery fulfills the task requirements.  
 
-**6.10 Delivery Rejection:** The Client may reject or request revisions for a task but must provide written, actionable feedback. Its important to distinguish between a revision and refund requests, because the resulting additional work for the Developer is billed normally in the case of revisions. Refund requests are discussed further below.  
+**6.11 Delivery Rejection:** The Client may reject or request revisions for a task but must provide written, actionable feedback. Its important to distinguish between a revision and refund requests, because the resulting additional work for the Developer is billed normally in the case of revisions. Refund requests are discussed further below.  
 
-**6.11 Delivery Acceptance:** A delivery is considered acceptable and billable if the Client provides written approval, or ninety (90) calendar days pass after delivery without written rejection.  
+**6.12 Delivery Acceptance:** A delivery is considered acceptable and billable if the Client provides written approval, or ninety (90) calendar days pass after delivery without written rejection.  
 
-**6.12 90-Day Review Period:** The Client has up to ninety (90) calendar days from delivery of a task to:  
+**6.13 Review Period:** The Client has up to ninety (90) calendar days from delivery of a task to:  
   - Review and test the submitted work,  
   - Provide written feedback or revision requests, or  
   - Notify the Developer of material defects.  
 
-**6.13 90-Day Functionality Warranty and Refund Period:** The Developer warrants that the delivery will operate in accordance with the agreed-upon specifications and requirements for a period of ninety (90) calendar days following the delivery date. If the Client determines that the delivery exhibits defects, errors, or fails to meet the specified requirements within this timeframe, the Client may request a refund for any task of the delivery. The Developer shall, at their own expense and within a reasonable timeframe, correct or replace the non-conforming software to ensure compliance with the agreed-upon specifications, or instead provide the refund.  
+**6.14 Functionality Warranty and Refund Period:** The Developer warrants that the delivery will operate in accordance with the agreed-upon specifications and requirements for a period of ninety (90) calendar days following the delivery date. If the Client determines that the delivery exhibits defects, errors, or fails to meet the specified requirements within this timeframe, the Client may request a refund for any task of the delivery. The Developer shall, at their own expense and within a reasonable timeframe, correct or replace the non-conforming software to ensure compliance with the agreed-upon specifications, or instead provide the refund.  
 
-**6.14 Exclusions:** The warranty does not cover issues arising from and a refund is not possible when:  
+**6.15 Exclusions:** The warranty does not cover issues arising from and a refund is not possible when:  
 - Modifications or alterations were made to the delivery by anyone other than the Developer.  
 - The affected parts of the delivery have been materially modified.  
 - The Client performed misuse, negligence, or unauthorized use of the delivery.  
 - Environmental factors or hardware malfunctions that are not under the Developer's control.  
 
-**6.15 Exclusive Remedy:** The remedies provided in this section are the Client's sole and exclusive remedies for any breach of the warranty.  
+**6.16 Exclusive Remedy:** The remedies provided in this section are the Client's sole and exclusive remedies for any breach of the warranty.  
 
-**6.16 Refund Amount:** The refund amount shall be calculated based on, and limited to, the number of hours directly attributable to the affected task at the time of delivery, multiplied by the applicable rate in effect at that time.  
+**6.17 Refund Amount:** The refund amount shall be calculated based on, and limited to, the number of hours directly attributable to the affected task at the time of delivery, multiplied by the applicable rate in effect at that time.  
 
-**6.17 Refund Finality:** Once a refund is issued, the Developer has no further obligations for the refunded task, and the Client waives future claims related to that task.  
+**6.18 Refund Finality:** Once a refund is issued, the Developer has no further obligations for the refunded task, and the Client waives future claims related to that task. 
 
-**6.18 Dispute Resolution:** Both parties agree to first attempt resolution via good faith negotiation before escalating to mediation, arbitration, or legal action.  
+**6.19 Dispute Resolution:** Both parties agree to first attempt resolution via good faith negotiation before escalating to mediation, arbitration, or legal action.  
 
 ## 7. Timing  
 
@@ -180,9 +183,41 @@ Third-party or open-source components incorporated into the Work Product are sub
 
 Nothing in this section shall exclude or limit liability for gross negligence, fraud, or willful misconduct, where such exclusion or limitation is not permitted by applicable law.  
 
-## 11. Data Protection  
+## 11. Data Protection and Confidentiality
 
-If the Work Product or services involve processing of personal data, the Developer agrees to comply with all applicable data protection laws, including the EU General Data Protection Regulation (GDPR), to the extent applicable. Client remains the Data Controller; Developer acts as Data Processor.  
+**11.1 Data Protection:** If the Work Product or services involve processing of personal data, the Developer agrees to comply with all applicable data protection laws, including the EU General Data Protection Regulation (GDPR), to the extent applicable. Client remains the Data Controller; Developer acts as Data Processor.  
+The Developer shall do so only on documented instructions from the Client and in
+compliance with applicable data protection laws, including the EU General Data Protection
+Regulation (GDPR). The Developer shall implement appropriate technical and
+organizational measures to protect personal data against unauthorized access, loss, or breach. The Developer further agrees to sign a separate Data Processing Agreement, as
+required by GDPR Article 28, outlining the processor obligations, the nature of data
+processed, duration, and purpose of processing. The Developer will not transfer any
+personal data to a country outside the European Economic Area without ensuring adequate
+safeguards as required by GDPR (such as Standard Contractual Clauses or an approved
+transfer mechanism). The Developer also agrees to promptly inform the Client of any data
+breaches or requests from data subjects, and to assist the Client in complying with its legal
+obligations under data protection laws.
+
+**11.2 Confidential Information:** Each party (the “Receiving Party”) shall keep secret and
+confidential all information obtained from the other party (the “Disclosing Party”) in
+connection with this contract that is not publicly available or is marked or identified as
+confidential (or that should reasonably be understood to be confidential given its nature).
+This includes, without limitation, source code, business plans, technical know-how,
+customer data, trade secrets, and any other proprietary information. The Receiving Party
+shall use the Disclosing Party’s Confidential Information solely for the purposes of fulfilling
+its obligations under this contract and shall not disclose it to any third party without the
+Disclosing Party’s prior written consent. The Receiving Party shall protect the
+confidentiality of such information with at least the same degree of care as it uses for its
+own similar confidential information (and no less than a reasonable standard of care).
+These confidentiality obligations shall continue during the term of the contract and for a
+period of 3 years after its termination, or indefinitely for trade secrets.
+
+**11.3 Permitted Disclosures:** Confidential Information does not include information that (a) is or becomes
+public without breach of this agreement, (b) was rightfully known by the Receiving Party
+before disclosure, (c) is received from a third party without duty of confidentiality, or (d) is
+required to be disclosed by law or court order (in which case the Receiving Party shall give
+prompt notice to the Disclosing Party and cooperate in seeking reasonable protective
+measures). 
 
 ## 12. Independent Contractor  
 
@@ -227,20 +262,16 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 ## 14. Payment Logic  
 
 - One (1) of the sub-sections listed below (Sections Prepaid, Postpaid, FPW Subscription, FP Subscription) must be explicitly selected and agreed upon in writing by both parties. Once selected, the remaining subsections shall be deemed inapplicable and without legal effect for the purposes of this Agreement. 
-- For each subsection following terms also apply:  
+- For each subsection following terms also apply:
+  - The Client shall pay all amounts in full, free of any withholding tax, unless required by law (in which case the payment shall be grossed-up as necessary to ensure the Developer receives the agreed net amount). 
   - The Client has 5 days to complete the payment upon receiving the invoice email or the due date.  
-      - Payment is deemed completed at the time the Developer receives confirmation by the payment processor.  
-  - If payment is not received 24 hours after the above time frame, a 15% lateness fee can be added to the overall balance per week.  
-<br>For example:  
-
-| Date                                   | Amount Due  |  
-| -------------------------------------- | ---- |  
-| July 2023 Invoice | 30.00 |  
-| August 3rd | 34.5 |  
-| August 7th | 39.67 |  
-| August 14th | 45.62 |  
-| August 21st | 52.47 |  
-| August 28th | 60.34 |  
+  - Payment is deemed completed at the time the Developer receives confirmation by the payment processor.  
+  - Any payment not made within 5 days of the due date shall accrue interest at the maximum rate permitted by law (or if not regulated: 9 percentage points above the ECB base interest rate per annum), compounded monthly.
+  - Upon termination, if the Client has prepaid for hours or a subscription period that has not fully elapsed, the Developer shall
+  refund any unearned amount for work not performed, unless termination was due to the
+  Developer's material breach (in which case a full refund of any prepayments for unused work shall be due).
+  - The Developer is responsible for his own operational costs. Any extraordinary expenses (e.g. travel, special equipment or software)
+  will only be incurred with Client's prior written approval and shall be reimbursed by the Client against receipts.
 
 ### 14.1 Prepaid (Before Work Commences)  
 Ideal for clients who prefer to manage their budget closely and want to ensure that work is paid for in advance, minimizing financial risk.  
@@ -281,6 +312,7 @@ Either party may terminate this Agreement at any time, for any reason or no reas
 
 Upon termination:  
     - The Developer shall cease work on all pending tasks, unless otherwise agreed in writing.  
+    - The Developer shall promptly deliver to the Client all completed work and any work-in-progress for which the Client has paid or is willing to pay. 
     - The Client shall remain responsible for payment of all work completed and properly invoiced prior to the effective date of termination. Payment will be made for any completed work as outlined within the Payment section.  
     - Any prepaid but unearned fees shall be refunded, and any unpaid fees for completed work shall become immediately due.  
     - The provisions related to confidentiality, intellectual property, limitations of liability, and any other terms which by their nature should survive, remain in full force and effect.  
