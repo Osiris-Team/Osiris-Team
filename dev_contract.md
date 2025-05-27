@@ -147,7 +147,11 @@ The Developer shall not reproduce, license, or distribute the Work Product, or a
 
 ### 8.4 Copyright Transfer  
 
-**8.4.1 Transfer of Ownership:** Upon full payment and acceptance of the project, the Developer agrees to transfer all rights, title, and interest, including copyright, for all software, code, documentation, designs, and other materials created under this Agreement (collectively, the Work Product) to the Client, at the state it existed upon delivery. The Developer agrees that the Work Product is the exclusive property of the Client. This leads to the Client having the exclusive, perpetual, worldwide, royalty-free right to use, modify, reproduce, display, distribute, and create derivative works of the Work Product for any purpose, including commercial use.  
+**8.4.1 Transfer of Ownership:** Upon full payment and written acceptance of each individual delivery or milestone, the Developer agrees to transfer all rights, title, and interest, including copyright, in the specific Work Product delivered under that milestone (including all software, code, documentation, designs, and related materials) to the Client. Upon such transfer, the specified Work Product shall become the exclusive property of the Client in the form it existed at the time of delivery and acceptance.
+Clarification for Cumulative Workflows:
+If a subsequent deliverable (e.g., Deliverable #2) includes modifications, extensions, or enhancements to a previously accepted deliverable (e.g., Deliverable #1), the copyright and ownership of those new changes remain with the Developer until full payment and formal acceptance of the new deliverable are complete, even though they build upon software the Client already owns.
+Therefore, while the Client owns the previously accepted and paid-for base software (Deliverable #1), they do not acquire ownership of any subsequent additions, refinements, or alterations (Deliverable #2) until those specific elements are paid in full and accepted.
+Use Limitation: The Client may not use, reproduce, or incorporate any unaccepted or unpaid modifications into their systems or redistribute them, as doing so would violate the Developer’s retained copyright.
 
 **8.4.2 Developer License:** To facilitate continued development, the Client grants the Developer a temporary, non-exclusive, non-transferable license to use, modify, and access the Work Product. This license is valid only while this contract remains active and un-terminated. The license exists solely for the purpose of completing ongoing or future Deliveries under this Agreement. Upon termination of this contract for any reason, this license is immediately revoked, and the Developer agrees to cease all use of the Work Product unless otherwise agreed in writing. Notwithstanding the foregoing, the Client reserves the right to revoke this license at its sole discretion at any time during the term of this Agreement, provided that such revocation does not conflict with any previously agreed-upon deadlines or priority arrangements.  
 
@@ -227,9 +231,8 @@ The Developer is an independent contractor and not an employee, agent, or partne
 - One (1) of the sub-sections listed below (Sections Basic Package, Pro Package, Expert Package) must be explicitly selected and agreed upon in writing by both parties.
 - In the interest of fairness, Clients of the same tier will recive equal treatement in terms of work priority.
 - If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week, however the maximum amount of pending hours is capped at 40.  
-- The Client can change the minimum guaranteed work hours at any time to something lower (also to 0 hours) by contacting the Developer.   
-- Payment is to be made to Developer's PayPal email osiris_support@pm.me (osiris[underScore]support[aT]pm[DoT]me), however other ways of payment are also possible but must be agreed upon in writing by both parties.
-- Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type. 
+- The Client can change the minimum guaranteed work hours at any time to something lower (also to 0 hours) by contacting the Developer.
+- Guaranteed work hours are only valid while there are pending tasks to complete/deliver.
 
 ### 13.1 Basic Package  
 The optimal choice for occasional developer needs when time constraints are not a factor.  
@@ -263,6 +266,8 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 
 - One (1) of the sub-sections listed below (Sections Prepaid, Postpaid, FPW Subscription, FP Subscription) must be explicitly selected and agreed upon in writing by both parties. Once selected, the remaining subsections shall be deemed inapplicable and without legal effect for the purposes of this Agreement. 
 - For each subsection following terms also apply:
+  - Payment is to be made to Developer's PayPal email osiris_support@pm.me (osiris[underScore]support[aT]pm[DoT]me), however other ways of payment are also possible but must be agreed upon in writing by both parties.
+  - Payment processing fees and/or currency conversion fees are to be paid by the Developer per PayPal's "Goods and Services" payment type. 
   - The Client shall pay all amounts in full, free of any withholding tax, unless required by law (in which case the payment shall be grossed-up as necessary to ensure the Developer receives the agreed net amount). 
   - The Client has 5 days to complete the payment upon receiving the invoice email or the due date.  
   - Payment is deemed completed at the time the Developer receives confirmation by the payment processor.  
