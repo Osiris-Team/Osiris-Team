@@ -45,12 +45,12 @@ Please explore more about my skills and projects below. Don’t hesitate to reac
 
 
 ### Technologies
-- IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, UnrealEngine.
+- IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, Unreal Engine.
 - Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
 GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
 - Libraries & Frameworks: Vaadin, Hilla, Spring-Boot, Tomcat, React, Angular, Bootstrap, Vue.js,
 Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
-LibGDX, Maven, Gradle.
+LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 
 
 ### Rates
