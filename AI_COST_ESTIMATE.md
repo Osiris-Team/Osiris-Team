@@ -24,7 +24,7 @@ In your response, please include the following structured sections:
    - Clearly show all calculation steps.
 
 4. **Delivery Timeline:**
-   - Calculate the estimated delivery time in weeks, assuming a single developer works 20 hours per week and use the discounted hours.
+   - Calculate the estimated delivery time in weeks for the "Basic" 10h, "Pro" 20h, and "Expert" 30h packages, assuming a single developer and use the discounted hours.
    - Mention any factors that could affect the timeline.
 
 5. **License and Legal Terms:**
