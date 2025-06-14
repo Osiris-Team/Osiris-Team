@@ -10,7 +10,7 @@ In your response, please include the following structured sections:
 2. **Project Details:**
    - Present a table of implementation details.
    - Columns:
-     - Title.
+     - Title (prefer using client provided words/definitions here).
      - A brief description.
      - Predicted work hours.
      - Any assumptions made.
@@ -24,7 +24,7 @@ In your response, please include the following structured sections:
    - Clearly show all calculation steps.
 
 4. **Delivery Timeline:**
-   - Calculate the estimated delivery time in weeks for the "Basic" 10h, "Pro" 20h, and "Expert" 30h packages, assuming a single developer and use the discounted hours.
+   - Create a table and calculate the estimated delivery time in weeks for the "Basic" 10h, "Pro" 20h, and "Expert" 30h packages, assuming a single developer and use the discounted hours.
    - Mention any factors that could affect the timeline.
 
 5. **License and Legal Terms:**
