@@ -25,7 +25,7 @@ In your response, please include the following structured sections:
 
 4. **Delivery Timeline:**
    - Create a table and calculate the estimated delivery time in weeks for the "Basic" 10h, "Pro" 20h, and "Expert" 30h packages, assuming a single developer and use the discounted hours.
-   - Mention any factors that could affect the timeline.
+   - Mention any factors that could affect the timeline and mention that these developer availabilies are no guarantees, but instead predictions only.
 
 5. **License and Legal Terms:**
    - State that the project will be delivered under a modified MIT license.
