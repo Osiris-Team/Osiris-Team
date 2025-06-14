@@ -24,6 +24,7 @@ In your response, please include the following structured sections:
    - Apply an efficiency discount by dividing the total hours by 2.
    - Clearly show all calculation steps.
    - **Final Price:** Present the discounted total as the final price.
+   - **Final Price (Fiverr):** Add 20% to the final price to clarify the cost for Fiverr users.
 
 5. **Delivery Timeline:**
    - Calculate the estimated delivery time in weeks, assuming a single developer works 20 hours per week.
