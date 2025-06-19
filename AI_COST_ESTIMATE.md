@@ -18,18 +18,19 @@ In your response, please include the following structured sections:
      - Potential risks or challenges.
 
 3. **Cost Estimation:**
-   - Sum up all predicted work hours.
+   - Sum up all predicted work hours and clearly show all calculation steps in a table.
    - Apply an efficiency discount by dividing the total hours by 2.
    - **Final Price:** Multiply the total discounted hours by €80 and present the discounted total as the final price.
    - **Final Price (Fiverr):** Add 20% to the final price to clarify the cost for Fiverr users.
-   - Clearly show all calculation steps.
 
 4. **Delivery Timeline:**
-   - Create a table and calculate the estimated delivery time in weeks for the "Basic" 10h, "Pro" 20h, and "Expert" 30h packages, assuming a single developer and use the discounted hours.
+   - Calculate the estimated delivery time in weeks and clearly show all calculation steps in a table.
+   - There are 3 packages with different available hours per week: "Basic" with 10h/week, "Pro" with 20h/week, and "Expert" with 30h/week.
+   - Assume a single developer and use the discounted hours.
    - State that the "Expert" package is selected. 
    - Mention any factors that could affect the timeline and mention that these developer availabilies are no guarantees, but instead predictions only.
 
-5. **License and Legal Terms:**
+6. **License and Legal Terms:**
    - State that all legal terms will be governed by this contract (include the URL): https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md
    - State that regarding Copyright there are 3 options available: "MIT License", "Custom License" and "Copyright Transfer"
    - State that the project will be delivered under "Copyright Transfer".
