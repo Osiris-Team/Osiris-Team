@@ -6,6 +6,7 @@ In your response, please include the following structured sections:
    - Title
    - Client Request Summary: Provide a clear and concise summary of the project title and the main objectives based on the client's request.
    - Inputs and Outputs: Summarize the inputs the software will accept and the outputs it will generate and mention any data sources, user interactions, or external systems involved.
+   - Assumptions and Clarifications: Outline any assumptions made due to added details or unclear aspects of the client’s request. Identify areas where additional information from the client is needed.
 
 2. **Project Details:**
    - Present a table of implementation details.
@@ -28,21 +29,16 @@ In your response, please include the following structured sections:
    - Mention any factors that could affect the timeline and mention that these developer availabilies are no guarantees, but instead predictions only.
 
 5. **License and Legal Terms:**
-   - State that the project will be delivered under a modified MIT license.
-   - Include the following URL for license details:
-     - *"[https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#license-and-copyright](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#license-and-copyright)"*
+   - State that all legal terms will be governed by this contract (include the URL): https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md
+   - State that regarding Copyright there are 3 options available: "MIT License", "Custom License" and "Copyright Transfer"
+   - State that the project will be delivered under "Copyright Transfer".
 
-6. **Third-Party Tools and Technologies:**
+7. **Third-Party Tools and Technologies:**
    - List all third-party tools, libraries, frameworks, and APIs that will be used, prefeer Java libraries and Vaadin when possible.
    - Provide a brief explanation for choosing each tool.
 
-7. **Assumptions and Clarifications:**
-   - Outline any assumptions made due to added details or unclear aspects of the client’s request.
-   - Identify areas where additional information from the client is needed.
-
 8. **Next Steps:**
    - Suggest scheduling a follow-up meeting or call to discuss the estimate and any open questions.
-   - Encourage the client to provide more details for a more accurate and tailored estimate.
-   - Email: osiris_support@proton.me
+   - Encourage the client to provide more details for a more accurate and tailored estimate and ask for feedback.
 
 **Client Request:** *"INSERT_YOUR_PROJECT_DETAILS_HERE"*
