@@ -67,28 +67,5 @@ LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 - Live-Chat (no login): https://autoplug.one/chat
 
 
-<details>
-<summary><h3>Typical Workflow</h3> <small>👇 Click to show content</small></summary>
-    
-- **Initial Consultation**: Free. Please provide as much detail as possible. I offer one free 15-minute online meeting.
-- **Progress Updates**: Provided every 8 hours of work.
-- **Code Access**: Code will be uploaded to a private GitHub repository, accessible only to you and me for transparent version control.
-- **Budgeting**: I work on tasks until completion or until the budget limit is reached. Please specify your preferred and maximum budgets.
-
-**Advantages:**
-1. **Cost Efficiency**: No need to provide benefits, office space, or equipment.
-2. **Flexibility**: Hire for specific tasks with the ability to adjust as needed.
-3. **Specialized Skills**: Access experts from a global talent pool.
-4. **Reduced Overhead**: Lower operating costs due to remote work.
-
-**Common Concerns:**
-1. **Limited Control**: Freelancers work independently, which may limit control over processes.  
-    - Solution: I offer guaranteed work hours per week, with options for specified methods and processes.
-  
-2. **Lack of Loyalty**: Freelancers might prioritize other clients or projects.  
-    - Solution: My rate structure ensures equal priority across clients.
-
-3. **Communication Challenges**: Time zone differences and language barriers can hinder communication.  
-    - Solution: I am multilingual and offer various communication channels based on your selected rate.
-
-</details>
+### Still have questions?
+Check out this [frequently asked questions](https://github.com/Osiris-Team/Osiris-Team/blob/main/delivery_FAQ.md), and contact me if there is anything unclear.
