@@ -13,6 +13,7 @@ In your response, please include the following structured sections:
    - Columns:
      - Title (prefer using client provided words/definitions here).
      - A brief description.
+     - Priority (low, medium, high, critical)
      - Predicted work hours.
      - Any assumptions made.
      - Potential risks or challenges.
