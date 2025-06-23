@@ -83,6 +83,8 @@ In the **first week**, you’ll already receive a basic test version with the mo
 
 You’ll be able to test everything directly on your computer and give feedback early.
 
+---
+
 ### 👇 How does the typical workflow look like?
     
 - **Initial Consultation**: Free. Please provide as much detail as possible. I offer one free 15-minute online meeting.
