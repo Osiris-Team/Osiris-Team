@@ -239,14 +239,14 @@ measures).
 ### 13.1 Basic Package  
 The optimal choice for occasional developer needs when time constraints are not a factor.  
 
-- Minimum 1 hour of work per week guaranteed.  
+- Minimum 1 hour of work per week guaranteed, with a maximum of 4 hours.
 
 ### 13.2 Pro Package  
 The best option when seeking a dependable developer for medium to large projects.  
 
 The "Pro" rate includes some benefits over the "Basic" rate:  
 
-- Minimum 4 hours of work per week guaranteed.  
+- Minimum 4 hours of work per week guaranteed, with a maximum of 16 hours.
 - The Client can set online live meetings or meetings in person if possible.  
 - The Client can set deadlines for tasks.  
   - The Developer must agree to the deadline in writing.  
@@ -259,7 +259,7 @@ The superior choice when you need a reliable and fast working, long-term Develop
 
 The "Expert" rate includes all "Pro" benefits and provides some additional benefits:  
 
-- Minimum 8 hours of work per week guaranteed.  
+- Minimum 8 hours of work per week guaranteed, with no maximum limit.
 - The Client can get the Developers' phone number, on request and call any time.  
 - The Client can benefit from live-chat and screen-sharing support.  
 - The Clients' tasks get prioritized over Clients with the "Basic" and "Pro" rates.   
