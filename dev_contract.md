@@ -21,14 +21,14 @@
 ## 3. Validity  
 
 - All parties have freely agreed to the following and look forward to working together.  
-- Any previous versions are superseded upon mutual acceptance and transmission of a dated signed copy.  
 - This contract intended to be valid from acceptance by all parties until termination.
-- This Agreement constitutes the entire understanding between the parties and supersedes all prior agreements or understandings, whether written or oral.
-- Any amendments to this Agreement must be in writing and signed by both parties. 
+- Any previous versions of this contract are superseded upon mutual acceptance and transmission of a dated signed copy.  
+- This contract constitutes the entire understanding between the parties and supersedes all prior agreements or understandings, whether written or oral.
+- Any amendments to this contract must be in writing and signed by both parties. 
 
 ## 4. Governing Law and Dispute Resolution  
 
-**4.1 Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of Switzerland, excluding its conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods (CISG).  
+**4.1 Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of Switzerland, excluding its conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods (CISG).
 
 **4.2 Good Faith Negotiation:** In the event of a dispute, controversy, or claim arising out of or relating to this Agreement, the Parties shall first seek to resolve the matter through good faith negotiations, initiated by written notice describing the issue in reasonable detail. The recipient shall respond within ten (10) calendar days. Negotiation efforts must continue for a minimum of fifteen (15) calendar days from the date of initial notice.  
 
