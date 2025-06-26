@@ -240,6 +240,7 @@ measures).
 The optimal choice for occasional developer needs when time constraints are not a factor.  
 
 - Minimum 1 hour of work per week guaranteed, with a maximum of 4 hours.
+- The Client must select the "MIT License", unless otherwise agreed in writing. 
 
 ### 13.2 Pro Package  
 The best option when seeking a dependable developer for medium to large projects.  
@@ -247,10 +248,8 @@ The best option when seeking a dependable developer for medium to large projects
 The "Pro" rate includes some benefits over the "Basic" rate:  
 
 - Minimum 4 hours of work per week guaranteed, with a maximum of 16 hours.
-- The Client can set online live meetings or meetings in person if possible.  
-- The Client can set deadlines for tasks.  
-  - The Developer must agree to the deadline in writing.  
-  - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks can be cut by 50%, this decision is at the sole discretion of the Client.  
+- The Client must select the "MIT License", unless otherwise agreed in writing. 
+- The Client can set online live meetings, however is limited to one per week, with a maximum length of 1 hour.  
 - The Clients' tasks get prioritized over Clients with the "Basic" rate.  
 
 ### 13.3 Expert Package  
@@ -261,8 +260,11 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
 
 - Minimum 8 hours of work per week guaranteed, with no maximum limit.
 - The Client can get the Developers' phone number, on request and call any time.  
-- The Client can benefit from live-chat and screen-sharing support.  
-- The Clients' tasks get prioritized over Clients with the "Basic" and "Pro" rates.   
+- The Client can benefit from online meetings, or meetings in person (if possible), with no weekly limits or hourly limits.  
+- The Clients' tasks get prioritized over Clients with the "Basic" and "Pro" rates.
+- The Client can set deadlines for tasks.  
+  - The Developer must agree to the deadline in writing.  
+  - If the Developer fails to complete the tasks by the deadline, the rate/payment for those tasks can be cut by 20%, this decision is at the sole discretion of the Client. 
 
 ## 14. Payment Logic  
 
