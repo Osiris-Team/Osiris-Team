@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://github.com/Osiris-Team/#about-me">About Me</a> -
-    <a href="https://github.com/Osiris-Team/#projects">Projects</a> -
+    <a href="http://github.com/Osiris-Team/Osiris-Team/blob/main/projects.md">Projects</a> -
     <a href="https://github.com/Osiris-Team/#rates">Rates</a> -
     <a href="https://github.com/Osiris-Team/#contact">Contact</a>
 </p>
