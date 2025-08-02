@@ -1,3 +1,5 @@
+# Projects 
+
 Below you can find some curated (open-source and proprietary) projects that give you a good overview of my strengths.
 You can also view a list of my most successful open-source projects [here](https://github.com/Osiris-Team?tab=repositories&q=&type=&language=&sort=stargazers) if you are interested.
 
@@ -9,7 +11,13 @@ Take a look at some client reviews (average 4.8/5 stars), all of them can be fou
 
 > Great communication and fast replies, delivered what was asked for. Before any important decision, always asked which approach was in my best interest. - mani_monti, Portugal
 
-#### Extension of a CRM Web-Panel
+## Professional Projects
+
+#### Custom ERP web-panel for a medical transport company <sup><sub>Jun - Aug 2025</sub></sup>
+
+I developed a fully custom logistics and data management platform, focusing on both core functionality and system scalability. I designed a clean, extensible database model and implemented key modules including user authentication via Dropbox, a comprehensive admin panel, and intuitive UIs for order entry and multiple overviews. I created automated workflows for importing structured data (CSV), parsing shipment information from emails, and exporting Excel reports aligned with client specifications. Enhancements were made across the board based on ongoing client feedback, including shipment summaries, contact management, and pricing logic. I also managed cloud deployment tasks, improved system security, and supported project coordination through regular client communication and documentation updates. The result was a robust, flexible foundation ready for future expansion and automation.
+
+#### Extension of a legacy CRM web-panel for customer acquisition and automations <sup><sub>Nov 2024 - Apr 2025</sub></sup>
 
 I expanded the functionality of an existing CRM Web-Panel by developing a new, separate Web-Panel that operates on the same machine and connects to the same SQL database as the original CRM.
 This approach was necessary due to the closed-source nature of the original CRM; however, the original developers provided access to the database, allowing for the integration of additional features through my external software.
@@ -21,7 +29,7 @@ The new functionalities included advanced filtering and enhancement of client cu
 
 </div>
 
-#### Custom ERP Web-Panel
+#### Custom ERP web-panel for a funeral home <sup><sub>Feb 2024 - Jan 2025</sub></sup>
 
 I developed a fully customized ERP Web-Panel designed to meet the specific requirements of the client, incorporating a variety of advanced and tailored features. Among these was an integrated web-based PDF editor, which included customizable preset templates and the capability for automatic data population, significantly streamlining document creation. Additionally, the system featured a robust product database for managing inventory and a secure customer information storage solution, enabling efficient data retrieval and management.
 
@@ -31,7 +39,7 @@ To enhance collaboration and user experience, the ERP solution also supported mu
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
-#### Airport Camera Control Web-Panel 
+#### Custom web-panel for airport camera control <sup><sub>Jul - Oct 2024</sub></sup>
 
 The system enables live video streaming from multiple airport cameras, with full control over their feeds, and includes an advanced feature for tracking incoming airplanes using AI-powered object detection. This was a particularly complex challenge, as it required processing individual frames from the video stream in real-time while ensuring high performance despite the computational demands of object detection, which led to occasional processing spikes. To address this, several performance optimizations were implemented to ensure smooth operation and minimize latency.
 
@@ -40,6 +48,17 @@ Additionally, the solution had to interface with the airport cameras using a pro
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9ce4dd85-a8e4-4862-bb70-ede1b5a1bb6d"></img>
 </div>
+
+#### Enhancements to Open-Source Android Apps
+I worked on multiple Open-Source Android apps like [OpenLauncher](https://github.com/Osiris-Team/openlauncher),
+[Simple-Calendar](https://github.com/Osiris-Team/Simple-Calendar), 
+[Notally](https://github.com/Osiris-Team/Notally),
+[VinylMusicPlayer](https://github.com/Osiris-Team/VinylMusicPlayer), etc. where I fixed bugs and implemented new features for clients.
+This taught me how to interact with existing code, fight the need of changing everything and focus on adding the requested changes only.
+I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also made me better at debugging/navigating 
+other developers code.
+
+## Personal Projects
 
 #### AutoPlug-Web and Client
 AutoPlug is my largest personal and monetized project. Its goal is to simplify/automate maintenance tasks of server admins.
@@ -84,13 +103,3 @@ handle the more complex things in Desku. This project expanded my knowledge of w
 PayHook is a lightweight and efficient Java library designed to simplify payment processing by unifying PayPal and Stripe into a single API. It eliminates the need for developers to manually handle JSON, API requests, or database storage, streamlining the integration of both one-time and subscription-based payments. Built with simplicity in mind, PayHook consists of just three core classes—PayHook, Product, and Payment—making it easy to adopt while maintaining flexibility for various use cases. By leveraging webhooks, it ensures secure and verified transactions, automatically managing missed payments and cancellations to reduce operational overhead.
 
 Developing PayHook has deepened my expertise in Java development, API integration, Webhooks/REST, and payment processing systems. I designed the library to unify PayPal and Stripe under a single, developer-friendly API, eliminating the need for direct JSON handling, API calls, and manual database management. Through this project, I honed my skills in designing scalable architectures, implementing secure webhook-based transactions, and optimizing database performance with low-level SQL queries. Additionally, working with real-time payment events reinforced my understanding of concurrency, data integrity, and error handling in mission-critical applications.
-
-
-#### Android Apps
-I worked on multiple Open-Source Android apps like [OpenLauncher](https://github.com/Osiris-Team/openlauncher),
-[Simple-Calendar](https://github.com/Osiris-Team/Simple-Calendar), 
-[Notally](https://github.com/Osiris-Team/Notally),
-[VinylMusicPlayer](https://github.com/Osiris-Team/VinylMusicPlayer), etc. where I fixed bugs and implemented new features for clients.
-This taught me how to interact with existing code, fight the need of changing everything and focus on adding the requested changes only.
-I also achieved a basic understanding of the Android API and the Kotlin language, plus these projects also made me better at debugging/navigating 
-other developers code.
