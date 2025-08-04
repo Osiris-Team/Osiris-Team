@@ -27,7 +27,7 @@ This approach was necessary due to the closed-source nature of the original CRM;
 The new functionalities included advanced filtering and enhancement of client customer data through web scraping and integration with the Google Maps/Places API. Furthermore, I implemented a phone number validation feature by leveraging the Twilio API to ensure data accuracy and improve the overall quality of the CRM system.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b2ca8901-68ac-4e1f-84a3-b578c7d7ede8"></img>
+    <img src="https://github.com/user-attachments/assets/dbf11582-b278-47d5-bf77-98e967e50ab3"></img>
 
 </div>
 
