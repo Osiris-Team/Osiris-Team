@@ -13,11 +13,13 @@ Take a look at some client reviews (average 4.8/5 stars), all of them can be fou
 
 ## Professional Projects
 
-#### Custom ERP web-panel for a medical transport company <sup><sub>Jun - Aug 2025</sub></sup>
+#### Custom ERP web-panel for a medical transport company
+<sup><sub>Jun - Aug 2025 | <a href="https://www.helmsinger.de/">HELMSINGER Transport GmbH</a></sub></sup></sub></sup> 
 
 I developed a fully custom logistics and data management platform, focusing on reducing the need of manual data entry and automating/simplifying core business processes. I designed a clean, extensible database model and implemented key modules including user authentication via Dropbox, a comprehensive admin panel, and intuitive UIs for order entry and multiple overviews. I created automated workflows for importing structured data (CSV), parsing shipment information from emails, and exporting Excel reports aligned with client specifications. Enhancements were made across the board based on ongoing client feedback, including shipment summaries, contact management, and pricing logic. I also managed cloud deployment tasks, improved system security, and supported project coordination through regular client communication and documentation updates. The result was a robust, flexible foundation ready for future expansion and automation.
 
-#### Extension of a legacy CRM web-panel for customer acquisition and automations <sup><sub>Nov 2024 - Apr 2025</sub></sup>
+#### Extension of a legacy CRM web-panel for customer acquisition and automations
+<sup><sub>Nov 2024 - Apr 2025 | <a href="https://marketing.bvmgmbh.de/">bvm GmbH</a></sub></sup></sub></sup> 
 
 I expanded the functionality of an existing CRM Web-Panel by developing a new, separate Web-Panel that operates on the same machine and connects to the same SQL database as the original CRM.
 This approach was necessary due to the closed-source nature of the original CRM; however, the original developers provided access to the database, allowing for the integration of additional features through my external software.
@@ -29,7 +31,8 @@ The new functionalities included advanced filtering and enhancement of client cu
 
 </div>
 
-#### Custom ERP web-panel for a funeral home <sup><sub>Feb 2024 - Jan 2025</sub></sup>
+#### Custom ERP web-panel for a funeral home 
+<sup><sub>Feb 2024 - Jan 2025 | <a href="https://www.fl-feuerbestattungen.de/">FL Feuerbestattungen GmbH</a></sub></sup></sub></sup> 
 
 I developed a fully customized ERP Web-Panel designed to meet the specific requirements of the client, incorporating a variety of advanced and tailored features. Among these was an integrated web-based PDF editor, which included customizable preset templates and the capability for automatic data population, significantly streamlining document creation. Additionally, the system featured a robust product database for managing inventory and a secure customer information storage solution, enabling efficient data retrieval and management.
 
@@ -39,7 +42,8 @@ To enhance collaboration and user experience, the ERP solution also supported mu
     <img src="https://github.com/user-attachments/assets/bdeb2ea4-2835-4d88-94d5-315e51758709"></img>
 </div>
 
-#### Custom web-panel for airport camera control <sup><sub>Jul - Oct 2024</sub></sup>
+#### Custom web-panel for airport camera control <sup><sub></sub></sup>
+<sup><sub>Jul - Oct 2024 | <a href="">Private</a></sub></sup></sub></sup> 
 
 The system enables live video streaming from multiple airport cameras, with full control over their feeds, and includes an advanced feature for tracking incoming airplanes using AI-powered object detection. This was a particularly complex challenge, as it required processing individual frames from the video stream in real-time while ensuring high performance despite the computational demands of object detection, which led to occasional processing spikes. To address this, several performance optimizations were implemented to ensure smooth operation and minimize latency.
 
@@ -50,6 +54,8 @@ Additionally, the solution had to interface with the airport cameras using a pro
 </div>
 
 #### Enhancements to Open-Source Android Apps
+<sup><sub>Jan - Nov 2023 | <a href="">Private</a></sub></sup></sub></sup> 
+
 I worked on multiple Open-Source Android apps like [OpenLauncher](https://github.com/Osiris-Team/openlauncher),
 [Simple-Calendar](https://github.com/Osiris-Team/Simple-Calendar), 
 [Notally](https://github.com/Osiris-Team/Notally),
