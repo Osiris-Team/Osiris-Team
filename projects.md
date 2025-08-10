@@ -18,6 +18,12 @@ Take a look at some client reviews (average 4.8/5 stars), all of them can be fou
 
 I developed a fully custom logistics and data management platform, focusing on reducing the need of manual data entry and automating/simplifying core business processes. I designed a clean, extensible database model and implemented key modules including user authentication via Dropbox, a comprehensive admin panel, and intuitive UIs for order entry and multiple overviews. I created automated workflows for importing structured data (CSV), parsing shipment information from emails, and exporting Excel reports aligned with client specifications. Enhancements were made across the board based on ongoing client feedback, including shipment summaries, contact management, and pricing logic. I also managed cloud deployment tasks, improved system security, and supported project coordination through regular client communication and documentation updates. The result was a robust, flexible foundation ready for future expansion and automation.
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/1215f92e-651a-450b-afdd-97e360246d8b"></img>
+
+</div>
+
+
 #### Extension of a legacy CRM web-panel for customer acquisition and automations
 <sup><sub>Nov 2024 - Apr 2025 | <a href="https://marketing.bvmgmbh.de/">bvm GmbH</a></sub></sup></sub></sup> 
 
