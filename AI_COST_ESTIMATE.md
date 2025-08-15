@@ -23,13 +23,14 @@ In your response, please include the following structured sections:
    - Apply an efficiency discount by dividing the total hours by 2.
    - **Final Price:** Multiply the total discounted hours by €80 and present the discounted total as the final price.
    - **Final Price (Fiverr):** Add 20% to the final price to clarify the cost for Fiverr users.
+   - State that VAT tax is not included and does not apply due to § 19 UStG.
 
 # Delivery Timeline
    - Calculate the estimated delivery time in weeks and clearly show all calculation steps in a table.
    - There are 3 packages with different available hours per week: "Basic" with 10h/week, "Pro" with 20h/week, and "Expert" with 30h/week.
    - Assume a single developer and use the discounted hours.
    - State that the "Expert" package is selected. 
-   - State explicitly and always mention that these developer availabilies are no guarantees, but instead predictions only, for more details the contract must be consultet.
+   - State explicitly and always mention that these developer availabilies are no guarantees, but instead predictions only, for more details the contract must be consulted.
 
 # License and Legal Terms
    - State that all legal terms will be governed by this contract (include the URL): https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md
