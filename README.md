@@ -2,7 +2,7 @@
 <div align="center">
     
 ### You can hire me for any software project and join 30+ happy clients 🎉
-#### Rates: 20€, 40€ and 80€/h. [Live-Chat (no login).](https://autoplug.one/chat)
+#### [Write me a message here (no login required)](https://autoplug.one/chat)
 </div>
 
 <div align="center">
@@ -54,9 +54,9 @@ LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 
 
 ### Rates
-- [Basic rate: 20€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#basic-rate)
-- [Pro rate: 40€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate)
-- [Expert rate: 80€ per hour](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#pro-rate)
+- [Basic package](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#131-basic-package)
+- [Pro package](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#132-pro-package)
+- [Expert package](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#133-expert-package)
 
 [View the full contract for development on software projects here.](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
 
