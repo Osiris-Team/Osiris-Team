@@ -53,12 +53,12 @@ Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP
 LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 
 
-### Rates
-- [Basic package](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#131-basic-package)
-- [Pro package](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#132-pro-package)
-- [Expert package](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#133-expert-package)
+### Packages (Hourly Rates)
+- [Basic package: 20€ - 40€/h](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#131-basic-package)
+- [Pro package: 40€ - 80€/h](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#132-pro-package)
+- [Expert package: 80€ - 380€/h](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#133-expert-package)
 
-[View the full contract for development on software projects here.](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md)
+The exact hourly rates are specific to the client and project, thus feel free to contact me for a quote. Additionally you will also receive a detailed project overview and cost estimate. For further legal details, view the full contract for development on software projects [here](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md).
 
 
 ### Contact
