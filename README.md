@@ -53,6 +53,15 @@ Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP
 LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 
 
+### Milestone & Feedback based Development
+Unlike the traditional software development approach, where requirements are defined up front,
+and you only see the finished product months later, I follow a more flexible, collaborative process.
+We have a weekly call to review and test the software together, so you can give direct feedback as the product evolves. 
+This way, you’re not locked into early assumptions; instead, the software grows with your needs and I get a deeper understanding of your vision.
+In fact, the projects where I’ve applied this method have consistently led to the highest client satisfaction and best results.
+The details of how often and long these meetings are, is fully up to you and the complexity of your project.
+
+
 ### Packages (Hourly Rates)
 - [Basic package: 20€ - 40€/h](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#131-basic-package)
 - [Pro package: 40€ - 80€/h](https://github.com/Osiris-Team/Osiris-Team/blob/main/dev_contract.md#132-pro-package)
