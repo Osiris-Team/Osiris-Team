@@ -20,7 +20,6 @@
 - Software development across various platforms.
 - Detailed code reviews, mentorships and consulting.
 - Bug fixes and enhancements for existing projects.
-- [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
 
 
 ### About Me
@@ -68,6 +67,7 @@ GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
 - Libraries & Frameworks: Vaadin, Hilla, Spring-Boot, Tomcat, React, Angular, Bootstrap, Vue.js,
 Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
 LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
+- My Services: [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
 
 
 ### Core Competencies
