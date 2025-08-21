@@ -37,7 +37,7 @@ Please explore more about my skills and projects below. Don’t hesitate to reac
 ### [Projects 👇 Click to show content](http://github.com/Osiris-Team/Osiris-Team/blob/main/projects.md)
 
 
-### Milestone & Feedback based Development
+### Milestone + Feedback based Development
 Unlike the traditional software development approach, where requirements are defined up front,
 and you only see the finished product months later, I follow a more flexible, collaborative process.
 We have a weekly call to review and test the software together, so you can give direct feedback as the product evolves. 
