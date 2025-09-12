@@ -67,7 +67,7 @@ GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
 - Libraries & Frameworks: Vaadin, Hilla, Spring-Boot, Tomcat, React, Angular, Bootstrap, Vue.js,
 Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
 LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
-- My Services: [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
+- Sites: [osiristeam.com](https://osiristeam.com/), Services: [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
 
 
 ### Core Competencies
