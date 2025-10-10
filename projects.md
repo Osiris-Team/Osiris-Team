@@ -25,7 +25,7 @@ I developed a fully custom logistics and data management platform, focusing on r
 
 
 #### Extension of a legacy CRM web-panel for customer acquisition and automations
-<sup><sub>Nov 2024 - Apr 2025 | <a href="https://marketing.bvmgmbh.de/">bvm GmbH</a></sub></sup></sub></sup> 
+<sup><sub>Nov 2024 - Apr 2025 </sup> 
 
 I expanded the functionality of an existing CRM Web-Panel by developing a new, separate Web-Panel that operates on the same machine and connects to the same SQL database as the original CRM.
 This approach was necessary due to the closed-source nature of the original CRM; however, the original developers provided access to the database, allowing for the integration of additional features through my external software.
