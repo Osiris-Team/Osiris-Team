@@ -13,7 +13,7 @@ In your response, please include the following structured sections:
    - Present a table of implementation details.
    - Columns:
      - Title (prefer using client provided words/definitions here).
-     - A brief description.
+     - A very detailed description.
      - Priority (low, medium, high, critical)
      - Predicted work hours.
      - Any assumptions made.
