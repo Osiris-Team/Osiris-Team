@@ -1,4 +1,4 @@
-# Contract for Development on Software Projects  
+# Service Contract for Development on Software Projects  
 
 - A list of changes can be found [here](https://github.com/Osiris-Team/Osiris-Team/commits/main/dev_contract.md).  
 - This file can be viewed as a raw text file [here](https://raw.githubusercontent.com/Osiris-Team/Osiris-Team/main/dev_contract.md).  
