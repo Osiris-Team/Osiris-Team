@@ -28,7 +28,7 @@
 
 ## 4. Governing Law and Dispute Resolution  
 
-**4.1 Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of Switzerland, excluding its conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods (CISG).
+**4.1 Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of Germany, excluding its conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods (CISG).
 
 **4.2 Good Faith Negotiation:** In the event of a dispute, controversy, or claim arising out of or relating to this Agreement, the Parties shall first seek to resolve the matter through good faith negotiations, initiated by written notice describing the issue in reasonable detail. The recipient shall respond within ten (10) calendar days. Negotiation efforts must continue for a minimum of fifteen (15) calendar days from the date of initial notice.  
 
@@ -42,7 +42,7 @@ If the Parties cannot agree on an institution within ten (10) calendar days, WIP
 **4.4 Binding Arbitration:** If the mediation does not result in a resolution within thirty (30) calendar days following the appointment of a mediator, the dispute shall be resolved by binding arbitration under the applicable commercial rules of the selected institution. Arbitration shall be:  
 - Conducted in English, unless otherwise agreed;  
 - Decided by a single, neutral arbitrator jointly selected by the Parties;  
-- Held with the seat of arbitration in Zurich, Switzerland, or another mutually agreed neutral location (including remote proceedings via videoconference, where appropriate).  
+- Held with the seat of arbitration in Moenchengladbach, Germany, or another mutually agreed neutral location (including remote proceedings via videoconference, where appropriate).  
 Judgment upon the arbitration award may be entered in any court of competent jurisdiction. The arbitration award shall be final and binding on both Parties.  
 
 **4.5 Interim Relief:** Either Party may seek interim, emergency, or injunctive relief in any court of competent jurisdiction when necessary to prevent irreparable harm, protect intellectual property, or preserve legal rights pending the resolution of the dispute. This right does not waive or limit the obligation to arbitrate.  
