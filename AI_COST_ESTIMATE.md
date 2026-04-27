@@ -24,9 +24,11 @@ In your response, please include the following structured sections (translate al
    - Add 4 hours per week for client communication, emails, calls etc.
    - **Final Price:** Multiply the total discounted hours by €80 and present the discounted total as the final price.
    - **Final Price (Fiverr):** Add 20% to the final price to clarify the cost for Fiverr users.
-   - State that VAT tax is not included and does not apply due to § 19 UStG.
-   - State that this is not an offer, instead its a non binding initial cost estimate and clarify that you can expect a +-50% in the actual price, since the contract is a service contract (hourly, not fixed project price).
-   - State that for private persons a reduced hourly rate is available, and that for businesses there is also another package available if they have no interest in keeping the full copyright for the code.
+   - Always state the following:
+     - "VAT is not included and does not apply in accordance with § 19 UStG."
+     - "This is a non-binding, defensively calculated cost estimate with a possible deviation of ±30%, particularly since many technical details in legacy Access systems only become fully visible during implementation."
+     - "It should also be noted that this is a service agreement and billing is not based on a fixed project price, but on the actual hours worked."
+     - "A reduced hourly rate is available for private individuals under the “Basic” package. For companies, an alternative “Pro” package is also available, particularly in cases where there is no interest in full transfer of the intellectual property rights to the code. The “Expert” package is currently selected."
 
 # Delivery Timeline
    - Calculate the estimated delivery time in weeks and clearly show all calculation steps in a table.
