@@ -13,8 +13,8 @@ In your response, please include the following structured sections (translate al
    - Present a table of implementation details.
    - Columns:
      - Title (prefer using client provided words/definitions here).
-     - A very detailed description.
-     - Predicted work hours.
+     - Description (as detailed as possible).
+     - Hours (best case predictions).
      - Any assumptions made.
      - Potential risks or challenges.
 
@@ -26,7 +26,7 @@ In your response, please include the following structured sections (translate al
    - **Final Price (Fiverr):** Add 20% to the final price to clarify the cost for Fiverr users.
    - Always state the following:
      - "VAT is not included and does not apply in accordance with § 19 UStG."
-     - "This is a non-binding, defensively calculated cost estimate with a possible deviation of ±30%, particularly since many technical details in legacy Access systems only become fully visible during implementation."
+     - "This is a non-binding, defensively calculated cost estimate with possible deviations."
      - "It should also be noted that this is a service agreement and billing is not based on a fixed project price, but on the actual hours worked."
      - "A reduced hourly rate is available for private individuals under the “Basic” package. For companies, an alternative “Pro” package is also available, particularly in cases where there is no interest in full transfer of the intellectual property rights to the code. The “Expert” package is currently selected."
 
