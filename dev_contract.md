@@ -20,11 +20,11 @@
 
 ## 3. Validity  
 
-- All parties have freely agreed to the following and look forward to working together.  
-- This contract intended to be valid from acceptance by all parties until termination.
-- Any previous versions of this contract are superseded upon mutual acceptance and transmission of a dated signed copy.  
-- This contract constitutes the entire understanding between the parties and supersedes all prior agreements or understandings, whether written or oral.
-- Any amendments to this contract must be in writing and signed by both parties. 
+- **3.1 Agreement:** All parties have freely agreed to the following and look forward to working together.  
+- **3.2 Duration:** This contract is intended to be valid from acceptance by all parties until termination.
+- **3.3 Superseding Clause:** Any previous versions of this contract are superseded upon mutual acceptance and transmission of a dated signed copy.  
+- **3.4 Entire Agreement:** This contract constitutes the entire understanding between the parties and supersedes all prior agreements or understandings, whether written or oral. Any amendments to this contract must be in writing and signed by both parties. 
+- **3.5 Severability:** If any provision of this contract is held to be invalid, illegal, or unenforceable under applicable law, the remaining provisions of this contract shall remain in full force and effect. The parties agree to replace the invalid, illegal, or unenforceable provision with a valid provision that most closely reflects the original economic and legal intent of the parties.
 
 ## 4. Governing Law and Dispute Resolution  
 
@@ -39,11 +39,12 @@
 - Or another internationally recognized institution.  
 If the Parties cannot agree on an institution within ten (10) calendar days, WIPO shall serve as the default mediation body. Mediation shall be conducted in English, unless otherwise agreed.  
 
-**4.4 Binding Arbitration:** If the mediation does not result in a resolution within thirty (30) calendar days following the appointment of a mediator, the dispute shall be resolved by binding arbitration under the applicable commercial rules of the selected institution. Arbitration shall be:  
+**4.4 Binding Arbitration and Standard Court Option:** If the mediation does not result in a resolution within thirty (30) calendar days following the appointment of a mediator, the dispute shall be resolved by binding arbitration under the applicable commercial rules of the selected institution. Arbitration shall be:  
 - Conducted in English, unless otherwise agreed;  
 - Decided by a single, neutral arbitrator jointly selected by the Parties;  
 - Held with the seat of arbitration in Moenchengladbach, Germany, or another mutually agreed neutral location (including remote proceedings via videoconference, where appropriate).  
 Judgment upon the arbitration award may be entered in any court of competent jurisdiction. The arbitration award shall be final and binding on both Parties.  
+*Exception for Small Claims:* Notwithstanding the arbitration requirement above, either Party may bring an action in the standard local courts of Moenchengladbach, Germany, for any dispute or claim where the total amount in controversy is less than €10,000 (ten thousand Euros), excluding interest and costs.
 
 **4.5 Interim Relief:** Either Party may seek interim, emergency, or injunctive relief in any court of competent jurisdiction when necessary to prevent irreparable harm, protect intellectual property, or preserve legal rights pending the resolution of the dispute. This right does not waive or limit the obligation to arbitrate.  
 
@@ -51,8 +52,14 @@ Judgment upon the arbitration award may be entered in any court of competent jur
 
 ## 5. Good Faith and Notice  
 
-- The Developer will act in good faith (i.e will not attempt deception or defraud via methods including but not limited to double billing of hours or making “changes for changes sake” i.e ).  
-- Any potential breach of good faith, will lead to a discussion before exploring other options.  
+- The Developer will act in good faith (i.e. will not attempt deception or defraud via methods including but not limited to double billing of hours or making unnecessary code changes).  
+- Any potential breach of good faith will lead to a discussion before exploring other options.  
+
+Here is the fully reformulated **Section 6. Scope of Work**. 
+
+The text has been structured around the legal and operational principles of a service contract (**Dienstvertrag**), meaning billing is tied directly to hourly efforts and the act of delivery, without being delayed by a formal acceptance (*Abnahme*) process. To protect the Client, a strong post-payment **Functionality Warranty and Refund Period** has been woven in as a contractual guarantee, ensuring that defects are corrected by the Developer at no additional cost.
+
+***
 
 ## 6. Scope of Work  
 
@@ -64,14 +71,13 @@ Judgment upon the arbitration award may be entered in any court of competent jur
 
 **6.4 Task Priority:** The Developer shall propose the order, priority, and selection of tasks to be undertaken and delivered. The Client shall have the right to review and approve this proposed prioritization. Final task prioritization shall be mutually agreed upon, provided that such decisions do not conflict with any previously agreed-upon deadlines or priority arrangements.  
 
-**6.5 Task Change:** The Client may propose changes or new tasks in writing. The Developer shall promptly estimate the
-impact on time and cost, and the parties will mutually agree in writing before proceeding. Any material change in the scope or requirements of a task after work has begun must be documented in writing and approved by both parties, including any adjustment to the fee, timeline, or deliverables.
+**6.5 Task Change:** The Client may propose changes or new tasks in writing. The Developer shall promptly estimate the impact on the required work hours, and the parties will mutually agree in writing before proceeding. Any material change in the scope or requirements of a task after work has begun must be documented in writing and approved by both parties, including any adjustment to the estimated hours, timeline, or deliverables.
 
 **6.6 Delivery:** All completed tasks must be delivered by the Developer in one of the following ways, depending on who owns or maintains the repository:  
 
   1. When the Client or a Third-Party created or owns the repository:  
      - The Developer must submit the task as a separate Merge Request (MR) to the Client’s upstream repository (or fork), using a descriptive branch name and meaningful commit messages.  
-     - For simplicity the Developer might also ask for permission to instead create a single MR containing multiple tasks.  
+     - For simplicity, the Developer might also ask for permission to instead create a single MR containing multiple tasks.  
      - Alternatively, if the Client uses an upstream public repository owned by another party, the Developer may submit a separate MR to the upstream repository, with the Client copied or tagged.  
 
   2. When the Developer created or owns the repository:  
@@ -80,42 +86,39 @@ impact on time and cost, and the parties will mutually agree in writing before p
 
 **6.7 Delivery Frequency:** The amount and frequency of deliveries is at the sole discretion of the Developer.  
 
-**6.8 Delivery Labeling:** All deliveries must be clearly labeled and must reference the original tasks or issues they are intended to fulfill. The Client is responsible for testing whether the delivery fulfills the task requirements.  
+**6.8 Delivery Labeling:** All deliveries must be clearly labeled and must reference the original tasks or issues they are intended to fulfill. The Client is responsible for testing whether the delivery fulfills the task requirements during the Post-Delivery Review Period.  
 
-**6.9 Delivery Notification:** The Client must be notified about a delivery in writing or via electronic communication and include a link to the MR or commit.  
+**6.9 Delivery Notification:** The Client must be notified about a delivery in writing or via electronic communication, and the notification must include a link to the MR or commit, along with a log of the hours worked on that specific delivery.  
 
-**6.10 Delivery Usage and Testing:** The Client assumes all responsibility for use, deployment, and integration of the delivery in production systems, including proper testing, security, and compliance. The Client is responsible for testing whether the delivery fulfills the task requirements.  
+**6.10 Delivery Usage and Testing:** The Client assumes all responsibility for use, deployment, and integration of the delivery in production systems, including proper testing, security, and compliance.  
 
-**6.11 Delivery Rejection:** The Client may reject or request revisions for a task but must provide written, actionable feedback. Its important to distinguish between a revision and refund requests, because the resulting additional work for the Developer is billed normally in the case of revisions. Refund requests are discussed further below.  
+**6.11 Post-Delivery Revisions:** The Client may request revisions or adjustments to a delivered task. Additional work or modifications requested by the Client that deviate from, or expand upon, the originally agreed task requirements constitute new efforts and shall be billed at the standard hourly rate. However, any work required to correct a defect or failure to meet the originally agreed specifications is governed by the Functionality Warranty (Section 6.14) and shall not be billed.  
 
-**6.12 Delivery Acceptance:** A delivery is considered acceptable and billable if the Client provides written approval, or ninety (90) calendar days pass after delivery without written rejection.  
+**6.12 Hourly Billing on Delivery:** This Agreement is structured as an hourly-based service contract. All hours worked by the Developer on a task are directly billable or deductible from prepaid hours immediately upon delivery of the task (as defined in Section 6.6) and notification to the Client. Payment for the hours worked is tied solely to the completion and delivery of the task, and is not conditional upon prior review, testing, or formal acceptance by the Client.  
 
-**6.13 Review Period:** The Client has up to ninety (90) calendar days from delivery of a task to:  
-  - Review and test the submitted work,  
-  - Provide written feedback or revision requests, or  
-  - Notify the Developer of material defects.  
+**6.13 Post-Delivery Review Period:** The Client has up to ninety (90) calendar days from the date of delivery to review, test, and integrate the submitted work. During this period, the Client may notify the Developer in writing of any defects, functional errors, or failures to meet the agreed-upon task specifications, which shall then be addressed under the Functionality Warranty.  
 
-**6.14 Functionality Warranty and Refund Period:** The Developer warrants that the delivery will operate in accordance with the agreed-upon specifications and requirements for a period of ninety (90) calendar days following the delivery date. If the Client determines that the delivery exhibits defects, errors, or fails to meet the specified requirements within this timeframe, the Client may request a refund for any task of the delivery. The Developer shall, at their own expense and within a reasonable timeframe, correct or replace the non-conforming software to ensure compliance with the agreed-upon specifications, or instead provide the refund.  
+**6.14 Functionality Warranty and Defect Correction:** Notwithstanding the hourly service nature of this contract, the Developer warrants that the delivered work product will operate in accordance with the agreed-upon specifications for a period of ninety (90) calendar days following its delivery. If the Client identifies and reports a defect or failure to conform to specifications within this timeframe, the Developer shall, at their own expense (without billing additional hours) and within a reasonable timeframe, correct or replace the non-conforming software to ensure compliance. If the Developer is unable or declines to correct the non-conforming work within a reasonable timeframe, the Developer shall instead provide a refund for the hours directly billed for the affected task.  
 
-**6.15 Exclusions:** The warranty does not cover issues arising from and a refund is not possible when:  
+**6.15 Exclusions:** The warranty does not cover issues arising from, and a refund is not possible when:  
 - Modifications or alterations were made to the delivery by anyone other than the Developer.  
 - The affected parts of the delivery have been materially modified.  
 - The Client performed misuse, negligence, or unauthorized use of the delivery.  
 - Environmental factors or hardware malfunctions that are not under the Developer's control.  
 
-**6.16 Exclusive Remedy:** The remedies provided in this section are the Client's sole and exclusive remedies for any breach of the warranty.  
+**6.16 Exclusive Remedy:** The remedies provided in this section (free defect correction or, alternatively, a refund of billed hours) are the Client's sole and exclusive remedies for any breach of the warranty.  
 
-**6.17 Refund Amount:** The refund amount shall be calculated based on, and limited to, the number of hours directly attributable to the affected task at the time of delivery, multiplied by the applicable rate in effect at that time.  
+**6.17 Refund Amount:** The refund amount shall be calculated based on, and limited to, the number of hours directly attributable to the affected task at the time of delivery, multiplied by the applicable hourly rate in effect at that time.  
 
 **6.18 Refund Finality:** Once a refund is issued, the Developer has no further obligations for the refunded task, and the Client waives future claims related to that task. 
 
-**6.19 Dispute Resolution:** Both parties agree to first attempt resolution via good faith negotiation before escalating to mediation, arbitration, or legal action.  
+**6.19 Dispute Resolution:** Both parties agree to first attempt resolution via good faith negotiation before escalating to mediation, arbitration, or legal action.
 
 ## 7. Timing  
 
-- Time not spent actively working on a task (e.g. Research or writing / committing code), is the Developer' to use as they see fit.  
+- Time not spent actively working on a task (e.g., research, writing, or committing code) is the Developer's to use as they see fit.  
 - The Developer can multitask at their complete discretion.  
-- There is no fixed hours to encourage a healthy study/life/work balance.  
+- There is no rigid daily working schedule required of the Developer, allowing for a healthy study/life/work balance. However, this flexibility does not relieve the Developer of the obligation to meet the minimum weekly guaranteed hours of the selected package (Section 13), provided there are pending tasks to complete.
 
 ## 8. License and Copyright  
 
@@ -147,19 +150,24 @@ The Developer shall not reproduce, license, or distribute the Work Product, or a
 
 ### 8.4 Copyright Transfer  
 
-**8.4.1 Transfer of Ownership:** Upon full payment and written acceptance of each individual delivery or milestone, the Developer agrees to transfer all rights, title, and interest, including copyright, in the specific Work Product delivered under that milestone (including all software, code, documentation, designs, and related materials) to the Client. Upon such transfer, the specified Work Product shall become the exclusive property of the Client in the form it existed at the time of delivery and acceptance.
-Clarification for Cumulative Workflows:
-If a subsequent deliverable (e.g., Deliverable #2) includes modifications, extensions, or enhancements to a previously accepted deliverable (e.g., Deliverable #1), the copyright and ownership of those new changes remain with the Developer until full payment and formal acceptance of the new deliverable are complete, even though they build upon software the Client already owns.
-Therefore, while the Client owns the previously accepted and paid-for base software (Deliverable #1), they do not acquire ownership of any subsequent additions, refinements, or alterations (Deliverable #2) until those specific elements are paid in full and accepted.
-Use Limitation: The Client may not use, reproduce, or incorporate any unaccepted or unpaid modifications into their systems or redistribute them, as doing so would violate the Developer’s retained copyright.
+**8.4.1 Transfer of Ownership:** Upon full payment and written acceptance of each individual delivery or milestone, the Developer agrees to transfer all rights, title, and interest, including copyright, in the specific Work Product delivered under that milestone (including all software, code, documentation, designs, and related materials) to the Client. Upon such transfer, the specified Work Product shall become the exclusive property of the Client in the form it existed at the time of delivery and acceptance.  
+
+*Clarification for Cumulative Workflows:*  
+If a subsequent deliverable (e.g., Deliverable #2) includes modifications, extensions, or enhancements to a previously accepted deliverable (e.g., Deliverable #1), the copyright and ownership of those new changes remain with the Developer until full payment and formal acceptance of the new deliverable are complete, even though they build upon software the Client already owns.  
+Therefore, while the Client owns the previously accepted and paid-for base software (Deliverable #1), they do not acquire ownership of any subsequent additions, refinements, or alterations (Deliverable #2) until those specific elements are paid in full and accepted.  
+*Use Limitation:* The Client may not use, reproduce, or incorporate any unaccepted or unpaid modifications into their systems or redistribute them, as doing so would violate the Developer’s retained copyright.
 
 **8.4.2 Developer License:** To facilitate continued development, the Client grants the Developer a temporary, non-exclusive, non-transferable license to use, modify, and access the Work Product. This license is valid only while this contract remains active and un-terminated. The license exists solely for the purpose of completing ongoing or future Deliveries under this Agreement. Upon termination of this contract for any reason, this license is immediately revoked, and the Developer agrees to cease all use of the Work Product unless otherwise agreed in writing. Notwithstanding the foregoing, the Client reserves the right to revoke this license at its sole discretion at any time during the term of this Agreement, provided that such revocation does not conflict with any previously agreed-upon deadlines or priority arrangements.  
 
 **8.4.3 Developer Restrictions:** The Developer agrees not to reproduce, license, or distribute the Work Product, or any substantially similar derivative, to any third party.  
 
 **8.4.4 Use of Third Party and Open-Source Software:** The Developer may use third-party and/or open-source software components as part of the deliverables. The Developer shall:  
-- Disclose all open-source software libraires used.  
-- Ensure that all third-party components comply with licenses that allow commercial use, modification and redistribution.  
+- Disclose all open-source software libraries used.  
+- Ensure that all third-party components comply with licenses that allow commercial use, modification, and redistribution.  
+
+**8.4.5 Third-Party Licensing Fees and Expenses:** The Client is solely responsible for obtaining and paying for any third-party commercial software licenses, API usage costs, subscriptions, hosting services, or infrastructure costs required to develop, build, test, deploy, or run the Work Product, unless otherwise agreed upon in writing.
+
+**8.5 Intellectual Property Warranty:** The Developer represents and warrants that, to the best of their knowledge, the custom Work Product delivered under this Agreement is original and does not infringe upon any third-party intellectual property rights.
 
 ## 9. Background Technology  
 
@@ -175,64 +183,67 @@ This license does not apply to any Background Technology or component that is go
 
 ## 10. Limitations of Liability  
 
-Except as expressly provided in the "Scope of Work" and "License and Copyright" sections of this Agreement, all software, source code, documentation, and other deliverables (collectively, the “Work Product”) are provided “AS IS”, without any warranties of any kind—whether express, implied, statutory, or otherwise. This includes, but is not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or warranties arising from a course of dealing, usage, or trade practice.  
+**10.1 Disclaimer of Warranties:** Except as expressly provided in the "Scope of Work" and "License and Copyright" sections of this Agreement, all software, source code, documentation, and other deliverables (collectively, the “Work Product”) are provided “AS IS”, without any warranties of any kind—whether express, implied, statutory, or otherwise. This includes, but is not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or warranties arising from a course of dealing, usage, or trade practice.  
 
-To the fullest extent permitted under applicable law:  
-
+**10.2 Exclusions and Caps:** Subject to Section 10.3 and to the fullest extent permitted under applicable law:  
 - The Developer shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including, but not limited to, loss of profits, loss of data, business interruption, or loss of business opportunities, even if the Developer has been advised of the possibility of such damages.  
 - The Developer’s total cumulative liability under this Agreement shall not exceed the total fees actually paid by the Client for the specific task or deliverable giving rise to the claim.  
 - The Developer’s liability for any breach of warranty is strictly limited to the correction or replacement of the non-conforming Work Product, as outlined in the "Scope of Work" section.  
+- Third-party or open-source components incorporated into the Work Product are subject to their respective licenses, which may include “AS IS” disclaimers. The Client acknowledges and accepts the terms of such licenses and understands that the Developer does not provide any additional warranties for third-party or open-source software beyond compliance with license terms and proper attribution.  
 
-Third-party or open-source components incorporated into the Work Product are subject to their respective licenses, which may include “AS IS” disclaimers. The Client acknowledges and accepts the terms of such licenses and understands that the Developer does not provide any additional warranties for third-party or open-source software beyond compliance with license terms and proper attribution.  
+**10.3 Legal Exceptions:** 
+Notwithstanding any other provision in this Agreement, the limitations and exclusions of liability in this Section 10 shall not apply to, and nothing in this Agreement shall exclude or limit, the Developer’s liability for:
 
-Nothing in this section shall exclude or limit liability for gross negligence, fraud, or willful misconduct, where such exclusion or limitation is not permitted by applicable law.  
+- Damages arising from injury to life, body, or health resulting from a negligent or intentional breach of duty by the Developer, or their legal representatives or vicarious agents;
+- Intentional misconduct or gross negligence of the Developer, their legal representatives, or senior executives;
+- Mandatory statutory liability under the German Product Liability Act, solely to the extent legally mandatory and applicable to software services;
+- Claims based on fraudulently concealed defects or a specific guarantee of quality, if explicitly agreed upon in writing.
+
+For damages caused by the simple or gross negligence of ordinary vicarious agents who are not legal representatives or senior executives of the Developer, the Developer's liability shall be strictly limited to the contract-typical, foreseeable damage as defined below.
+
+In the case of a simple negligent breach of an essential contractual obligation, the Developer’s liability shall also be limited strictly to the contract-typical, foreseeable damage. For the purposes of this Agreement, an "essential contractual obligation" is narrowly defined as a duty whose fulfillment is absolutely essential to the proper execution of this contract and on whose compliance the Client may routinely rely (specifically, the primary service obligation to deliver functional code under the hourly structure). 
+
+The Parties mutually agree that the contract-typical, foreseeable damage under this Agreement shall in no event exceed:
+1. The total cumulative fees actually paid by the Client to the Developer under this Agreement during the twelve (12) months preceding the event giving rise to the claim, or
+2. A maximum cumulative limit of €25,000 (twenty-five thousand Euros),
+whichever amount is lower. This limit constitutes the Parties’ mutual pre-estimation of the maximum foreseeable damage typical for this type of software service contract.
 
 ## 11. Data Protection and Confidentiality
 
 **11.1 Data Protection:** If the Work Product or services involve processing of personal data, the Developer agrees to comply with all applicable data protection laws, including the EU General Data Protection Regulation (GDPR), to the extent applicable. Client remains the Data Controller; Developer acts as Data Processor.  
-The Developer shall do so only on documented instructions from the Client and in
-compliance with applicable data protection laws, including the EU General Data Protection
-Regulation (GDPR). The Developer shall implement appropriate technical and
-organizational measures to protect personal data against unauthorized access, loss, or breach. The Developer further agrees to sign a separate Data Processing Agreement, as
-required by GDPR Article 28, outlining the processor obligations, the nature of data
-processed, duration, and purpose of processing. The Developer will not transfer any
-personal data to a country outside the European Economic Area without ensuring adequate
-safeguards as required by GDPR (such as Standard Contractual Clauses or an approved
-transfer mechanism). The Developer also agrees to promptly inform the Client of any data
-breaches or requests from data subjects, and to assist the Client in complying with its legal
-obligations under data protection laws.
+The Developer shall do so only on documented instructions from the Client and in compliance with applicable data protection laws, including the EU General Data Protection Regulation (GDPR). The Developer shall implement appropriate technical and organizational measures to protect personal data against unauthorized access, loss, or breach. The Developer further agrees to sign a separate Data Processing Agreement, as required by GDPR Article 28, outlining the processor obligations, the nature of data processed, duration, and purpose of processing. The Developer will not transfer any personal data to a country outside the European Economic Area without ensuring adequate safeguards as required by GDPR (such as Standard Contractual Clauses or an approved transfer mechanism). The Developer also agrees to promptly inform the Client of any data breaches or requests from data subjects, and to assist the Client in complying with its legal obligations under data protection laws.
 
-**11.2 Confidential Information:** Each party (the “Receiving Party”) shall keep secret and
-confidential all information obtained from the other party (the “Disclosing Party”) in
-connection with this contract that is not publicly available or is marked or identified as
-confidential (or that should reasonably be understood to be confidential given its nature).
-This includes, without limitation, source code, business plans, technical know-how,
-customer data, trade secrets, and any other proprietary information. The Receiving Party
-shall use the Disclosing Party’s Confidential Information solely for the purposes of fulfilling
-its obligations under this contract and shall not disclose it to any third party without the
-Disclosing Party’s prior written consent. The Receiving Party shall protect the
-confidentiality of such information with at least the same degree of care as it uses for its
-own similar confidential information (and no less than a reasonable standard of care).
-These confidentiality obligations shall continue during the term of the contract and for a
-period of 3 years after its termination, or indefinitely for trade secrets.
+**11.2 Confidential Information:** Each party (the “Receiving Party”) shall keep secret and confidential all information obtained from the other party (the “Disclosing Party”) in connection with this contract that is not publicly available or is marked or identified as confidential (or that should reasonably be understood to be confidential given its nature). This includes, without limitation, source code, business plans, technical know-how, customer data, trade secrets, and any other proprietary information. The Receiving Party shall use the Disclosing Party’s Confidential Information solely for the purposes of fulfilling its obligations under this contract and shall not disclose it to any third party without the Disclosing Party’s prior written consent. The Receiving Party shall protect the confidentiality of such information with at least the same degree of care as it uses for its own similar confidential information (and no less than a reasonable standard of care). These confidentiality obligations shall continue during the term of the contract and for a period of 3 years after its termination, or indefinitely for trade secrets.
 
-**11.3 Permitted Disclosures:** Confidential Information does not include information that (a) is or becomes
-public without breach of this agreement, (b) was rightfully known by the Receiving Party
-before disclosure, (c) is received from a third party without duty of confidentiality, or (d) is
-required to be disclosed by law or court order (in which case the Receiving Party shall give
-prompt notice to the Disclosing Party and cooperate in seeking reasonable protective
-measures). 
+**11.3 Permitted Disclosures:** Confidential Information does not include information that (a) is or becomes public without breach of this agreement, (b) was rightfully known by the Receiving Party before disclosure, (c) is received from a third party without duty of confidentiality, or (d) is required to be disclosed by law or court order (in which case the Receiving Party shall give prompt notice to the Disclosing Party and cooperate in seeking reasonable protective measures). 
 
-## 12. Independent Contractor  
+**11.4 Publicity and Portfolio Rights:** The Developer may include the Client’s name, logo, and a brief, high-level, non-confidential description of the services provided under this Agreement in the Developer’s professional portfolio, website, and promotional materials, unless the Client requests otherwise in writing.
+
+To make the non-solicitation clause clearer, more specific, and more relaxed for the Client, we can apply three key adjustments:
+
+1. **Narrow the Scope of Protected Personnel:** Instead of a blanket restriction on any subcontractor or collaborator of the Developer, we limit the restriction only to individuals who *actively performed work* on the Client's project within the preceding 6 months. This prevents the Client from being penalized for hiring someone who works with you but was never assigned to their project.
+2. **Add a General Recruitment Exception (The "Relaxed" Element):** We can add a standard industry carve-out: if your collaborator applies to a general, public job posting by the Client without any direct targeting or solicitation, it is not considered a breach of this contract.
+3. **Clarify the 10% Rate Adjustment Math:** The rate-increase formula in the original draft was slightly ambiguous. We can add a simple mathematical example to make it completely transparent and prevent future billing disputes.
+
+## 12. Contractor Status, Subcontracting, and Non-Solicitation
 
 **12.1 Clarification:** The Developer is an independent contractor and not an employee, agent, or partner of the Client. Nothing in this Agreement shall create any employment, joint venture, or agency relationship. 
 
-**12.2 Non-Solicitation of Personnel:** The Client agrees not to directly or indirectly solicit, hire, or engage (as an employee, contractor, or otherwise) any employee, subcontractor, or collaborator of the Developer who has been involved in this project, during the term of this Agreement and for a period of one (3) months following its termination, without the Developer’s prior written consent. Exception: If the Client wishes to engage such an individual with the Developer’s consent, and the Developer remains actively involved in the project as the lead or primary developer, then the Developer shall be entitled to a rate increase equal to ten percent (10%) of the newly engaged individual's hourly rate, applied to the Developer’s own hourly rate. This adjustment recognizes the Developer’s continued coordination and oversight responsibilities.
+**12.2 Non-Solicitation of Personnel:** 
+The Client agrees not to directly or indirectly solicit, hire, or engage (whether as an employee, independent contractor, consultant, or otherwise) any employee, subcontractor, or collaborator of the Developer who was directly assigned to and performed work on the Client's project under this Agreement within the preceding six (6) months. This restriction applies during the term of this Agreement and for a period of six (6) months following its termination, unless the Developer provides prior written consent.
+
+*General Recruitment Exception:* This restriction does not apply if an eligible individual responds to a general, public job advertisement, recruitment campaign, or public posting by the Client that was not specifically targeted at the personnel, employees, or subcontractors of the Developer.
+
+*Oversight Compensation Exception:* If the Client wishes to directly engage an eligible individual and the Developer provides prior written consent, the Developer shall remain actively involved in the project as the lead or primary developer. To compensate the Developer for ongoing coordination and oversight responsibilities, the Developer’s hourly rate under this Agreement shall be increased by an amount equal to ten percent (10%) of the hourly rate paid by the Client to that newly engaged individual. 
+*(For example: If the newly engaged individual is paid $50 per hour by the Client, the Developer's own hourly rate under this Agreement shall automatically increase by $5 per hour for as long as both parties remain engaged on the project).*
+
+**12.3 Subcontracting:** The Developer may engage qualified subcontractors to perform portions of the services, provided that the Developer remains fully responsible for the performance of such subcontractors, ensures they are bound by confidentiality terms at least as restrictive as those contained herein, and remains the primary point of contact for the Client.
 
 ## 13. Payment Packages  
+
 - One (1) of the sub-sections listed below (Sections Basic Package, Pro Package, Expert Package) must be explicitly selected and agreed upon in writing by both parties.
-- In the interest of fairness, Clients of the same tier will recive equal treatement in terms of work priority.
-- If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week, however the maximum amount of pending hours is capped at 40.  
+- In the interest of fairness, Clients of the same tier will receive equal treatment in terms of work priority.
+- If the Developer fails to deliver the minimum guaranteed work hours per week, the missing time is added to the next week; however, the maximum amount of pending hours is capped at 40.  
 - The Client can change the minimum guaranteed work hours at any time to something lower (also to 0 hours) by contacting the Developer.
 - Guaranteed work hours are only valid while there are pending tasks to complete/deliver.
 
@@ -275,12 +286,9 @@ The "Expert" rate includes all "Pro" benefits and provides some additional benef
   - The Client shall pay all amounts in full, free of any withholding tax, unless required by law (in which case the payment shall be grossed-up as necessary to ensure the Developer receives the agreed net amount). 
   - The Client has 5 days to complete the payment upon receiving the invoice email or the due date.  
   - Payment is deemed completed at the time the Developer receives confirmation by the payment processor.  
-  - Any payment not made within 5 days of the due date shall accrue interest at the maximum rate permitted by law (or if not regulated: 9 percentage points above the ECB base interest rate per annum), compounded monthly.
-  - Upon termination, if the Client has prepaid for hours or a subscription period that has not fully elapsed, the Developer shall
-  refund any unearned amount for work not performed, unless termination was due to the
-  Developer's material breach (in which case a full refund of any prepayments for unused work shall be due).
-  - The Developer is responsible for his own operational costs. Any extraordinary expenses (e.g. travel, special equipment or software)
-  will only be incurred with Client's prior written approval and shall be reimbursed by the Client against receipts.
+  - Any payment not made within 5 days of the due date shall accrue simple interest at the statutory rate permitted under German law for transactions between undertakings (9 percentage points above the European Central Bank base interest rate per annum), calculated on a daily basis from the due date until the date payment is received in full.
+  - Upon termination, if the Client has prepaid for hours or a subscription period that has not fully elapsed, the Developer shall refund any unearned amount for work not performed, unless termination was due to the Developer's material breach (in which case a full refund of any prepayments for unused work shall be due).
+  - The Developer is responsible for his own operational costs. Any extraordinary expenses (e.g., travel, special equipment or software) will only be incurred with Client's prior written approval and shall be reimbursed by the Client against receipts.
 
 ### 14.1 Prepaid (Before Work Commences)  
 Ideal for clients who prefer to manage their budget closely and want to ensure that work is paid for in advance, minimizing financial risk.  
@@ -291,7 +299,7 @@ Ideal for clients who prefer to manage their budget closely and want to ensure t
 4. The Developer works (according to the selected rate) until the paid hours are completed.  
 
 ### 14.2 Postpaid (After Work Completion)  
-Suitable for clients who prefer to pay for work after it has been completed, providing them with the opportunity to review the work before making a payment. This option is only available for Clients that completed at least 500€ in Prepaid payments. 
+Suitable for clients who prefer to pay for work after it has been completed, providing them with the opportunity to review the work before making a payment. This option is only available for Clients that completed at least 500€ in Prepaid payments.  
 
 1. The Developer and Client agree on a timespan (usually a month).  
 2. The Developer works (according to the selected rate).  
@@ -317,27 +325,32 @@ This option is only available for Clients that completed at least 500€ in Prep
 
 ## 15. Termination Rights  
 
-Either party may terminate this Agreement at any time, for any reason or no reason, by providing written notice to the other party. Termination shall become effective upon receipt of such notice, unless a later termination date is specified.  
-
-Upon termination:  
+- **15.1 Termination for Convenience:** Either party may terminate this Agreement at any time, for any reason or no reason, by providing fourteen (14) calendar days' prior written notice to the other party.
+- **15.2 Termination for Cause:** Either party may terminate this Agreement immediately if the other party commits a material breach of this Agreement and fails to cure such breach within seven (7) calendar days of receiving written notice describing the breach in reasonable detail.
+- **15.3 Actions Upon Termination:** Upon termination:  
     - The Developer shall cease work on all pending tasks, unless otherwise agreed in writing.  
     - The Developer shall promptly deliver to the Client all completed work and any work-in-progress for which the Client has paid or is willing to pay. 
     - The Client shall remain responsible for payment of all work completed and properly invoiced prior to the effective date of termination. Payment will be made for any completed work as outlined within the Payment section.  
     - Any prepaid but unearned fees shall be refunded, and any unpaid fees for completed work shall become immediately due.  
     - The provisions related to confidentiality, intellectual property, limitations of liability, and any other terms which by their nature should survive, remain in full force and effect.  
 
-**Client Signature:** _______________________________  
+## 16. Force Majeure
 
-**Client Name:** _________________________________  
+Neither party shall be liable for any delay or failure in performance of its obligations under this Agreement (except for payment obligations) resulting directly from circumstances beyond its reasonable control, including but not limited to natural disasters, acts of God, war, terrorism, riots, strikes, government mandates, pandemics, or widespread failures of public utilities or telecommunications networks. The affected party shall promptly notify the other party in writing of the Force Majeure event. Performance shall be excused for the duration of the event, provided that if the delay or failure continues for more than thirty (30) consecutive calendar days, either party may terminate this Agreement upon written notice.
 
-**Title:** _______________________________________  
 
-**Date:** _______________________________________  
+```
+Client Signature:  _______________________________
 
-**Developer Signature:** __________________________  
+Client Name:       _______________________________
 
-**Developer Name:** _____________________________  
+Date:              _______________________________
 
-**Title:** _______________________________________  
 
-**Date:** _______________________________________  
+
+Developer Signature:  _______________________________
+
+Developer Name:       _______________________________
+
+Date:                 _______________________________
+```
