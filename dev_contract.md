@@ -55,12 +55,6 @@ Judgment upon the arbitration award may be entered in any court of competent jur
 - The Developer will act in good faith (i.e. will not attempt deception or defraud via methods including but not limited to double billing of hours or making unnecessary code changes).  
 - Any potential breach of good faith will lead to a discussion before exploring other options.  
 
-Here is the fully reformulated **Section 6. Scope of Work**. 
-
-The text has been structured around the legal and operational principles of a service contract (**Dienstvertrag**), meaning billing is tied directly to hourly efforts and the act of delivery, without being delayed by a formal acceptance (*Abnahme*) process. To protect the Client, a strong post-payment **Functionality Warranty and Refund Period** has been woven in as a contractual guarantee, ensuring that defects are corrected by the Developer at no additional cost.
-
-***
-
 ## 6. Scope of Work  
 
 **6.1 Task List:** The Developer will receive a list of tasks consisting of, for example, feature requests or bug fixes.  
