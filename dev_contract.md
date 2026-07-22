@@ -342,8 +342,10 @@ While the Developer communicates in good faith and aims for prompt replies, the 
 **17.2 No Server Administration or Hosting Management:** 
 The Developer is responsible solely for the delivery of code as specified in Section 6.6. The Developer does not provide, manage, or maintain hosting environments, cloud infrastructure, servers, domain names, database backups, or live deployment pipelines, nor does the Developer perform active server uptime monitoring. 
 
-**17.3 No Lifetime Support or Free Updates:** 
-Following the expiration of the ninety (90) day Post-Delivery Review Period (Section 6.13), any further modifications, security patches, compatibility updates (e.g., adapting the software to work with newly released operating systems, browsers, or language versions), or technical support shall be treated as new tasks and billed at the standard hourly rate.
+**17.3 No Free Upgrades, Compatibility Updates, or General Technical Assistance:** 
+Any modifications, security patches, framework upgrades, compatibility updates (such as adapting the software to work with newly released operating systems, browser updates, or updated programming language versions), or general technical assistance (such as assisting with server setup, troubleshooting the Client's local development environment, or training the Client's team on how to use the software) constitute new work. Consequently, these services are always billable at the standard hourly rate, regardless of whether they are requested during or after the ninety (90) day Post-Delivery Review Period. 
+
+For the avoidance of doubt, the Functionality Warranty (Section 6.14) covers only the correction of defects where the delivered software fails to meet agreed specifications, and does not cover general environment troubleshooting or operational guidance.
 
 **17.4 No Responsibility for Third-Party API or Service Failures:** 
 The Developer is not responsible for any service interruptions, deprecations, breaking changes, or failures originating from third-party APIs, external libraries, libraries maintained by third parties, hosting providers, or software-as-a-service (SaaS) products integrated into the Work Product. Any effort required to adapt the software to third-party changes is fully billable.
