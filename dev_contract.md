@@ -332,6 +332,27 @@ This option is only available for Clients that completed at least 500€ in Prep
 
 Neither party shall be liable for any delay or failure in performance of its obligations under this Agreement (except for payment obligations) resulting directly from circumstances beyond its reasonable control, including but not limited to natural disasters, acts of God, war, terrorism, riots, strikes, government mandates, pandemics, or widespread failures of public utilities or telecommunications networks. The affected party shall promptly notify the other party in writing of the Force Majeure event. Performance shall be excused for the duration of the event, provided that if the delay or failure continues for more than thirty (30) consecutive calendar days, either party may terminate this Agreement upon written notice.
 
+## 17. Out-of-Scope Activities and Exclusions of Service
+
+To ensure a clear understanding of boundaries and prevent unexpected costs, the following activities, services, and commitments are explicitly excluded from this Agreement, unless specifically requested by the Client, agreed to in writing by the Developer, and billed at the standard hourly rate.
+
+**17.1 No Guaranteed Response Times or SLAs:** 
+While the Developer communicates in good faith and aims for prompt replies, the Developer does not offer any Service Level Agreements (SLAs). There are no guaranteed response times for emails, messages, or support tickets. Emergency on-call standby or immediate troubleshooting response is not provided.
+
+**17.2 No Server Administration or Hosting Management:** 
+The Developer is responsible solely for the delivery of code as specified in Section 6.6. The Developer does not provide, manage, or maintain hosting environments, cloud infrastructure, servers, domain names, database backups, or live deployment pipelines, nor does the Developer perform active server uptime monitoring. 
+
+**17.3 No Lifetime Support or Free Updates:** 
+Following the expiration of the ninety (90) day Post-Delivery Review Period (Section 6.13), any further modifications, security patches, compatibility updates (e.g., adapting the software to work with newly released operating systems, browsers, or language versions), or technical support shall be treated as new tasks and billed at the standard hourly rate.
+
+**17.4 No Responsibility for Third-Party API or Service Failures:** 
+The Developer is not responsible for any service interruptions, deprecations, breaking changes, or failures originating from third-party APIs, external libraries, libraries maintained by third parties, hosting providers, or software-as-a-service (SaaS) products integrated into the Work Product. Any effort required to adapt the software to third-party changes is fully billable.
+
+**17.5 No Design, Copywriting, or Product Management:** 
+Unless explicitly agreed upon as part of a task list, the Developer does not provide user interface (UI) design, user experience (UX) research, copywriting, translation, marketing, search engine optimization (SEO), or product management services. The Client is expected to provide all necessary assets, designs, copy, and product specifications.
+
+**17.6 No On-Site Presence:** 
+All services under this Agreement are performed remotely. The Developer is under no obligation to travel or work from the Client’s premises, except as explicitly agreed upon in writing under the Expert Package, subject to full reimbursement of travel and lodging expenses as outlined in Section 14.
 
 ```
 Client Signature:  _______________________________
