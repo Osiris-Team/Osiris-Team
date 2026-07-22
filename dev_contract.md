@@ -65,7 +65,10 @@ Judgment upon the arbitration award may be entered in any court of competent jur
 
 **6.4 Task Priority:** The Developer shall propose the order, priority, and selection of tasks to be undertaken and delivered. The Client shall have the right to review and approve this proposed prioritization. Final task prioritization shall be mutually agreed upon, provided that such decisions do not conflict with any previously agreed-upon deadlines or priority arrangements.  
 
-**6.5 Task Change:** The Client may propose changes or new tasks in writing. The Developer shall promptly estimate the impact on the required work hours, and the parties will mutually agree in writing before proceeding. Any material change in the scope or requirements of a task after work has begun must be documented in writing and approved by both parties, including any adjustment to the estimated hours, timeline, or deliverables.
+**6.5 Task Change and Auto-Approval Threshold:** 
+The Client may propose changes or new tasks in writing. To minimize administrative delay and overhead:
+- **Tasks estimated at four (4) hours or less ("Micro-Tasks"):** The Developer is authorized to proceed immediately without providing a prior estimate or obtaining formal written approval from the Client. The hours worked on these Micro-Tasks will be logged and either deducted from the Client's prepaid balance/subscription quota or added to the outstanding balance, depending on the selected payment logic (Section 14).
+- **Tasks estimated over four (4) hours:** The Developer shall promptly estimate the required work hours. The parties must mutually agree in writing (via email or chat) on the estimate before the Developer proceeds with the work.
 
 **6.6 Delivery:** All completed tasks must be delivered by the Developer in one of the following ways, depending on who owns or maintains the repository:  
 
