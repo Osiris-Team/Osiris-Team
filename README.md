@@ -5,10 +5,10 @@
 #### [Write me a message here (no login required)](https://autoplug.one/chat)
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/overview.svg"></img>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
-</div>
+<p align="center">
+    <a href=""><img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/overview.svg"></img></a>
+    <a href=""><img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/languages.svg"></img></a>
+</p>
 
 <p align="center">
     <a href="https://github.com/Osiris-Team/#about-me">About Me</a> -
@@ -69,11 +69,6 @@ GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
 Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP, Android API,
 LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 - Sites: [osiristeam.com](https://osiristeam.com/), Services: [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
-
-<div>
-    <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/languages.svg"></img>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
-</div>
 
 ### Core Competencies
 - **Java**: Cross-platform server, desktop, mobile, and web development.
