@@ -6,7 +6,9 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>
+    
+    <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/overview.svg"></img>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
 </div>
 
 <p align="center">
@@ -61,6 +63,13 @@ The exact hourly rates are specific to the client and project, thus feel free to
 
 
 ### Technologies
+
+<div align="center">
+    
+    <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/languages.svg"></img>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
+</div>
+
 - IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, Unreal Engine.
 - Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
 GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
