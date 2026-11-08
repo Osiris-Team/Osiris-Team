@@ -62,12 +62,6 @@ The exact hourly rates are specific to the client and project, thus feel free to
 
 
 ### Technologies
-
-<div>
-    <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/languages.svg"></img>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
-</div>
-
 - IDEs: IntelliJ IDE, CLion, Eclipse, Visual Studio Code, Visual Studio, Android Studio, Unity, Unreal Engine.
 - Software: Windows, Linux, Ubuntu, CentOS, Office (Word, Excel, PowerPoint etc.), git, GitHub,
 GitHub Workflow/Action, GitLab, Docker, JIRA, Slack, MySQL, MariaDB, PostgreSQL.
@@ -76,6 +70,10 @@ Node.js, Electron, Java AWT/Swing/FX, REST APIs, Swagger/OpenAPI, Webhooks, HTTP
 LibGDX, Maven, Gradle, Blender Plugin API, Wix API, Twilio API, Google Maps API.
 - Sites: [osiristeam.com](https://osiristeam.com/), Services: [autoplug.one](https://autoplug.one), [jutpack.com](https://jutpack.com)
 
+<div>
+    <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/languages.svg"></img>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
+</div>
 
 ### Core Competencies
 - **Java**: Cross-platform server, desktop, mobile, and web development.
