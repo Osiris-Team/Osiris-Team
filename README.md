@@ -6,7 +6,6 @@
 </div>
 
 <div align="center">
-    
     <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/overview.svg"></img>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
 </div>
@@ -65,7 +64,6 @@ The exact hourly rates are specific to the client and project, thus feel free to
 ### Technologies
 
 <div align="center">
-    
     <img src="https://raw.githubusercontent.com/Osiris-Team/my-stats/master/generated/languages.svg"></img>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Osiris-Team&rank_icon=percentile"></img>-->
 </div>
